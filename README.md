@@ -1,0 +1,98 @@
+# Cole Porter dataset
+
+Lyrics aligned to notated melody, at the syllable, for songs where **Cole Porter
+wrote both the words and the music**.
+
+Each row is one note, carrying the syllable sung on it, the chord sounding at
+its onset, its pitch and its duration — in absolute terms and in key-invariant
+ones. Chord corpora are plentiful and lyric corpora are plentiful; lyrics
+aligned to *notated* melody at the syllable are not.
+
+```
+song,bar,midi,pitch_name,note_type,duration_q,syllable,melisma,chord_root,chord_quality,pc_rel_tonic,chord_root_rel,pc_rel_chord
+Night and Day,2,69,A4,quarter,1.0,"beat,",False,D,dim,7,1,6
+```
+
+| | |
+|---|---|
+| songs | 14 |
+| note events | 1,978 |
+| syllable-to-note attachment points | 1,695 |
+| melisma rate | 15.5% |
+
+Transcribed from engraved editions of each song. The source scores are not
+redistributed here.
+
+## The unit of analysis
+
+The atom is the **syllable-to-note attachment point**, with the chord sounding
+at onset — not the word.
+
+In sung music one word routinely spans several notes and crosses a chord
+change: *love* held four beats through a ii–V. Collapsing that to a single
+"word" makes every downstream result an artefact of how multi-note words were
+merged. So every note is its own row, and a word held over *k* notes appears as
+one attachment plus *k*−1 melisma continuations, flagged in `melisma` rather
+than collapsed. Collapsing is a downstream choice and is left downstream.
+
+The 15.5% melisma rate is how much of the data a word-level unit would have had
+to invent a rule for.
+
+## Columns
+
+**Identity**
+
+| | |
+|---|---|
+| `song` | title |
+| `bar` | bar number, counting the anacrusis as bar 1 |
+| `page`, `system`, `x` | position in the engraved source |
+
+**Pitch** — `midi`, `pitch_name` (e.g. `Bb4`), `dia` (diatonic index, C4 = 0),
+`alter` (semitone alteration applied)
+
+**Rhythm** — `note_type` (`whole`…`32nd`), `dots`, `tuplet`, `duration_q`
+(duration in quarter notes, dots and tuplets applied)
+
+**Words** — `syllable` (empty on a melisma continuation), `word_start` (false
+when this syllable continues the previous word), `hyphen_after`, `melisma`
+
+**Harmony** — `chord_raw` (symbol as printed), `chord_root`, `chord_quality`
+
+**Key-invariant views** — `pc_rel_tonic` (pitch class above the tonic, 0–11),
+`chord_root_rel` (chord root above the tonic), `pc_rel_chord` (pitch class above
+the chord root)
+
+The absolute and relative columns are both present so an analysis can use
+either, and so nothing depends on the tonic estimate being right. The tonic is
+taken from each song's final chord.
+
+## Files
+
+| | |
+|---|---|
+| `dataset/attachments.csv` | one row per note event, all songs |
+| `dataset/manifest.csv` | per-song key, mode, bar and event counts |
+| `dataset/<song>.json` | the same rows, per song |
+| `dataset/features.json` | aggregate distributions over chord quality, scale degree, relative chord root and duration |
+
+## Notes on the data
+
+- **42 distinct chord-quality strings.** The symbol is kept exactly as printed
+  rather than normalised to a taxonomy, so that choice stays with whoever makes
+  it.
+- **Verse 2 is not captured.** Where a chart prints a second stanza under the
+  first, only the first is included.
+- **Section boundaries are not marked.** Verse and chorus often differ in mode,
+  and the tonic is song-level, so a minor-mode verse carries degrees relative to
+  a major-mode tonic.
+- Hyphen side-assignment occasionally slips by one (`un der-` for `un- der`).
+  Syllable boundaries are unaffected; word reconstruction is.
+
+## Licence
+
+The MIT licence covers any code here. It does not and cannot grant rights in
+Cole Porter's songs, which remain in copyright. These rows are published as
+research data — counts, features and alignments for text and data mining — and
+are not a substitute for the works. If you hold rights in this material and
+want something removed, open an issue and it will be taken down.

@@ -1,0 +1,11 @@
+# Source PDFs are not redistributable. The manifest names every edition and
+# its URL so the dataset can be rebuilt from them.
+data/
+.venv/
+__pycache__/
+*.pyc
+
+# internal research scoping, not part of the dataset
+readme.md
+0*.py
+sources.json
