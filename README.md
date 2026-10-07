@@ -15,10 +15,10 @@ Night and Day,2,69,A4,quarter,1.0,"beat,",False,D,dim,7,1,6
 
 | | |
 |---|---|
-| songs | 20 |
-| note events | 2,770 |
-| syllable-to-note attachment points | 2,404 |
-| melisma rate | 13.2% |
+| songs | 21 |
+| note events | 2,894 |
+| syllable-to-note attachment points | 2,504 |
+| melisma rate | 13.5% |
 
 Every song is by Cole Porter, words and music, bar one that is marked. Transcribed from engraved
 editions of each song. The source scores are not
@@ -38,6 +38,7 @@ redistributed here.
 | Get Out Of Town | G minor | missing | 34 | 118 | 87 |
 | I Concentrate On You | C | none known | 72 | 163 | 141 |
 | I've Got You Under My Skin | Eb | none known | 63 | 200 | 174 |
+| In the Still of the Night | F | none known | 77 | 124 | 100 |
 | It's All Right With Me | C | none known | 61 | 146 | 124 |
 | Just One of Those Things | F | none known | 63 | 146 | 120 |
 | Love For Sale | Bb minor | yes | 84 | 213 | 196 |
@@ -48,7 +49,7 @@ redistributed here.
 | You Do Something To Me | Eb | missing | 32 | 64 | 60 |
 | You'd Be So Nice To Come Home To | F minor | none known | 30 | 76 | 57 |
 | You're The Top | F | yes | 51 | 179 | 146 |
-| **20 songs** | | | **945** | **2,770** | **2,404** |
+| **21 songs** | | | **1022** | **2,894** | **2,504** |
 
 Where a song has a verse it is part of the same song, with bars running
 continuously from the verse into the chorus. "missing" means a verse exists in
