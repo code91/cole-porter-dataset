@@ -15,10 +15,10 @@ Night and Day,2,69,A4,quarter,1.0,"beat,",False,D,dim,7,1,6
 
 | | |
 |---|---|
-| songs | 18 |
-| note events | 2,522 |
-| syllable-to-note attachment points | 2,182 |
-| melisma rate | 13.5% |
+| songs | 19 |
+| note events | 2,624 |
+| syllable-to-note attachment points | 2,284 |
+| melisma rate | 13.0% |
 
 Every song is by Cole Porter, words and music, bar one that is marked. Transcribed from engraved
 editions of each song. The source scores are not
@@ -41,12 +41,13 @@ redistributed here.
 | It's All Right With Me | C | none known | 61 | 146 | 124 |
 | Love For Sale | Bb minor | yes | 84 | 213 | 196 |
 | Night and Day | D | yes | 64 | 233 | 196 |
-| Too Darn Hot | G minor | none known | 22 | 79 | 64 |
+| Too Darn Hot | C minor | none known | 22 | 79 | 64 |
+| Well, Did You Evah! | F | none known | 34 | 102 | 102 |
 | What Is This Thing Called Love | A | yes | 49 | 131 | 117 |
 | You Do Something To Me | Eb | missing | 32 | 64 | 60 |
 | You'd Be So Nice To Come Home To | F minor | none known | 30 | 76 | 57 |
 | You're The Top | F | yes | 51 | 179 | 146 |
-| **18 songs** | | | **848** | **2,522** | **2,182** |
+| **19 songs** | | | **882** | **2,624** | **2,284** |
 
 Where a song has a verse it is part of the same song, with bars running
 continuously from the verse into the chorus. "missing" means a verse exists in

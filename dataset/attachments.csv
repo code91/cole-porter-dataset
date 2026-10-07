@@ -2366,85 +2366,85 @@ Don't Fence Me In,32,69,A4,5,0,quarter,0,1,1.0,fence,True,False,False,c9,C,9,4,7
 Don't Fence Me In,32,67,G4,4,0,eighth,0,1,0.5,me,True,False,False,c9,C,9,2,7,7,printed
 Don't Fence Me In,32,65,F4,3,0,eighth,0,1,0.5,in.,True,False,False,f6,F,6,0,0,0,printed
 Don't Fence Me In,33,65,F4,3,0,half,1,1,3.0,,,,True,f6,F,6,0,0,0,printed
-Too Darn Hot,1,55,G3,-3,0,quarter,0,1,1.0,It’s,True,False,False,,,,0,,,printed
-Too Darn Hot,2,60,C4,0,0,half,0,1,2.0,too,True,False,False,Cm,C,m,5,5,0,printed
-Too Darn Hot,2,58,Bb3,-1,-1,half,0,1,2.0,darn,True,False,False,Gm7,G,m7,3,0,3,printed
-Too Darn Hot,3,55,G3,-3,0,quarter,0,1,1.0,hot.,True,False,False,cm,C,m,0,5,7,printed
-Too Darn Hot,3,55,G3,-3,0,quarter,0,1,1.0,It’s,True,False,False,g7,G,7,0,0,0,printed
-Too Darn Hot,4,60,C4,0,0,half,0,1,2.0,too,True,False,False,cm,C,m,5,5,0,printed
-Too Darn Hot,4,58,Bb3,-1,-1,half,0,1,2.0,darn,True,False,False,Gm7,G,m7,3,0,3,printed
-Too Darn Hot,5,55,G3,-3,0,quarter,0,1,1.0,hot.,True,False,False,Cm,C,m,0,5,7,printed
-Too Darn Hot,5,55,G3,-3,0,quarter,0,1,1.0,I’d,True,False,False,g7,G,7,0,0,0,printed
-Too Darn Hot,6,60,C4,0,0,quarter,0,1,1.0,like,True,False,False,cm,C,m,5,5,0,printed
-Too Darn Hot,6,62,D4,1,0,eighth,0,1,0.5,to,True,False,False,cm,C,m,7,5,2,printed
-Too Darn Hot,6,64,E4,2,0,eighth,0,1,0.5,sup,True,False,False,cm,C,m,9,5,4,printed
-Too Darn Hot,6,64,E4,2,0,half,0,1,2.0,,,,True,cm,C,m,9,5,4,printed
-Too Darn Hot,7,64,E4,2,0,eighth,0,1,0.5,,,,True,cm,C,m,9,5,4,printed
-Too Darn Hot,7,64,E4,2,0,quarter,0,1,1.0,with,True,False,False,cm,C,m,9,5,4,printed
-Too Darn Hot,7,60,C4,0,0,eighth,0,1,0.5,my,True,False,False,cm,C,m,5,5,0,printed
-Too Darn Hot,7,64,E4,2,0,eighth,0,1,0.5,ba,True,True,False,cm,C,m,9,5,4,printed
-Too Darn Hot,7,62,D4,1,0,eighth,0,1,0.5,by,False,False,False,cm,C,m,7,5,2,printed
-Too Darn Hot,7,60,C4,0,0,eighth,0,1,0.5,to,True,True,False,cm,C,m,5,5,0,printed
-Too Darn Hot,7,62,D4,1,0,eighth,0,1,0.5,"night,",False,False,False,cm,C,m,7,5,2,printed
-Too Darn Hot,8,62,D4,1,0,whole,0,1,4.0,,,,True,G7s4,G,7s4,7,0,7,printed
-Too Darn Hot,9,62,D4,1,0,quarter,0,1,1.0,,,,True,G7,G,7,7,0,7,printed
-Too Darn Hot,9,55,G3,-3,0,quarter,0,1,1.0,and,True,False,False,G7,G,7,0,0,0,printed
-Too Darn Hot,10,60,C4,0,0,quarter,0,1,1.0,play,True,False,False,Cm,C,m,5,5,0,printed
-Too Darn Hot,10,62,D4,1,0,eighth,0,1,0.5,the,True,False,False,Cm,C,m,7,5,2,printed
-Too Darn Hot,10,64,E4,2,0,eighth,0,1,0.5,pup,True,False,False,Cm,C,m,9,5,4,printed
-Too Darn Hot,10,64,E4,2,0,half,0,1,2.0,,,,True,Cm,C,m,9,5,4,printed
-Too Darn Hot,11,64,E4,2,0,eighth,0,1,0.5,,,,True,Cm,C,m,9,5,4,printed
-Too Darn Hot,11,64,E4,2,0,quarter,0,1,1.0,with,True,False,False,Cm,C,m,9,5,4,printed
-Too Darn Hot,11,60,C4,0,0,eighth,0,1,0.5,my,True,False,False,Cm,C,m,5,5,0,printed
-Too Darn Hot,11,64,E4,2,0,eighth,0,1,0.5,ba,True,True,False,Cm,C,m,9,5,4,printed
-Too Darn Hot,11,62,D4,1,0,eighth,0,1,0.5,by,False,False,False,Cm,C,m,7,5,2,printed
-Too Darn Hot,11,60,C4,0,0,eighth,0,1,0.5,to,True,True,False,Cm,C,m,5,5,0,printed
-Too Darn Hot,11,62,D4,1,0,eighth,0,1,0.5,night.,False,False,False,Cm,C,m,7,5,2,printed
-Too Darn Hot,12,62,D4,1,0,whole,0,1,4.0,,,,True,g7s4,G,7s4,7,0,7,printed
-Too Darn Hot,13,62,D4,1,0,quarter,0,1,1.0,,,,True,g7,G,7,7,0,7,printed
-Too Darn Hot,13,55,G3,-3,0,quarter,0,1,1.0,I’d,True,False,False,g7,G,7,0,0,0,printed
-Too Darn Hot,14,60,C4,0,0,quarter,0,1,1.0,like,True,False,False,c,C,,5,5,0,printed
-Too Darn Hot,14,62,D4,1,0,eighth,0,1,0.5,to,True,False,False,c,C,,7,5,2,printed
-Too Darn Hot,14,64,E4,2,0,eighth,0,1,0.5,sup,True,False,False,c,C,,9,5,4,printed
-Too Darn Hot,14,64,E4,2,0,eighth,0,1,0.5,,,,True,C7,C,7,9,5,4,printed
-Too Darn Hot,14,64,E4,2,0,quarter,0,1,1.0,with,True,False,False,C7,C,7,9,5,4,printed
-Too Darn Hot,14,60,C4,0,0,eighth,0,1,0.5,my,True,False,False,C7,C,7,5,5,0,printed
-Too Darn Hot,15,64,E4,2,0,eighth,0,1,0.5,ba,True,True,False,Dm7,D,m7,9,7,2,printed
-Too Darn Hot,15,62,D4,1,0,eighth,0,1,0.5,by,False,False,False,Dm7,D,m7,7,7,0,printed
-Too Darn Hot,15,60,C4,0,0,eighth,0,1,0.5,to,True,True,False,Dm7,D,m7,5,7,10,printed
-Too Darn Hot,15,62,D4,1,0,eighth,0,1,0.5,"night,",False,False,False,Dm7,D,m7,7,7,0,printed
-Too Darn Hot,15,62,D4,1,0,eighth,0,1,0.5,,,,True,G7,G,7,7,0,7,printed
-Too Darn Hot,15,55,G3,-3,0,quarter,0,1,1.0,and,True,False,False,G7,G,7,0,0,0,printed
-Too Darn Hot,16,64,E4,2,0,quarter,0,1,1.0,play,True,False,False,c,C,,9,5,4,printed
-Too Darn Hot,16,65,F4,3,0,eighth,0,1,0.5,the,True,False,False,c,C,,10,5,5,printed
-Too Darn Hot,16,67,G4,4,0,eighth,0,1,0.5,pup,True,False,False,c,C,,0,5,7,printed
-Too Darn Hot,16,67,G4,4,0,eighth,0,1,0.5,,,,True,C7,C,7,0,5,7,printed
-Too Darn Hot,16,67,G4,4,0,quarter,0,1,1.0,with,True,False,False,C7,C,7,0,5,7,printed
-Too Darn Hot,16,64,E4,2,0,eighth,0,1,0.5,my,True,False,False,C7,C,7,9,5,4,printed
-Too Darn Hot,17,67,G4,4,0,eighth,0,1,0.5,ba,True,True,False,g7,G,7,0,0,0,printed
-Too Darn Hot,17,65,F4,3,0,eighth,0,1,0.5,by,False,False,False,g7,G,7,10,0,10,printed
-Too Darn Hot,17,64,E4,2,0,eighth,0,1,0.5,to,True,True,False,g7,G,7,9,0,9,printed
-Too Darn Hot,17,65,F4,3,0,eighth,0,1,0.5,night.,False,False,False,g7,G,7,10,0,10,printed
-Too Darn Hot,17,65,F4,3,0,eighth,0,1,0.5,,,,True,Dm7,D,m7,10,7,3,printed
-Too Darn Hot,17,62,D4,1,0,quarter,0,1,1.0,But,True,False,False,Dm7,D,m7,7,7,0,printed
-Too Darn Hot,18,67,G4,4,0,quarter,0,1,1.0,I,True,False,False,Gm,G,m,0,0,0,printed
-Too Darn Hot,18,69,A4,5,0,eighth,0,1,0.5,ain’t,True,False,False,Gm,G,m,2,0,2,printed
-Too Darn Hot,18,71,B4,6,0,eighth,0,1,0.5,up,True,False,False,Gm,G,m,4,0,4,printed
-Too Darn Hot,18,71,B4,6,0,eighth,0,1,0.5,,,,True,C7,C,7,4,5,11,printed
-Too Darn Hot,18,71,B4,6,0,quarter,0,1,1.0,to,True,False,False,C7,C,7,4,5,11,printed
-Too Darn Hot,18,67,G4,4,0,eighth,0,1,0.5,my,True,False,False,C7,C,7,0,5,7,printed
-Too Darn Hot,19,71,B4,6,0,eighth,0,1,0.5,ba,True,True,False,gm,G,m,4,0,4,printed
-Too Darn Hot,19,69,A4,5,0,eighth,0,1,0.5,by,False,False,False,gm,G,m,2,0,2,printed
-Too Darn Hot,19,67,G4,4,0,eighth,0,1,0.5,to,True,True,False,gm,G,m,0,0,0,printed
-Too Darn Hot,19,69,A4,5,0,eighth,0,1,0.5,night,False,False,False,gm,G,m,2,0,2,printed
-Too Darn Hot,19,69,A4,5,0,eighth,0,1,0.5,,,,True,G9,G,9,2,0,2,printed
-Too Darn Hot,19,67,G4,4,0,quarter,0,1,1.0,’cause,True,False,False,G9,G,9,0,0,0,printed
-Too Darn Hot,19,65,F4,3,0,eighth,0,1,0.5,it's,True,False,False,G9,G,9,10,0,10,printed
-Too Darn Hot,20,64,E4,2,0,half,0,1,2.0,too,True,False,False,cm,C,m,9,5,4,printed
-Too Darn Hot,20,62,D4,1,0,half,0,1,2.0,darn,True,False,False,gm7,G,m7,7,0,7,printed
-Too Darn Hot,21,60,C4,0,0,quarter,0,1,1.0,hot.,True,False,False,gm7,G,m7,5,0,5,printed
-Too Darn Hot,21,55,G3,-3,0,quarter,0,1,1.0,It’s,True,False,False,G7,G,7,0,0,0,printed
-Too Darn Hot,22,60,C4,0,0,quarter,0,1,1.0,,,,True,G7,G,7,5,0,5,printed
+Too Darn Hot,1,55,G3,-3,0,quarter,0,1,1.0,It’s,True,False,False,,,,7,,,printed
+Too Darn Hot,2,60,C4,0,0,half,0,1,2.0,too,True,False,False,Cm,C,m,0,0,0,printed
+Too Darn Hot,2,58,Bb3,-1,-1,half,0,1,2.0,darn,True,False,False,Gm7,G,m7,10,7,3,printed
+Too Darn Hot,3,55,G3,-3,0,quarter,0,1,1.0,hot.,True,False,False,cm,C,m,7,0,7,printed
+Too Darn Hot,3,55,G3,-3,0,quarter,0,1,1.0,It’s,True,False,False,g7,G,7,7,7,0,printed
+Too Darn Hot,4,60,C4,0,0,half,0,1,2.0,too,True,False,False,cm,C,m,0,0,0,printed
+Too Darn Hot,4,58,Bb3,-1,-1,half,0,1,2.0,darn,True,False,False,Gm7,G,m7,10,7,3,printed
+Too Darn Hot,5,55,G3,-3,0,quarter,0,1,1.0,hot.,True,False,False,Cm,C,m,7,0,7,printed
+Too Darn Hot,5,55,G3,-3,0,quarter,0,1,1.0,I’d,True,False,False,g7,G,7,7,7,0,printed
+Too Darn Hot,6,60,C4,0,0,quarter,0,1,1.0,like,True,False,False,cm,C,m,0,0,0,printed
+Too Darn Hot,6,62,D4,1,0,eighth,0,1,0.5,to,True,False,False,cm,C,m,2,0,2,printed
+Too Darn Hot,6,64,E4,2,0,eighth,0,1,0.5,sup,True,False,False,cm,C,m,4,0,4,printed
+Too Darn Hot,6,64,E4,2,0,half,0,1,2.0,,,,True,cm,C,m,4,0,4,printed
+Too Darn Hot,7,64,E4,2,0,eighth,0,1,0.5,,,,True,cm,C,m,4,0,4,printed
+Too Darn Hot,7,64,E4,2,0,quarter,0,1,1.0,with,True,False,False,cm,C,m,4,0,4,printed
+Too Darn Hot,7,60,C4,0,0,eighth,0,1,0.5,my,True,False,False,cm,C,m,0,0,0,printed
+Too Darn Hot,7,64,E4,2,0,eighth,0,1,0.5,ba,True,True,False,cm,C,m,4,0,4,printed
+Too Darn Hot,7,62,D4,1,0,eighth,0,1,0.5,by,False,False,False,cm,C,m,2,0,2,printed
+Too Darn Hot,7,60,C4,0,0,eighth,0,1,0.5,to,True,True,False,cm,C,m,0,0,0,printed
+Too Darn Hot,7,62,D4,1,0,eighth,0,1,0.5,"night,",False,False,False,cm,C,m,2,0,2,printed
+Too Darn Hot,8,62,D4,1,0,whole,0,1,4.0,,,,True,G7s4,G,7s4,2,7,7,printed
+Too Darn Hot,9,62,D4,1,0,quarter,0,1,1.0,,,,True,G7,G,7,2,7,7,printed
+Too Darn Hot,9,55,G3,-3,0,quarter,0,1,1.0,and,True,False,False,G7,G,7,7,7,0,printed
+Too Darn Hot,10,60,C4,0,0,quarter,0,1,1.0,play,True,False,False,Cm,C,m,0,0,0,printed
+Too Darn Hot,10,62,D4,1,0,eighth,0,1,0.5,the,True,False,False,Cm,C,m,2,0,2,printed
+Too Darn Hot,10,64,E4,2,0,eighth,0,1,0.5,pup,True,False,False,Cm,C,m,4,0,4,printed
+Too Darn Hot,10,64,E4,2,0,half,0,1,2.0,,,,True,Cm,C,m,4,0,4,printed
+Too Darn Hot,11,64,E4,2,0,eighth,0,1,0.5,,,,True,Cm,C,m,4,0,4,printed
+Too Darn Hot,11,64,E4,2,0,quarter,0,1,1.0,with,True,False,False,Cm,C,m,4,0,4,printed
+Too Darn Hot,11,60,C4,0,0,eighth,0,1,0.5,my,True,False,False,Cm,C,m,0,0,0,printed
+Too Darn Hot,11,64,E4,2,0,eighth,0,1,0.5,ba,True,True,False,Cm,C,m,4,0,4,printed
+Too Darn Hot,11,62,D4,1,0,eighth,0,1,0.5,by,False,False,False,Cm,C,m,2,0,2,printed
+Too Darn Hot,11,60,C4,0,0,eighth,0,1,0.5,to,True,True,False,Cm,C,m,0,0,0,printed
+Too Darn Hot,11,62,D4,1,0,eighth,0,1,0.5,night.,False,False,False,Cm,C,m,2,0,2,printed
+Too Darn Hot,12,62,D4,1,0,whole,0,1,4.0,,,,True,g7s4,G,7s4,2,7,7,printed
+Too Darn Hot,13,62,D4,1,0,quarter,0,1,1.0,,,,True,g7,G,7,2,7,7,printed
+Too Darn Hot,13,55,G3,-3,0,quarter,0,1,1.0,I’d,True,False,False,g7,G,7,7,7,0,printed
+Too Darn Hot,14,60,C4,0,0,quarter,0,1,1.0,like,True,False,False,c,C,,0,0,0,printed
+Too Darn Hot,14,62,D4,1,0,eighth,0,1,0.5,to,True,False,False,c,C,,2,0,2,printed
+Too Darn Hot,14,64,E4,2,0,eighth,0,1,0.5,sup,True,False,False,c,C,,4,0,4,printed
+Too Darn Hot,14,64,E4,2,0,eighth,0,1,0.5,,,,True,C7,C,7,4,0,4,printed
+Too Darn Hot,14,64,E4,2,0,quarter,0,1,1.0,with,True,False,False,C7,C,7,4,0,4,printed
+Too Darn Hot,14,60,C4,0,0,eighth,0,1,0.5,my,True,False,False,C7,C,7,0,0,0,printed
+Too Darn Hot,15,64,E4,2,0,eighth,0,1,0.5,ba,True,True,False,Dm7,D,m7,4,2,2,printed
+Too Darn Hot,15,62,D4,1,0,eighth,0,1,0.5,by,False,False,False,Dm7,D,m7,2,2,0,printed
+Too Darn Hot,15,60,C4,0,0,eighth,0,1,0.5,to,True,True,False,Dm7,D,m7,0,2,10,printed
+Too Darn Hot,15,62,D4,1,0,eighth,0,1,0.5,"night,",False,False,False,Dm7,D,m7,2,2,0,printed
+Too Darn Hot,15,62,D4,1,0,eighth,0,1,0.5,,,,True,G7,G,7,2,7,7,printed
+Too Darn Hot,15,55,G3,-3,0,quarter,0,1,1.0,and,True,False,False,G7,G,7,7,7,0,printed
+Too Darn Hot,16,64,E4,2,0,quarter,0,1,1.0,play,True,False,False,c,C,,4,0,4,printed
+Too Darn Hot,16,65,F4,3,0,eighth,0,1,0.5,the,True,False,False,c,C,,5,0,5,printed
+Too Darn Hot,16,67,G4,4,0,eighth,0,1,0.5,pup,True,False,False,c,C,,7,0,7,printed
+Too Darn Hot,16,67,G4,4,0,eighth,0,1,0.5,,,,True,C7,C,7,7,0,7,printed
+Too Darn Hot,16,67,G4,4,0,quarter,0,1,1.0,with,True,False,False,C7,C,7,7,0,7,printed
+Too Darn Hot,16,64,E4,2,0,eighth,0,1,0.5,my,True,False,False,C7,C,7,4,0,4,printed
+Too Darn Hot,17,67,G4,4,0,eighth,0,1,0.5,ba,True,True,False,g7,G,7,7,7,0,printed
+Too Darn Hot,17,65,F4,3,0,eighth,0,1,0.5,by,False,False,False,g7,G,7,5,7,10,printed
+Too Darn Hot,17,64,E4,2,0,eighth,0,1,0.5,to,True,True,False,g7,G,7,4,7,9,printed
+Too Darn Hot,17,65,F4,3,0,eighth,0,1,0.5,night.,False,False,False,g7,G,7,5,7,10,printed
+Too Darn Hot,17,65,F4,3,0,eighth,0,1,0.5,,,,True,Dm7,D,m7,5,2,3,printed
+Too Darn Hot,17,62,D4,1,0,quarter,0,1,1.0,But,True,False,False,Dm7,D,m7,2,2,0,printed
+Too Darn Hot,18,67,G4,4,0,quarter,0,1,1.0,I,True,False,False,Gm,G,m,7,7,0,printed
+Too Darn Hot,18,69,A4,5,0,eighth,0,1,0.5,ain’t,True,False,False,Gm,G,m,9,7,2,printed
+Too Darn Hot,18,71,B4,6,0,eighth,0,1,0.5,up,True,False,False,Gm,G,m,11,7,4,printed
+Too Darn Hot,18,71,B4,6,0,eighth,0,1,0.5,,,,True,C7,C,7,11,0,11,printed
+Too Darn Hot,18,71,B4,6,0,quarter,0,1,1.0,to,True,False,False,C7,C,7,11,0,11,printed
+Too Darn Hot,18,67,G4,4,0,eighth,0,1,0.5,my,True,False,False,C7,C,7,7,0,7,printed
+Too Darn Hot,19,71,B4,6,0,eighth,0,1,0.5,ba,True,True,False,gm,G,m,11,7,4,printed
+Too Darn Hot,19,69,A4,5,0,eighth,0,1,0.5,by,False,False,False,gm,G,m,9,7,2,printed
+Too Darn Hot,19,67,G4,4,0,eighth,0,1,0.5,to,True,True,False,gm,G,m,7,7,0,printed
+Too Darn Hot,19,69,A4,5,0,eighth,0,1,0.5,night,False,False,False,gm,G,m,9,7,2,printed
+Too Darn Hot,19,69,A4,5,0,eighth,0,1,0.5,,,,True,G9,G,9,9,7,2,printed
+Too Darn Hot,19,67,G4,4,0,quarter,0,1,1.0,’cause,True,False,False,G9,G,9,7,7,0,printed
+Too Darn Hot,19,65,F4,3,0,eighth,0,1,0.5,it's,True,False,False,G9,G,9,5,7,10,printed
+Too Darn Hot,20,64,E4,2,0,half,0,1,2.0,too,True,False,False,cm,C,m,4,0,4,printed
+Too Darn Hot,20,62,D4,1,0,half,0,1,2.0,darn,True,False,False,gm7,G,m7,2,7,7,printed
+Too Darn Hot,21,60,C4,0,0,quarter,0,1,1.0,hot.,True,False,False,gm7,G,m7,0,7,5,printed
+Too Darn Hot,21,55,G3,-3,0,quarter,0,1,1.0,It’s,True,False,False,G7,G,7,7,7,0,printed
+Too Darn Hot,22,60,C4,0,0,quarter,0,1,1.0,,,,True,G7,G,7,0,7,5,printed
 You'd Be So Nice To Come Home To,1,65,F4,,,quarter,0,1,1.0,You'd,True,False,False,,,,0,,,printed
 You'd Be So Nice To Come Home To,1,67,G4,,,quarter,0,1,1.0,be,True,False,False,,,,2,,,printed
 You'd Be So Nice To Come Home To,2,68,Ab4,,,whole,0,1,4.0,so,True,False,False,Fm6,F,m6,3,0,3,printed
@@ -2521,3 +2521,105 @@ You'd Be So Nice To Come Home To,28,71,B4,,,half,0,1,2.0,to,True,False,False,E7,
 You'd Be So Nice To Come Home To,29,70,Bb4,,,half,0,1,2.0,,,,True,D7b13,D,7b13,5,9,8,printed
 You'd Be So Nice To Come Home To,29,70,Bb4,,,half,0,1,2.0,and,True,False,False,Eb7,Eb,7,5,10,7,printed
 You'd Be So Nice To Come Home To,30,68,Ab4,,,half,0,1,2.0,love.,True,False,False,Ab,Ab,,3,3,0,printed
+"Well, Did You Evah!",1,60,C4,0,0,quarter,0,1,1.0,Have,True,False,False,F,F,,7,0,7,printed
+"Well, Did You Evah!",1,69,A4,5,0,quarter,0,1,1.0,you,True,False,False,F,F,,4,0,4,printed
+"Well, Did You Evah!",1,69,A4,5,0,quarter,1,1,1.5,heard?,True,False,False,F,F,,4,0,4,printed
+"Well, Did You Evah!",1,60,C4,0,0,eighth,0,1,0.5,The,True,False,False,F,F,,7,0,7,printed
+"Well, Did You Evah!",2,59,B3,-1,0,quarter,0,1,1.0,coast,True,False,False,Bdim,B,dim,6,6,0,printed
+"Well, Did You Evah!",2,68,Ab4,5,-1,quarter,0,1,1.0,of,True,False,False,Bdim,B,dim,3,6,9,printed
+"Well, Did You Evah!",2,68,Ab4,5,-1,half,0,1,2.0,Maine,True,False,False,Bdim,B,dim,3,6,9,printed
+"Well, Did You Evah!",3,58,Bb3,-1,-1,quarter,0,1,1.0,just,True,False,False,C7,C,7,5,7,10,printed
+"Well, Did You Evah!",3,67,G4,4,0,quarter,0,1,1.0,got,True,False,False,C7,C,7,2,7,7,printed
+"Well, Did You Evah!",3,67,G4,4,0,quarter,0,1,1.0,hit,True,False,False,C7,C,7,2,7,7,printed
+"Well, Did You Evah!",3,65,F4,3,0,eighth,0,1,0.5,by,True,False,False,C7,C,7,0,7,5,printed
+"Well, Did You Evah!",3,64,E4,2,0,eighth,0,1,0.5,a,True,False,False,C7,C,7,11,7,4,printed
+"Well, Did You Evah!",4,65,F4,3,0,quarter,0,1,1.0,hur,True,False,False,F,F,,0,0,0,printed
+"Well, Did You Evah!",4,69,A4,5,0,quarter,0,1,1.0,ri,True,False,False,F,F,,4,0,4,printed
+"Well, Did You Evah!",4,60,C4,0,0,half,0,1,2.0,cane?,True,False,False,F,F,,7,0,7,printed
+"Well, Did You Evah!",5,71,Cb5,7,-1,half,0,1,2.0,"WELL,",True,False,False,C-,C,-,6,7,11,printed
+"Well, Did You Evah!",5,71,Cb5,7,-1,quarter,1,1,1.5,DID,True,False,False,D7,D,7,6,9,9,printed
+"Well, Did You Evah!",5,74,D5,8,0,eighth,0,1,0.5,YOU,True,False,False,D7,D,7,9,9,0,printed
+"Well, Did You Evah!",6,72,C5,7,0,quarter,0,1,1.0,EV,True,False,False,D7,D,7,7,9,10,printed
+"Well, Did You Evah!",6,70,Bb4,6,-1,half,0,1,2.0,AH?,True,False,False,G-,G,-,5,2,3,printed
+"Well, Did You Evah!",6,65,F4,3,0,eighth,0,1,0.5,What,True,False,False,G7b5,G,7b5,0,2,10,printed
+"Well, Did You Evah!",6,67,G4,4,0,eighth,0,1,0.5,a,True,False,False,G7b5,G,7b5,2,2,0,printed
+"Well, Did You Evah!",7,69,A4,5,0,quarter,1,1,1.5,swell,True,False,False,F,F,,4,0,4,printed
+"Well, Did You Evah!",7,69,A4,5,0,quarter,0,1,1.0,par,True,False,False,D-6,D,-6,4,9,7,printed
+"Well, Did You Evah!",7,68,G#4,4,1,eighth,0,1,0.5,ty,True,False,False,D-6,D,-6,3,9,6,printed
+"Well, Did You Evah!",7,69,A4,5,0,quarter,0,1,1.0,this,True,False,False,B7,B,7,4,6,10,printed
+"Well, Did You Evah!",8,60,C4,0,0,quarter,0,1,1.0,Have,True,False,False,F,F,,7,0,7,printed
+"Well, Did You Evah!",8,69,A4,5,0,quarter,0,1,1.0,you,True,False,False,F,F,,4,0,4,printed
+"Well, Did You Evah!",8,69,A4,5,0,quarter,1,1,1.5,heard,True,False,False,F,F,,4,0,4,printed
+"Well, Did You Evah!",8,60,C4,0,0,eighth,0,1,0.5,that,True,False,False,F,F,,7,0,7,printed
+"Well, Did You Evah!",9,59,B3,-1,0,quarter,0,1,1.0,poor,True,False,False,Bdim,B,dim,6,6,0,printed
+"Well, Did You Evah!",9,68,Ab4,5,-1,quarter,0,1,1.0,dear,True,False,False,Bdim,B,dim,3,6,9,printed
+"Well, Did You Evah!",9,68,Ab4,5,-1,half,0,1,2.0,Blanche,True,False,False,Bdim,B,dim,3,6,9,printed
+"Well, Did You Evah!",10,58,Bb3,-1,-1,quarter,0,1,1.0,got,True,False,False,C7,C,7,5,7,10,printed
+"Well, Did You Evah!",10,67,G4,4,0,quarter,0,1,1.0,run,True,False,False,C7,C,7,2,7,7,printed
+"Well, Did You Evah!",10,67,G4,4,0,quarter,0,1,1.0,down,True,False,False,C7,C,7,2,7,7,printed
+"Well, Did You Evah!",10,65,F4,3,0,eighth,0,1,0.5,by,True,False,False,C7,C,7,0,7,5,printed
+"Well, Did You Evah!",10,64,E4,2,0,eighth,0,1,0.5,an,True,False,False,C7,C,7,11,7,4,printed
+"Well, Did You Evah!",11,65,F4,3,0,quarter,0,1,1.0,av,True,False,False,F,F,,0,0,0,printed
+"Well, Did You Evah!",11,69,A4,5,0,quarter,0,1,1.0,a,True,False,False,F,F,,4,0,4,printed
+"Well, Did You Evah!",11,60,C4,0,0,half,0,1,2.0,lanche?,True,False,False,F,F,,7,0,7,printed
+"Well, Did You Evah!",12,71,Cb5,7,-1,half,0,1,2.0,"WELL,",True,False,False,C-,C,-,6,7,11,printed
+"Well, Did You Evah!",12,71,Cb5,7,-1,quarter,1,1,1.5,DID,True,False,False,D7,D,7,6,9,9,printed
+"Well, Did You Evah!",12,74,D5,8,0,eighth,0,1,0.5,YOU,True,False,False,D7,D,7,9,9,0,printed
+"Well, Did You Evah!",13,72,C5,7,0,quarter,0,1,1.0,EV,True,False,False,D7,D,7,7,9,10,printed
+"Well, Did You Evah!",13,70,Bb4,6,-1,half,0,1,2.0,AH?,True,False,False,G-,G,-,5,2,3,printed
+"Well, Did You Evah!",13,65,F4,3,0,eighth,0,1,0.5,What,True,False,False,G7b5,G,7b5,0,2,10,printed
+"Well, Did You Evah!",13,67,G4,4,0,eighth,0,1,0.5,a,True,False,False,G7b5,G,7b5,2,2,0,printed
+"Well, Did You Evah!",14,69,A4,5,0,quarter,1,1,1.5,swell,True,False,False,F,F,,4,0,4,printed
+"Well, Did You Evah!",14,69,A4,5,0,quarter,0,1,1.0,par,True,False,False,G7,G,7,4,2,2,printed
+"Well, Did You Evah!",14,65,F4,3,0,eighth,0,1,0.5,ty,True,False,False,G7,G,7,0,2,10,printed
+"Well, Did You Evah!",14,67,G4,4,0,quarter,0,1,1.0,this,True,False,False,C7,C,7,2,7,7,printed
+"Well, Did You Evah!",15,65,F4,3,0,half,1,1,3.0,is!,True,False,False,F,F,,0,0,0,printed
+"Well, Did You Evah!",15,65,F4,3,0,quarter,0,1,1.0,What,True,False,False,F,F,,0,0,0,printed
+"Well, Did You Evah!",16,68,Ab4,5,-1,half,1,1,3.0,dai,True,False,False,D♭,Db,,3,8,7,printed
+"Well, Did You Evah!",16,61,Db4,1,-1,quarter,0,1,1.0,quir,True,False,False,D♭,Db,,8,8,0,printed
+"Well, Did You Evah!",17,60,C4,0,0,half,1,1,3.0,is!,True,False,False,A♭7,Ab,7,7,3,4,printed
+"Well, Did You Evah!",17,58,Bb3,-1,-1,quarter,0,1,1.0,What,True,False,False,A♭7,Ab,7,5,3,2,printed
+"Well, Did You Evah!",18,70,Bb4,6,-1,half,1,1,3.0,sher,True,False,False,A♭7,Ab,7,5,3,2,printed
+"Well, Did You Evah!",18,60,C4,0,0,quarter,0,1,1.0,"ry,",True,False,False,A♭7,Ab,7,7,3,4,printed
+"Well, Did You Evah!",19,61,Db4,1,-1,half,0,1,2.0,please!,True,False,False,D♭,Db,,8,8,0,printed
+"Well, Did You Evah!",19,68,Ab4,5,-1,quarter,0,1,1.0,What,True,False,False,D♭,Db,,3,8,7,printed
+"Well, Did You Evah!",20,73,Db5,8,-1,half,1,1,3.0,Bur,True,False,False,D♭,Db,,8,8,0,printed
+"Well, Did You Evah!",20,70,Bb4,6,-1,quarter,0,1,1.0,gun,True,False,False,Edim,E,dim,5,11,6,printed
+"Well, Did You Evah!",21,66,Gb4,4,-1,half,1,1,3.0,dy!,True,False,False,A♭7,Ab,7,1,3,10,printed
+"Well, Did You Evah!",21,66,Gb4,4,-1,quarter,0,1,1.0,What,True,False,False,A♭7,Ab,7,1,3,10,printed
+"Well, Did You Evah!",22,75,Eb5,9,-1,quarter,0,1,1.0,great,True,False,False,A♭7,Ab,7,10,3,7,printed
+"Well, Did You Evah!",22,75,Eb5,9,-1,half,0,1,2.0,Pom,True,False,False,A♭7,Ab,7,10,3,7,printed
+"Well, Did You Evah!",22,72,C5,7,0,quarter,0,1,1.0,mer,True,False,False,A♭7,Ab,7,7,3,4,printed
+"Well, Did You Evah!",23,68,Ab4,5,-1,half,1,1,3.0,ry!,True,False,False,D♭,Db,,3,8,7,printed
+"Well, Did You Evah!",23,65,F4,3,0,quarter,0,1,1.0,What,True,False,False,D♭,Db,,0,8,4,printed
+"Well, Did You Evah!",24,68,Ab4,5,-1,half,1,1,3.0,bran,True,False,False,D♭,Db,,3,8,7,printed
+"Well, Did You Evah!",24,61,Db4,1,-1,quarter,0,1,1.0,"dy,",True,False,False,Edim,E,dim,8,11,9,printed
+"Well, Did You Evah!",25,60,C4,0,0,half,1,1,3.0,wow!,True,False,False,A♭7,Ab,7,7,3,4,printed
+"Well, Did You Evah!",25,60,C4,0,0,quarter,0,1,1.0,What,True,False,False,A♭7,Ab,7,7,3,4,printed
+"Well, Did You Evah!",26,70,Bb4,6,-1,quarter,0,1,1.0,whis,True,False,False,A♭7,Ab,7,5,3,2,printed
+"Well, Did You Evah!",26,70,Bb4,6,-1,half,0,1,2.0,"key,",True,False,False,A♭7,Ab,7,5,3,2,printed
+"Well, Did You Evah!",26,60,C4,0,0,quarter,0,1,1.0,here's,True,False,False,A♭7,Ab,7,7,3,4,printed
+"Well, Did You Evah!",27,61,Db4,1,-1,half,1,1,3.0,how!,True,False,False,D♭,Db,,8,8,0,printed
+"Well, Did You Evah!",27,68,Ab4,5,-1,quarter,0,1,1.0,what,True,False,False,D♭,Db,,3,8,7,printed
+"Well, Did You Evah!",28,73,Db5,8,-1,quarter,0,1,1.0,gin,True,False,False,B♭-,Bb,-,8,5,3,printed
+"Well, Did You Evah!",28,73,Db5,8,-1,half,0,1,2.0,and,True,False,False,B♭-,Bb,-,8,5,3,printed
+"Well, Did You Evah!",28,70,Bb4,6,-1,quarter,0,1,1.0,what,True,False,False,B♭-,Bb,-,5,5,0,printed
+"Well, Did You Evah!",29,72,C5,7,0,whole,0,1,4.0,beer!,True,False,False,F-,F,-,7,0,7,printed
+"Well, Did You Evah!",30,71,B4,6,0,quarter,0,1,1.0,Will,True,False,False,G7,G,7,6,2,4,printed
+"Well, Did You Evah!",30,67,G4,4,0,quarter,0,1,1.0,you,True,False,False,G7,G,7,2,2,0,printed
+"Well, Did You Evah!",30,69,A4,5,0,quarter,0,1,1.0,so,True,False,False,G7,G,7,4,2,2,printed
+"Well, Did You Evah!",30,71,B4,6,0,quarter,0,1,1.0,ber,True,False,False,G7,G,7,6,2,4,printed
+"Well, Did You Evah!",31,72,C5,7,0,quarter,0,1,1.0,up,True,False,False,C,C,,7,7,0,printed
+"Well, Did You Evah!",31,60,C4,0,0,quarter,0,1,1.0,my,True,False,False,C,C,,7,7,0,printed
+"Well, Did You Evah!",31,58,Bb3,-1,-1,half,0,1,2.0,dear?,True,False,False,C,C,,5,7,10,printed
+"Well, Did You Evah!",32,71,Cb5,7,-1,half,0,1,2.0,"WELL,",True,False,False,C-,C,-,6,7,11,printed
+"Well, Did You Evah!",32,75,Eb5,9,-1,quarter,1,1,1.5,DID,True,False,False,D7,D,7,10,9,1,printed
+"Well, Did You Evah!",32,74,D5,8,0,eighth,0,1,0.5,YOU,True,False,False,D7,D,7,9,9,0,printed
+"Well, Did You Evah!",33,72,C5,7,0,quarter,0,1,1.0,EV,True,False,False,D7,D,7,7,9,10,printed
+"Well, Did You Evah!",33,70,Bb4,6,-1,half,0,1,2.0,AH?,True,False,False,G-,G,-,5,2,3,printed
+"Well, Did You Evah!",33,65,F4,3,0,eighth,0,1,0.5,What,True,False,False,G7b5,G,7b5,0,2,10,printed
+"Well, Did You Evah!",33,67,G4,4,0,eighth,0,1,0.5,a,True,False,False,G7b5,G,7b5,2,2,0,printed
+"Well, Did You Evah!",34,69,A4,5,0,quarter,1,1,1.5,swell,True,False,False,F,F,,4,0,4,printed
+"Well, Did You Evah!",34,67,G4,4,0,quarter,0,1,1.0,par,True,False,False,G7,G,7,2,2,0,printed
+"Well, Did You Evah!",34,65,F4,3,0,eighth,0,1,0.5,ty,True,False,False,G7,G,7,0,2,10,printed
+"Well, Did You Evah!",34,67,G4,4,0,quarter,0,1,1.0,this,True,False,False,C7,C,7,2,7,7,printed
