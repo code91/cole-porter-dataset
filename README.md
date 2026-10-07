@@ -16,8 +16,8 @@ Night and Day,2,69,A4,quarter,1.0,"beat,",False,D,dim,7,1,6
 | | |
 |---|---|
 | songs | 24 |
-| note events | 3,435 |
-| syllable-to-note attachment points | 2,982 |
+| note events | 3,522 |
+| syllable-to-note attachment points | 3,042 |
 | melisma rate | 13.2% |
 
 Every song is by Cole Porter, words and music, bar one that is marked. Transcribed from engraved
@@ -31,7 +31,7 @@ redistributed here.
 | All of You | Db | none known | 33 | 79 | 76 |
 | Anything Goes | C | yes | 47 | 196 | 167 |
 | At Long Last Love | Bb | none known | 33 | 97 | 85 |
-| Begin the Beguine | C | none known | 69 | 248 | 216 |
+| Begin the Beguine | C | none known | 107 | 327 | 268 |
 | Don't Fence Me In \* | F | none known | 33 | 157 | 149 |
 | Dream Dancing | Bb | missing | 54 | 127 | 109 |
 | Easy To Love | Eb | yes | 48 | 136 | 124 |
@@ -44,15 +44,15 @@ redistributed here.
 | It's All Right With Me | C | none known | 61 | 146 | 124 |
 | Just One of Those Things | F | none known | 63 | 146 | 120 |
 | Love For Sale | Bb minor | yes | 84 | 213 | 196 |
-| My Heart Belongs to Daddy | D | yes | 30 | 148 | 129 |
+| My Heart Belongs to Daddy | D | yes | 33 | 153 | 134 |
 | Night and Day | D | yes | 64 | 233 | 196 |
 | Too Darn Hot | C minor | none known | 22 | 79 | 64 |
-| Well, Did You Evah! | F | none known | 34 | 102 | 102 |
+| Well, Did You Evah! | F | none known | 36 | 104 | 104 |
 | What Is This Thing Called Love | A | yes | 49 | 131 | 117 |
 | You Do Something To Me | Eb | missing | 32 | 64 | 60 |
-| You'd Be So Nice To Come Home To | F minor | none known | 30 | 76 | 57 |
+| You'd Be So Nice To Come Home To | F minor | none known | 31 | 77 | 58 |
 | You're The Top | F | yes | 51 | 179 | 146 |
-| **24 songs** | | | **1185** | **3,435** | **2,982** |
+| **24 songs** | | | **1,229** | **3,522** | **3,042** |
 
 Where a song has a verse it is part of the same song, with bars running
 continuously from the verse into the chorus. "missing" means a verse exists in

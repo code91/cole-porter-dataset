@@ -7,6 +7,31 @@
    "bar": 1,
    "page": 1,
    "system": 0,
+   "x": 85.56,
+   "midi": 65,
+   "pitch_name": "F4",
+   "dia": 3,
+   "alter": 0,
+   "note_type": "quarter",
+   "dots": 0,
+   "tuplet": 1,
+   "duration_q": 1.0,
+   "syllable": "While",
+   "word_start": true,
+   "hyphen_after": false,
+   "melisma": false,
+   "chord_raw": null,
+   "chord_root": null,
+   "chord_quality": null,
+   "pc_rel_tonic": 3,
+   "chord_root_rel": null,
+   "pc_rel_chord": null,
+   "chord_source": "printed"
+  },
+  {
+   "bar": 2,
+   "page": 1,
+   "system": 0,
    "x": 129.72,
    "midi": 64,
    "pitch_name": "E4",
@@ -29,7 +54,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 1,
+   "bar": 2,
    "page": 1,
    "system": 0,
    "x": 157.92,
@@ -54,7 +79,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 1,
+   "bar": 2,
    "page": 1,
    "system": 0,
    "x": 175.68,
@@ -79,7 +104,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 1,
+   "bar": 2,
    "page": 1,
    "system": 0,
    "x": 193.32,
@@ -104,7 +129,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 1,
+   "bar": 2,
    "page": 1,
    "system": 0,
    "x": 221.4,
@@ -129,7 +154,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 2,
+   "bar": 3,
    "page": 1,
    "system": 0,
    "x": 265.32,
@@ -154,7 +179,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 2,
+   "bar": 3,
    "page": 1,
    "system": 0,
    "x": 294.48,
@@ -179,7 +204,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 2,
+   "bar": 3,
    "page": 1,
    "system": 0,
    "x": 313.44,
@@ -204,7 +229,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 2,
+   "bar": 3,
    "page": 1,
    "system": 0,
    "x": 331.68,
@@ -229,7 +254,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 2,
+   "bar": 3,
    "page": 1,
    "system": 0,
    "x": 360.84,
@@ -254,7 +279,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 3,
+   "bar": 4,
    "page": 1,
    "system": 0,
    "x": 403.2,
@@ -279,7 +304,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 3,
+   "bar": 4,
    "page": 1,
    "system": 0,
    "x": 430.32,
@@ -304,7 +329,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 3,
+   "bar": 4,
    "page": 1,
    "system": 0,
    "x": 457.56,
@@ -329,7 +354,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 3,
+   "bar": 4,
    "page": 1,
    "system": 0,
    "x": 484.68,
@@ -354,7 +379,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 3,
+   "bar": 4,
    "page": 1,
    "system": 0,
    "x": 511.8,
@@ -379,7 +404,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 3,
+   "bar": 4,
    "page": 1,
    "system": 0,
    "x": 538.92,
@@ -404,7 +429,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 4,
+   "bar": 5,
    "page": 1,
    "system": 1,
    "x": 68.28,
@@ -429,7 +454,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 4,
+   "bar": 5,
    "page": 1,
    "system": 1,
    "x": 141.48,
@@ -454,7 +479,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 4,
+   "bar": 5,
    "page": 1,
    "system": 1,
    "x": 449.04,
@@ -479,7 +504,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 5,
+   "bar": 6,
    "page": 1,
    "system": 2,
    "x": 72.72,
@@ -504,7 +529,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 5,
+   "bar": 6,
    "page": 1,
    "system": 2,
    "x": 100.8,
@@ -529,7 +554,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 5,
+   "bar": 6,
    "page": 1,
    "system": 2,
    "x": 128.88,
@@ -554,7 +579,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 5,
+   "bar": 6,
    "page": 1,
    "system": 2,
    "x": 146.52,
@@ -579,7 +604,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 5,
+   "bar": 6,
    "page": 1,
    "system": 2,
    "x": 174.6,
@@ -604,7 +629,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 6,
+   "bar": 7,
    "page": 1,
    "system": 2,
    "x": 206.76,
@@ -629,7 +654,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 6,
+   "bar": 7,
    "page": 1,
    "system": 2,
    "x": 233.04,
@@ -654,7 +679,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 6,
+   "bar": 7,
    "page": 1,
    "system": 2,
    "x": 259.44,
@@ -679,7 +704,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 6,
+   "bar": 7,
    "page": 1,
    "system": 2,
    "x": 289.44,
@@ -704,7 +729,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 6,
+   "bar": 7,
    "page": 1,
    "system": 2,
    "x": 315.84,
@@ -729,7 +754,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 6,
+   "bar": 7,
    "page": 1,
    "system": 2,
    "x": 357.96,
@@ -754,7 +779,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 6,
+   "bar": 7,
    "page": 1,
    "system": 2,
    "x": 384.24,
@@ -779,7 +804,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 7,
+   "bar": 8,
    "page": 1,
    "system": 2,
    "x": 426.96,
@@ -804,7 +829,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 7,
+   "bar": 8,
    "page": 1,
    "system": 2,
    "x": 459.12,
@@ -829,7 +854,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 7,
+   "bar": 8,
    "page": 1,
    "system": 2,
    "x": 481.68,
@@ -854,7 +879,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 7,
+   "bar": 8,
    "page": 1,
    "system": 2,
    "x": 501.72,
@@ -879,7 +904,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 7,
+   "bar": 8,
    "page": 1,
    "system": 2,
    "x": 534.0,
@@ -904,7 +929,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 8,
+   "bar": 9,
    "page": 1,
    "system": 3,
    "x": 70.08,
@@ -929,7 +954,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 8,
+   "bar": 9,
    "page": 1,
    "system": 3,
    "x": 143.04,
@@ -954,7 +979,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 8,
+   "bar": 9,
    "page": 1,
    "system": 3,
    "x": 449.4,
@@ -979,7 +1004,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 9,
+   "bar": 10,
    "page": 1,
    "system": 4,
    "x": 62.4,
@@ -1004,7 +1029,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 9,
+   "bar": 10,
    "page": 1,
    "system": 4,
    "x": 85.44,
@@ -1029,7 +1054,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 9,
+   "bar": 10,
    "page": 1,
    "system": 4,
    "x": 103.44,
@@ -1054,7 +1079,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 9,
+   "bar": 10,
    "page": 1,
    "system": 4,
    "x": 117.84,
@@ -1079,7 +1104,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 9,
+   "bar": 10,
    "page": 1,
    "system": 4,
    "x": 140.88,
@@ -1104,7 +1129,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 10,
+   "bar": 11,
    "page": 1,
    "system": 4,
    "x": 176.04,
@@ -1129,7 +1154,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 10,
+   "bar": 11,
    "page": 1,
    "system": 4,
    "x": 203.4,
@@ -1154,7 +1179,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 10,
+   "bar": 11,
    "page": 1,
    "system": 4,
    "x": 230.88,
@@ -1179,7 +1204,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 10,
+   "bar": 11,
    "page": 1,
    "system": 4,
    "x": 247.92,
@@ -1204,7 +1229,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 10,
+   "bar": 11,
    "page": 1,
    "system": 4,
    "x": 275.4,
@@ -1229,7 +1254,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 11,
+   "bar": 12,
    "page": 1,
    "system": 4,
    "x": 315.96,
@@ -1254,7 +1279,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 11,
+   "bar": 12,
    "page": 1,
    "system": 4,
    "x": 339.6,
@@ -1279,7 +1304,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 11,
+   "bar": 12,
    "page": 1,
    "system": 4,
    "x": 363.24,
@@ -1304,7 +1329,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 11,
+   "bar": 12,
    "page": 1,
    "system": 4,
    "x": 386.88,
@@ -1329,7 +1354,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 11,
+   "bar": 12,
    "page": 1,
    "system": 4,
    "x": 410.52,
@@ -1354,7 +1379,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 11,
+   "bar": 12,
    "page": 1,
    "system": 4,
    "x": 434.16,
@@ -1379,7 +1404,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 12,
+   "bar": 13,
    "page": 1,
    "system": 4,
    "x": 469.44,
@@ -1404,7 +1429,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 12,
+   "bar": 13,
    "page": 1,
    "system": 4,
    "x": 491.76,
@@ -1429,7 +1454,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 12,
+   "bar": 13,
    "page": 1,
    "system": 4,
    "x": 545.64,
@@ -1454,7 +1479,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 13,
+   "bar": 14,
    "page": 1,
    "system": 5,
    "x": 68.64,
@@ -1479,7 +1504,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 13,
+   "bar": 14,
    "page": 1,
    "system": 5,
    "x": 89.52,
@@ -1504,7 +1529,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 13,
+   "bar": 14,
    "page": 1,
    "system": 5,
    "x": 123.12,
@@ -1529,7 +1554,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 13,
+   "bar": 14,
    "page": 1,
    "system": 5,
    "x": 144.0,
@@ -1554,7 +1579,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 13,
+   "bar": 14,
    "page": 1,
    "system": 5,
    "x": 184.92,
@@ -1579,7 +1604,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 14,
+   "bar": 15,
    "page": 1,
    "system": 5,
    "x": 216.84,
@@ -1604,7 +1629,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 14,
+   "bar": 15,
    "page": 1,
    "system": 5,
    "x": 240.6,
@@ -1629,7 +1654,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 14,
+   "bar": 15,
    "page": 1,
    "system": 5,
    "x": 264.36,
@@ -1654,7 +1679,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 14,
+   "bar": 15,
    "page": 1,
    "system": 5,
    "x": 288.24,
@@ -1679,7 +1704,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 14,
+   "bar": 15,
    "page": 1,
    "system": 5,
    "x": 312.0,
@@ -1704,7 +1729,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 14,
+   "bar": 15,
    "page": 1,
    "system": 5,
    "x": 350.04,
@@ -1729,7 +1754,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 14,
+   "bar": 15,
    "page": 1,
    "system": 5,
    "x": 373.8,
@@ -1754,7 +1779,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 15,
+   "bar": 16,
    "page": 1,
    "system": 5,
    "x": 413.88,
@@ -1779,7 +1804,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 15,
+   "bar": 16,
    "page": 1,
    "system": 5,
    "x": 451.08,
@@ -1804,7 +1829,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 15,
+   "bar": 16,
    "page": 1,
    "system": 5,
    "x": 474.36,
@@ -1829,7 +1854,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 15,
+   "bar": 16,
    "page": 1,
    "system": 5,
    "x": 497.52,
@@ -1854,7 +1879,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 15,
+   "bar": 16,
    "page": 1,
    "system": 5,
    "x": 542.88,
@@ -1879,7 +1904,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 16,
+   "bar": 17,
    "page": 1,
    "system": 6,
    "x": 70.08,
@@ -1904,7 +1929,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 16,
+   "bar": 17,
    "page": 1,
    "system": 6,
    "x": 138.96,
@@ -1929,7 +1954,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 16,
+   "bar": 17,
    "page": 1,
    "system": 6,
    "x": 428.28,
@@ -1954,7 +1979,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 16,
+   "bar": 17,
    "page": 1,
    "system": 6,
    "x": 497.28,
@@ -1979,7 +2004,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 17,
+   "bar": 18,
    "page": 1,
    "system": 7,
    "x": 73.2,
@@ -2004,7 +2029,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 17,
+   "bar": 18,
    "page": 1,
    "system": 7,
    "x": 102.84,
@@ -2029,7 +2054,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 17,
+   "bar": 18,
    "page": 1,
    "system": 7,
    "x": 125.4,
@@ -2054,7 +2079,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 17,
+   "bar": 18,
    "page": 1,
    "system": 7,
    "x": 143.88,
@@ -2079,7 +2104,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 17,
+   "bar": 18,
    "page": 1,
    "system": 7,
    "x": 180.0,
@@ -2104,7 +2129,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 18,
+   "bar": 19,
    "page": 1,
    "system": 7,
    "x": 211.68,
@@ -2129,7 +2154,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 18,
+   "bar": 19,
    "page": 1,
    "system": 7,
    "x": 231.72,
@@ -2154,7 +2179,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 18,
+   "bar": 19,
    "page": 1,
    "system": 7,
    "x": 289.32,
@@ -2179,7 +2204,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 18,
+   "bar": 19,
    "page": 1,
    "system": 7,
    "x": 303.0,
@@ -2204,7 +2229,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 19,
+   "bar": 20,
    "page": 1,
    "system": 7,
    "x": 328.44,
@@ -2229,7 +2254,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 19,
+   "bar": 20,
    "page": 1,
    "system": 7,
    "x": 356.4,
@@ -2254,7 +2279,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 19,
+   "bar": 20,
    "page": 1,
    "system": 7,
    "x": 380.04,
@@ -2279,7 +2304,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 19,
+   "bar": 20,
    "page": 1,
    "system": 7,
    "x": 397.56,
@@ -2304,7 +2329,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 19,
+   "bar": 20,
    "page": 1,
    "system": 7,
    "x": 415.08,
@@ -2329,7 +2354,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 19,
+   "bar": 20,
    "page": 1,
    "system": 7,
    "x": 443.16,
@@ -2354,7 +2379,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 20,
+   "bar": 21,
    "page": 1,
    "system": 7,
    "x": 473.76,
@@ -2379,7 +2404,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 20,
+   "bar": 21,
    "page": 1,
    "system": 7,
    "x": 524.52,
@@ -2404,7 +2429,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 20,
+   "bar": 21,
    "page": 1,
    "system": 7,
    "x": 546.24,
@@ -2429,7 +2454,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 21,
+   "bar": 22,
    "page": 2,
    "system": 8,
    "x": 73.2,
@@ -2454,7 +2479,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 21,
+   "bar": 22,
    "page": 2,
    "system": 8,
    "x": 103.08,
@@ -2479,7 +2504,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 21,
+   "bar": 22,
    "page": 2,
    "system": 8,
    "x": 125.52,
@@ -2504,7 +2529,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 21,
+   "bar": 22,
    "page": 2,
    "system": 8,
    "x": 144.24,
@@ -2529,7 +2554,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 21,
+   "bar": 22,
    "page": 2,
    "system": 8,
    "x": 180.48,
@@ -2554,7 +2579,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 22,
+   "bar": 23,
    "page": 2,
    "system": 8,
    "x": 212.28,
@@ -2579,7 +2604,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 22,
+   "bar": 23,
    "page": 2,
    "system": 8,
    "x": 232.32,
@@ -2589,8 +2614,8 @@
    "alter": 1,
    "note_type": "quarter",
    "dots": 0,
-   "tuplet": 1,
-   "duration_q": 1.0,
+   "tuplet": 3,
+   "duration_q": 0.66667,
    "syllable": "dy,",
    "word_start": true,
    "hyphen_after": false,
@@ -2604,7 +2629,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 22,
+   "bar": 23,
    "page": 2,
    "system": 8,
    "x": 288.0,
@@ -2629,7 +2654,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 22,
+   "bar": 23,
    "page": 2,
    "system": 8,
    "x": 306.0,
@@ -2654,7 +2679,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 23,
+   "bar": 24,
    "page": 2,
    "system": 8,
    "x": 332.88,
@@ -2679,7 +2704,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 23,
+   "bar": 24,
    "page": 2,
    "system": 8,
    "x": 354.96,
@@ -2704,7 +2729,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 23,
+   "bar": 24,
    "page": 2,
    "system": 8,
    "x": 377.04,
@@ -2729,7 +2754,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 23,
+   "bar": 24,
    "page": 2,
    "system": 8,
    "x": 399.24,
@@ -2754,7 +2779,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 23,
+   "bar": 24,
    "page": 2,
    "system": 8,
    "x": 418.8,
@@ -2779,7 +2804,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 23,
+   "bar": 24,
    "page": 2,
    "system": 8,
    "x": 444.48,
@@ -2804,7 +2829,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 23,
+   "bar": 24,
    "page": 2,
    "system": 8,
    "x": 454.56,
@@ -2829,7 +2854,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 23,
+   "bar": 24,
    "page": 2,
    "system": 8,
    "x": 464.52,
@@ -2854,7 +2879,82 @@
    "chord_source": "printed"
   },
   {
-   "bar": 24,
+   "bar": 25,
+   "page": 2,
+   "system": 8,
+   "x": 486.84,
+   "midi": 69,
+   "pitch_name": "A4",
+   "dia": 5,
+   "alter": 0,
+   "note_type": "half",
+   "dots": 1,
+   "tuplet": 1,
+   "duration_q": 3.0,
+   "syllable": "ad!",
+   "word_start": true,
+   "hyphen_after": false,
+   "melisma": false,
+   "chord_raw": "Dm",
+   "chord_root": "D",
+   "chord_quality": "m",
+   "pc_rel_tonic": 7,
+   "chord_root_rel": 0,
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
+  },
+  {
+   "bar": 25,
+   "page": 2,
+   "system": 8,
+   "x": 517.08,
+   "midi": 74,
+   "pitch_name": "D5",
+   "dia": 8,
+   "alter": 0,
+   "note_type": "eighth",
+   "dots": 0,
+   "tuplet": 1,
+   "duration_q": 0.5,
+   "syllable": "So",
+   "word_start": true,
+   "hyphen_after": false,
+   "melisma": false,
+   "chord_raw": "Dm",
+   "chord_root": "D",
+   "chord_quality": "m",
+   "pc_rel_tonic": 0,
+   "chord_root_rel": 0,
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
+  },
+  {
+   "bar": 25,
+   "page": 2,
+   "system": 8,
+   "x": 528.96,
+   "midi": 76,
+   "pitch_name": "E5",
+   "dia": 9,
+   "alter": 0,
+   "note_type": "eighth",
+   "dots": 0,
+   "tuplet": 1,
+   "duration_q": 0.5,
+   "syllable": "I",
+   "word_start": true,
+   "hyphen_after": false,
+   "melisma": false,
+   "chord_raw": "Dm",
+   "chord_root": "D",
+   "chord_quality": "m",
+   "pc_rel_tonic": 2,
+   "chord_root_rel": 0,
+   "pc_rel_chord": 2,
+   "chord_source": "printed"
+  },
+  {
+   "bar": 26,
    "page": 2,
    "system": 9,
    "x": 87.36,
@@ -2879,7 +2979,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 24,
+   "bar": 26,
    "page": 2,
    "system": 9,
    "x": 114.96,
@@ -2904,7 +3004,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 24,
+   "bar": 26,
    "page": 2,
    "system": 9,
    "x": 135.84,
@@ -2929,7 +3029,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 24,
+   "bar": 26,
    "page": 2,
    "system": 9,
    "x": 153.12,
@@ -2954,7 +3054,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 24,
+   "bar": 26,
    "page": 2,
    "system": 9,
    "x": 186.84,
@@ -2979,7 +3079,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 25,
+   "bar": 27,
    "page": 2,
    "system": 9,
    "x": 214.44,
@@ -3004,7 +3104,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 25,
+   "bar": 27,
    "page": 2,
    "system": 9,
    "x": 231.96,
@@ -3029,7 +3129,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 25,
+   "bar": 27,
    "page": 2,
    "system": 9,
    "x": 286.32,
@@ -3054,7 +3154,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 25,
+   "bar": 27,
    "page": 2,
    "system": 9,
    "x": 300.24,
@@ -3079,7 +3179,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 26,
+   "bar": 28,
    "page": 2,
    "system": 9,
    "x": 329.4,
@@ -3104,7 +3204,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 26,
+   "bar": 28,
    "page": 2,
    "system": 9,
    "x": 359.76,
@@ -3129,7 +3229,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 26,
+   "bar": 28,
    "page": 2,
    "system": 9,
    "x": 384.72,
@@ -3154,7 +3254,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 26,
+   "bar": 28,
    "page": 2,
    "system": 9,
    "x": 401.4,
@@ -3179,7 +3279,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 26,
+   "bar": 28,
    "page": 2,
    "system": 9,
    "x": 422.28,
@@ -3204,7 +3304,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 26,
+   "bar": 28,
    "page": 2,
    "system": 9,
    "x": 443.16,
@@ -3229,7 +3329,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 27,
+   "bar": 29,
    "page": 2,
    "system": 9,
    "x": 480.96,
@@ -3254,7 +3354,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 27,
+   "bar": 29,
    "page": 2,
    "system": 9,
    "x": 511.56,
@@ -3279,7 +3379,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 27,
+   "bar": 29,
    "page": 2,
    "system": 9,
    "x": 531.96,
@@ -3304,7 +3404,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 28,
+   "bar": 30,
    "page": 2,
    "system": 10,
    "x": 82.56,
@@ -3329,7 +3429,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 28,
+   "bar": 30,
    "page": 2,
    "system": 10,
    "x": 111.96,
@@ -3354,7 +3454,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 28,
+   "bar": 30,
    "page": 2,
    "system": 10,
    "x": 134.52,
@@ -3379,7 +3479,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 28,
+   "bar": 30,
    "page": 2,
    "system": 10,
    "x": 152.88,
@@ -3404,7 +3504,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 28,
+   "bar": 30,
    "page": 2,
    "system": 10,
    "x": 188.76,
@@ -3429,7 +3529,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 29,
+   "bar": 31,
    "page": 2,
    "system": 10,
    "x": 220.32,
@@ -3454,7 +3554,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 29,
+   "bar": 31,
    "page": 2,
    "system": 10,
    "x": 246.6,
@@ -3479,7 +3579,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 29,
+   "bar": 31,
    "page": 2,
    "system": 10,
    "x": 272.88,
@@ -3504,7 +3604,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 29,
+   "bar": 31,
    "page": 2,
    "system": 10,
    "x": 310.8,
@@ -3529,7 +3629,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 29,
+   "bar": 31,
    "page": 2,
    "system": 10,
    "x": 335.52,
@@ -3554,7 +3654,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 30,
+   "bar": 32,
    "page": 2,
    "system": 10,
    "x": 363.6,
@@ -3579,7 +3679,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 30,
+   "bar": 32,
    "page": 2,
    "system": 10,
    "x": 385.56,
@@ -3604,7 +3704,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 30,
+   "bar": 32,
    "page": 2,
    "system": 10,
    "x": 407.4,
@@ -3629,7 +3729,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 30,
+   "bar": 32,
    "page": 2,
    "system": 10,
    "x": 429.36,
@@ -3654,7 +3754,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 30,
+   "bar": 32,
    "page": 2,
    "system": 10,
    "x": 451.2,
@@ -3679,7 +3779,7 @@
    "chord_source": "printed"
   },
   {
-   "bar": 30,
+   "bar": 32,
    "page": 2,
    "system": 10,
    "x": 473.16,
@@ -3701,6 +3801,31 @@
    "pc_rel_tonic": 2,
    "chord_root_rel": 7,
    "pc_rel_chord": 7,
+   "chord_source": "printed"
+  },
+  {
+   "bar": 33,
+   "page": 2,
+   "system": 10,
+   "x": 509.76,
+   "midi": 62,
+   "pitch_name": "D4",
+   "dia": 1,
+   "alter": 0,
+   "note_type": "half",
+   "dots": 1,
+   "tuplet": 1,
+   "duration_q": 3.0,
+   "syllable": "well.",
+   "word_start": true,
+   "hyphen_after": false,
+   "melisma": false,
+   "chord_raw": "D",
+   "chord_root": "D",
+   "chord_quality": "",
+   "pc_rel_tonic": 0,
+   "chord_root_rel": 0,
+   "pc_rel_chord": 0,
    "chord_source": "printed"
   }
  ]
