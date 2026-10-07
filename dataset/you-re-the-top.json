@@ -25,7 +25,8 @@
    "chord_quality": null,
    "pc_rel_tonic": 7,
    "chord_root_rel": null,
-   "pc_rel_chord": null
+   "pc_rel_chord": null,
+   "chord_source": "printed"
   },
   {
    "bar": 2,
@@ -49,7 +50,8 @@
    "chord_quality": "\u00b27",
    "pc_rel_tonic": 4,
    "chord_root_rel": 0,
-   "pc_rel_chord": 4
+   "pc_rel_chord": 4,
+   "chord_source": "printed"
   },
   {
    "bar": 2,
@@ -73,7 +75,8 @@
    "chord_quality": "\u00b27",
    "pc_rel_tonic": 3,
    "chord_root_rel": 0,
-   "pc_rel_chord": 3
+   "pc_rel_chord": 3,
+   "chord_source": "printed"
   },
   {
    "bar": 2,
@@ -97,7 +100,8 @@
    "chord_quality": "\u00b27",
    "pc_rel_tonic": 4,
    "chord_root_rel": 0,
-   "pc_rel_chord": 4
+   "pc_rel_chord": 4,
+   "chord_source": "printed"
   },
   {
    "bar": 2,
@@ -121,7 +125,8 @@
    "chord_quality": "dim",
    "pc_rel_tonic": 4,
    "chord_root_rel": 1,
-   "pc_rel_chord": 3
+   "pc_rel_chord": 3,
+   "chord_source": "printed"
   },
   {
    "bar": 2,
@@ -145,7 +150,8 @@
    "chord_quality": "dim",
    "pc_rel_tonic": 3,
    "chord_root_rel": 1,
-   "pc_rel_chord": 2
+   "pc_rel_chord": 2,
+   "chord_source": "printed"
   },
   {
    "bar": 2,
@@ -169,7 +175,8 @@
    "chord_quality": "dim",
    "pc_rel_tonic": 4,
    "chord_root_rel": 1,
-   "pc_rel_chord": 3
+   "pc_rel_chord": 3,
+   "chord_source": "printed"
   },
   {
    "bar": 3,
@@ -193,7 +200,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 5,
    "chord_root_rel": 2,
-   "pc_rel_chord": 3
+   "pc_rel_chord": 3,
+   "chord_source": "printed"
   },
   {
    "bar": 3,
@@ -217,7 +225,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 4,
    "chord_root_rel": 2,
-   "pc_rel_chord": 2
+   "pc_rel_chord": 2,
+   "chord_source": "printed"
   },
   {
    "bar": 3,
@@ -241,7 +250,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 5,
    "chord_root_rel": 2,
-   "pc_rel_chord": 3
+   "pc_rel_chord": 3,
+   "chord_source": "printed"
   },
   {
    "bar": 3,
@@ -265,7 +275,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 5,
    "chord_root_rel": 2,
-   "pc_rel_chord": 3
+   "pc_rel_chord": 3,
+   "chord_source": "printed"
   },
   {
    "bar": 3,
@@ -289,7 +300,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 4,
    "chord_root_rel": 7,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 3,
@@ -313,7 +325,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 5,
    "chord_root_rel": 7,
-   "pc_rel_chord": 10
+   "pc_rel_chord": 10,
+   "chord_source": "printed"
   },
   {
    "bar": 3,
@@ -337,7 +350,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 6,
    "chord_root_rel": 7,
-   "pc_rel_chord": 11
+   "pc_rel_chord": 11,
+   "chord_source": "printed"
   },
   {
    "bar": 4,
@@ -361,7 +375,8 @@
    "chord_quality": "/A",
    "pc_rel_tonic": 7,
    "chord_root_rel": 0,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 4,
@@ -385,7 +400,8 @@
    "chord_quality": "/A",
    "pc_rel_tonic": 6,
    "chord_root_rel": 0,
-   "pc_rel_chord": 6
+   "pc_rel_chord": 6,
+   "chord_source": "printed"
   },
   {
    "bar": 4,
@@ -409,7 +425,8 @@
    "chord_quality": "/A",
    "pc_rel_tonic": 7,
    "chord_root_rel": 0,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 4,
@@ -433,7 +450,8 @@
    "chord_quality": "/A",
    "pc_rel_tonic": 11,
    "chord_root_rel": 0,
-   "pc_rel_chord": 11
+   "pc_rel_chord": 11,
+   "chord_source": "printed"
   },
   {
    "bar": 4,
@@ -457,7 +475,8 @@
    "chord_quality": "dim7",
    "pc_rel_tonic": 11,
    "chord_root_rel": 3,
-   "pc_rel_chord": 8
+   "pc_rel_chord": 8,
+   "chord_source": "printed"
   },
   {
    "bar": 4,
@@ -481,7 +500,8 @@
    "chord_quality": "dim7",
    "pc_rel_tonic": 5,
    "chord_root_rel": 3,
-   "pc_rel_chord": 2
+   "pc_rel_chord": 2,
+   "chord_source": "printed"
   },
   {
    "bar": 5,
@@ -505,7 +525,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 9,
    "chord_root_rel": 4,
-   "pc_rel_chord": 5
+   "pc_rel_chord": 5,
+   "chord_source": "printed"
   },
   {
    "bar": 5,
@@ -529,7 +550,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 9,
    "chord_root_rel": 4,
-   "pc_rel_chord": 5
+   "pc_rel_chord": 5,
+   "chord_source": "printed"
   },
   {
    "bar": 5,
@@ -553,7 +575,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 7,
    "chord_root_rel": 9,
-   "pc_rel_chord": 10
+   "pc_rel_chord": 10,
+   "chord_source": "printed"
   },
   {
    "bar": 5,
@@ -577,7 +600,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 5,
    "chord_root_rel": 9,
-   "pc_rel_chord": 8
+   "pc_rel_chord": 8,
+   "chord_source": "printed"
   },
   {
    "bar": 5,
@@ -601,7 +625,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 4,
    "chord_root_rel": 9,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 6,
@@ -625,7 +650,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 9,
    "chord_root_rel": 2,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 6,
@@ -649,7 +675,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 8,
    "chord_root_rel": 2,
-   "pc_rel_chord": 6
+   "pc_rel_chord": 6,
+   "chord_source": "printed"
   },
   {
    "bar": 6,
@@ -673,7 +700,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 9,
    "chord_root_rel": 2,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 6,
@@ -697,7 +725,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 7,
    "chord_root_rel": 2,
-   "pc_rel_chord": 5
+   "pc_rel_chord": 5,
+   "chord_source": "printed"
   },
   {
    "bar": 6,
@@ -721,7 +750,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 7,
    "chord_root_rel": 2,
-   "pc_rel_chord": 5
+   "pc_rel_chord": 5,
+   "chord_source": "printed"
   },
   {
    "bar": 6,
@@ -745,7 +775,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 9,
    "chord_root_rel": 2,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 7,
@@ -769,7 +800,8 @@
    "chord_quality": "/C",
    "pc_rel_tonic": 5,
    "chord_root_rel": 5,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 7,
@@ -793,7 +825,8 @@
    "chord_quality": "/C",
    "pc_rel_tonic": 5,
    "chord_root_rel": 5,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 7,
@@ -817,7 +850,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 2,
    "chord_root_rel": 7,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 7,
@@ -841,7 +875,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 4,
    "chord_root_rel": 7,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 7,
@@ -865,7 +900,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 5,
    "chord_root_rel": 7,
-   "pc_rel_chord": 10
+   "pc_rel_chord": 10,
+   "chord_source": "printed"
   },
   {
    "bar": 8,
@@ -889,7 +925,8 @@
    "chord_quality": "\u00b29 F6",
    "pc_rel_tonic": 7,
    "chord_root_rel": 0,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 9,
@@ -913,7 +950,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 8,
    "chord_root_rel": 2,
-   "pc_rel_chord": 6
+   "pc_rel_chord": 6,
+   "chord_source": "printed"
   },
   {
    "bar": 9,
@@ -937,7 +975,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 9,
    "chord_root_rel": 2,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 9,
@@ -961,7 +1000,8 @@
    "chord_quality": "9",
    "pc_rel_tonic": 11,
    "chord_root_rel": 7,
-   "pc_rel_chord": 4
+   "pc_rel_chord": 4,
+   "chord_source": "printed"
   },
   {
    "bar": 9,
@@ -985,7 +1025,8 @@
    "chord_quality": "9",
    "pc_rel_tonic": 11,
    "chord_root_rel": 7,
-   "pc_rel_chord": 4
+   "pc_rel_chord": 4,
+   "chord_source": "printed"
   },
   {
    "bar": 9,
@@ -1009,7 +1050,8 @@
    "chord_quality": "9",
    "pc_rel_tonic": 7,
    "chord_root_rel": 7,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 10,
@@ -1033,7 +1075,8 @@
    "chord_quality": "\u00b27",
    "pc_rel_tonic": 3,
    "chord_root_rel": 0,
-   "pc_rel_chord": 3
+   "pc_rel_chord": 3,
+   "chord_source": "printed"
   },
   {
    "bar": 10,
@@ -1057,7 +1100,8 @@
    "chord_quality": "\u00b27",
    "pc_rel_tonic": 3,
    "chord_root_rel": 0,
-   "pc_rel_chord": 3
+   "pc_rel_chord": 3,
+   "chord_source": "printed"
   },
   {
    "bar": 10,
@@ -1081,7 +1125,8 @@
    "chord_quality": "\u00b27",
    "pc_rel_tonic": 4,
    "chord_root_rel": 0,
-   "pc_rel_chord": 4
+   "pc_rel_chord": 4,
+   "chord_source": "printed"
   },
   {
    "bar": 10,
@@ -1105,7 +1150,8 @@
    "chord_quality": "dim7",
    "pc_rel_tonic": 4,
    "chord_root_rel": 1,
-   "pc_rel_chord": 3
+   "pc_rel_chord": 3,
+   "chord_source": "printed"
   },
   {
    "bar": 10,
@@ -1129,7 +1175,8 @@
    "chord_quality": "dim7",
    "pc_rel_tonic": 3,
    "chord_root_rel": 1,
-   "pc_rel_chord": 2
+   "pc_rel_chord": 2,
+   "chord_source": "printed"
   },
   {
    "bar": 10,
@@ -1153,7 +1200,8 @@
    "chord_quality": "dim7",
    "pc_rel_tonic": 4,
    "chord_root_rel": 1,
-   "pc_rel_chord": 3
+   "pc_rel_chord": 3,
+   "chord_source": "printed"
   },
   {
    "bar": 11,
@@ -1177,7 +1225,8 @@
    "chord_quality": "dim7",
    "pc_rel_tonic": 6,
    "chord_root_rel": 1,
-   "pc_rel_chord": 5
+   "pc_rel_chord": 5,
+   "chord_source": "printed"
   },
   {
    "bar": 11,
@@ -1201,7 +1250,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 4,
    "chord_root_rel": 2,
-   "pc_rel_chord": 2
+   "pc_rel_chord": 2,
+   "chord_source": "printed"
   },
   {
    "bar": 11,
@@ -1225,7 +1275,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 5,
    "chord_root_rel": 2,
-   "pc_rel_chord": 3
+   "pc_rel_chord": 3,
+   "chord_source": "printed"
   },
   {
    "bar": 11,
@@ -1249,7 +1300,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 5,
    "chord_root_rel": 7,
-   "pc_rel_chord": 10
+   "pc_rel_chord": 10,
+   "chord_source": "printed"
   },
   {
    "bar": 11,
@@ -1273,7 +1325,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 4,
    "chord_root_rel": 7,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 11,
@@ -1297,7 +1350,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 5,
    "chord_root_rel": 7,
-   "pc_rel_chord": 10
+   "pc_rel_chord": 10,
+   "chord_source": "printed"
   },
   {
    "bar": 11,
@@ -1321,7 +1375,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 6,
    "chord_root_rel": 7,
-   "pc_rel_chord": 11
+   "pc_rel_chord": 11,
+   "chord_source": "printed"
   },
   {
    "bar": 12,
@@ -1345,7 +1400,8 @@
    "chord_quality": "\u00b27",
    "pc_rel_tonic": 7,
    "chord_root_rel": 0,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 12,
@@ -1369,7 +1425,8 @@
    "chord_quality": "\u00b27",
    "pc_rel_tonic": 6,
    "chord_root_rel": 0,
-   "pc_rel_chord": 6
+   "pc_rel_chord": 6,
+   "chord_source": "printed"
   },
   {
    "bar": 12,
@@ -1393,7 +1450,8 @@
    "chord_quality": "\u00b27",
    "pc_rel_tonic": 7,
    "chord_root_rel": 0,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 12,
@@ -1417,7 +1475,8 @@
    "chord_quality": "\u00b27",
    "pc_rel_tonic": 0,
    "chord_root_rel": 0,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 12,
@@ -1441,7 +1500,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 0,
    "chord_root_rel": 9,
-   "pc_rel_chord": 3
+   "pc_rel_chord": 3,
+   "chord_source": "printed"
   },
   {
    "bar": 12,
@@ -1465,7 +1525,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 9,
    "chord_root_rel": 9,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 13,
@@ -1489,7 +1550,8 @@
    "chord_quality": "m7 E7",
    "pc_rel_tonic": 11,
    "chord_root_rel": 6,
-   "pc_rel_chord": 5
+   "pc_rel_chord": 5,
+   "chord_source": "printed"
   },
   {
    "bar": 13,
@@ -1513,7 +1575,8 @@
    "chord_quality": "m7 E7",
    "pc_rel_tonic": 9,
    "chord_root_rel": 6,
-   "pc_rel_chord": 3
+   "pc_rel_chord": 3,
+   "chord_source": "printed"
   },
   {
    "bar": 14,
@@ -1537,7 +1600,8 @@
    "chord_quality": "m",
    "pc_rel_tonic": 6,
    "chord_root_rel": 4,
-   "pc_rel_chord": 2
+   "pc_rel_chord": 2,
+   "chord_source": "printed"
   },
   {
    "bar": 14,
@@ -1561,7 +1625,8 @@
    "chord_quality": "m",
    "pc_rel_tonic": 4,
    "chord_root_rel": 4,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 14,
@@ -1585,7 +1650,8 @@
    "chord_quality": "m&",
    "pc_rel_tonic": 6,
    "chord_root_rel": 4,
-   "pc_rel_chord": 2
+   "pc_rel_chord": 2,
+   "chord_source": "printed"
   },
   {
    "bar": 14,
@@ -1609,7 +1675,8 @@
    "chord_quality": "m&",
    "pc_rel_tonic": 9,
    "chord_root_rel": 4,
-   "pc_rel_chord": 5
+   "pc_rel_chord": 5,
+   "chord_source": "printed"
   },
   {
    "bar": 14,
@@ -1633,7 +1700,8 @@
    "chord_quality": "m&",
    "pc_rel_tonic": 6,
    "chord_root_rel": 4,
-   "pc_rel_chord": 2
+   "pc_rel_chord": 2,
+   "chord_source": "printed"
   },
   {
    "bar": 15,
@@ -1657,7 +1725,8 @@
    "chord_quality": "m6",
    "pc_rel_tonic": 7,
    "chord_root_rel": 4,
-   "pc_rel_chord": 3
+   "pc_rel_chord": 3,
+   "chord_source": "printed"
   },
   {
    "bar": 15,
@@ -1681,7 +1750,8 @@
    "chord_quality": "m6",
    "pc_rel_tonic": 4,
    "chord_root_rel": 4,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 15,
@@ -1705,7 +1775,8 @@
    "chord_quality": "m6",
    "pc_rel_tonic": 6,
    "chord_root_rel": 4,
-   "pc_rel_chord": 2
+   "pc_rel_chord": 2,
+   "chord_source": "printed"
   },
   {
    "bar": 15,
@@ -1729,7 +1800,8 @@
    "chord_quality": "9",
    "pc_rel_tonic": 9,
    "chord_root_rel": 2,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 15,
@@ -1753,7 +1825,8 @@
    "chord_quality": "9",
    "pc_rel_tonic": 2,
    "chord_root_rel": 2,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 16,
@@ -1777,7 +1850,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 7,
    "chord_root_rel": 7,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 16,
@@ -1801,7 +1875,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 7,
    "chord_root_rel": 7,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 16,
@@ -1825,7 +1900,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 7,
    "chord_root_rel": 7,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 16,
@@ -1849,7 +1925,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 7,
    "chord_root_rel": 7,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 16,
@@ -1873,7 +1950,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 7,
    "chord_root_rel": 7,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 16,
@@ -1897,7 +1975,8 @@
    "chord_quality": "",
    "pc_rel_tonic": 7,
    "chord_root_rel": 0,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 17,
@@ -1921,7 +2000,8 @@
    "chord_quality": "",
    "pc_rel_tonic": 7,
    "chord_root_rel": 0,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 17,
@@ -1945,7 +2025,8 @@
    "chord_quality": "",
    "pc_rel_tonic": 9,
    "chord_root_rel": 0,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 17,
@@ -1969,7 +2050,8 @@
    "chord_quality": "",
    "pc_rel_tonic": 9,
    "chord_root_rel": 0,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 17,
@@ -1993,7 +2075,8 @@
    "chord_quality": "&",
    "pc_rel_tonic": 9,
    "chord_root_rel": 7,
-   "pc_rel_chord": 2
+   "pc_rel_chord": 2,
+   "chord_source": "printed"
   },
   {
    "bar": 18,
@@ -2017,7 +2100,8 @@
    "chord_quality": "dim7",
    "pc_rel_tonic": 5,
    "chord_root_rel": 8,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 18,
@@ -2041,7 +2125,8 @@
    "chord_quality": "dim7",
    "pc_rel_tonic": 4,
    "chord_root_rel": 8,
-   "pc_rel_chord": 8
+   "pc_rel_chord": 8,
+   "chord_source": "printed"
   },
   {
    "bar": 19,
@@ -2065,7 +2150,8 @@
    "chord_quality": "",
    "pc_rel_tonic": 7,
    "chord_root_rel": 0,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 20,
@@ -2089,7 +2175,8 @@
    "chord_quality": "9",
    "pc_rel_tonic": 5,
    "chord_root_rel": 7,
-   "pc_rel_chord": 10
+   "pc_rel_chord": 10,
+   "chord_source": "printed"
   },
   {
    "bar": 20,
@@ -2113,7 +2200,8 @@
    "chord_quality": "9",
    "pc_rel_tonic": 4,
    "chord_root_rel": 7,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 21,
@@ -2137,7 +2225,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 7,
    "chord_root_rel": 2,
-   "pc_rel_chord": 5
+   "pc_rel_chord": 5,
+   "chord_source": "printed"
   },
   {
    "bar": 21,
@@ -2161,7 +2250,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 9,
    "chord_root_rel": 2,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 21,
@@ -2185,7 +2275,8 @@
    "chord_quality": "13(b9)",
    "pc_rel_tonic": 4,
    "chord_root_rel": 7,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 21,
@@ -2209,7 +2300,8 @@
    "chord_quality": "13(b9)",
    "pc_rel_tonic": 7,
    "chord_root_rel": 7,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 22,
@@ -2233,7 +2325,8 @@
    "chord_quality": "\u0152\u00b27",
    "pc_rel_tonic": 2,
    "chord_root_rel": 9,
-   "pc_rel_chord": 5
+   "pc_rel_chord": 5,
+   "chord_source": "printed"
   },
   {
    "bar": 22,
@@ -2257,7 +2350,8 @@
    "chord_quality": "\u0152\u00b27",
    "pc_rel_tonic": 0,
    "chord_root_rel": 9,
-   "pc_rel_chord": 3
+   "pc_rel_chord": 3,
+   "chord_source": "printed"
   },
   {
    "bar": 23,
@@ -2281,7 +2375,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 4,
    "chord_root_rel": 9,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 24,
@@ -2305,7 +2400,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 2,
    "chord_root_rel": 5,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 24,
@@ -2329,7 +2425,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 0,
    "chord_root_rel": 5,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 25,
@@ -2353,7 +2450,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 4,
    "chord_root_rel": 5,
-   "pc_rel_chord": 11
+   "pc_rel_chord": 11,
+   "chord_source": "printed"
   },
   {
    "bar": 25,
@@ -2377,7 +2475,8 @@
    "chord_quality": "7(b9)",
    "pc_rel_tonic": 4,
    "chord_root_rel": 4,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 25,
@@ -2401,7 +2500,8 @@
    "chord_quality": "7(b9)",
    "pc_rel_tonic": 11,
    "chord_root_rel": 4,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 25,
@@ -2425,7 +2525,8 @@
    "chord_quality": "7(b9)",
    "pc_rel_tonic": 2,
    "chord_root_rel": 4,
-   "pc_rel_chord": 10
+   "pc_rel_chord": 10,
+   "chord_source": "printed"
   },
   {
    "bar": 26,
@@ -2449,7 +2550,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 11,
    "chord_root_rel": 4,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 26,
@@ -2473,7 +2575,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 9,
    "chord_root_rel": 4,
-   "pc_rel_chord": 5
+   "pc_rel_chord": 5,
+   "chord_source": "printed"
   },
   {
    "bar": 27,
@@ -2497,7 +2600,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 0,
    "chord_root_rel": 2,
-   "pc_rel_chord": 10
+   "pc_rel_chord": 10,
+   "chord_source": "printed"
   },
   {
    "bar": 27,
@@ -2521,7 +2625,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 9,
    "chord_root_rel": 2,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 27,
@@ -2545,7 +2650,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 11,
    "chord_root_rel": 2,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 27,
@@ -2569,7 +2675,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 11,
    "chord_root_rel": 7,
-   "pc_rel_chord": 4
+   "pc_rel_chord": 4,
+   "chord_source": "printed"
   },
   {
    "bar": 27,
@@ -2593,7 +2700,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 0,
    "chord_root_rel": 7,
-   "pc_rel_chord": 5
+   "pc_rel_chord": 5,
+   "chord_source": "printed"
   },
   {
    "bar": 27,
@@ -2617,7 +2725,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 2,
    "chord_root_rel": 7,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 28,
@@ -2641,7 +2750,8 @@
    "chord_quality": "m/F",
    "pc_rel_tonic": 5,
    "chord_root_rel": 5,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 28,
@@ -2665,7 +2775,8 @@
    "chord_quality": "m/F",
    "pc_rel_tonic": 2,
    "chord_root_rel": 5,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 28,
@@ -2689,7 +2800,8 @@
    "chord_quality": "m/F",
    "pc_rel_tonic": 4,
    "chord_root_rel": 5,
-   "pc_rel_chord": 11
+   "pc_rel_chord": 11,
+   "chord_source": "printed"
   },
   {
    "bar": 28,
@@ -2713,7 +2825,8 @@
    "chord_quality": "",
    "pc_rel_tonic": 4,
    "chord_root_rel": 0,
-   "pc_rel_chord": 4
+   "pc_rel_chord": 4,
+   "chord_source": "printed"
   },
   {
    "bar": 28,
@@ -2737,7 +2850,8 @@
    "chord_quality": "",
    "pc_rel_tonic": 7,
    "chord_root_rel": 0,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 29,
@@ -2761,7 +2875,8 @@
    "chord_quality": "m7b57",
    "pc_rel_tonic": 9,
    "chord_root_rel": 6,
-   "pc_rel_chord": 3
+   "pc_rel_chord": 3,
+   "chord_source": "printed"
   },
   {
    "bar": 29,
@@ -2785,7 +2900,8 @@
    "chord_quality": "m7b57",
    "pc_rel_tonic": 7,
    "chord_root_rel": 6,
-   "pc_rel_chord": 1
+   "pc_rel_chord": 1,
+   "chord_source": "printed"
   },
   {
    "bar": 29,
@@ -2809,7 +2925,8 @@
    "chord_quality": "m7b57",
    "pc_rel_tonic": 9,
    "chord_root_rel": 6,
-   "pc_rel_chord": 3
+   "pc_rel_chord": 3,
+   "chord_source": "printed"
   },
   {
    "bar": 30,
@@ -2833,7 +2950,8 @@
    "chord_quality": "&7",
    "pc_rel_tonic": 11,
    "chord_root_rel": 11,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 30,
@@ -2857,7 +2975,8 @@
    "chord_quality": "&7",
    "pc_rel_tonic": 11,
    "chord_root_rel": 11,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 30,
@@ -2881,7 +3000,8 @@
    "chord_quality": "&7",
    "pc_rel_tonic": 11,
    "chord_root_rel": 11,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 30,
@@ -2905,7 +3025,8 @@
    "chord_quality": "9",
    "pc_rel_tonic": 11,
    "chord_root_rel": 4,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 30,
@@ -2929,7 +3050,8 @@
    "chord_quality": "9",
    "pc_rel_tonic": 11,
    "chord_root_rel": 4,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 30,
@@ -2953,7 +3075,8 @@
    "chord_quality": "9",
    "pc_rel_tonic": 11,
    "chord_root_rel": 4,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 31,
@@ -2977,7 +3100,8 @@
    "chord_quality": "&9",
    "pc_rel_tonic": 11,
    "chord_root_rel": 9,
-   "pc_rel_chord": 2
+   "pc_rel_chord": 2,
+   "chord_source": "printed"
   },
   {
    "bar": 31,
@@ -3001,7 +3125,8 @@
    "chord_quality": "&9",
    "pc_rel_tonic": 11,
    "chord_root_rel": 9,
-   "pc_rel_chord": 2
+   "pc_rel_chord": 2,
+   "chord_source": "printed"
   },
   {
    "bar": 31,
@@ -3025,7 +3150,8 @@
    "chord_quality": "&9",
    "pc_rel_tonic": 11,
    "chord_root_rel": 9,
-   "pc_rel_chord": 2
+   "pc_rel_chord": 2,
+   "chord_source": "printed"
   },
   {
    "bar": 31,
@@ -3049,7 +3175,8 @@
    "chord_quality": "13",
    "pc_rel_tonic": 11,
    "chord_root_rel": 2,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 31,
@@ -3073,7 +3200,8 @@
    "chord_quality": "13",
    "pc_rel_tonic": 11,
    "chord_root_rel": 2,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 31,
@@ -3097,7 +3225,8 @@
    "chord_quality": "13",
    "pc_rel_tonic": 11,
    "chord_root_rel": 2,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 32,
@@ -3121,7 +3250,8 @@
    "chord_quality": "m7/C",
    "pc_rel_tonic": 2,
    "chord_root_rel": 2,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 32,
@@ -3145,7 +3275,8 @@
    "chord_quality": "m7/C",
    "pc_rel_tonic": 9,
    "chord_root_rel": 2,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 32,
@@ -3169,7 +3300,8 @@
    "chord_quality": "m7/C",
    "pc_rel_tonic": 9,
    "chord_root_rel": 2,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 32,
@@ -3193,7 +3325,8 @@
    "chord_quality": "m7/C",
    "pc_rel_tonic": 9,
    "chord_root_rel": 2,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 34,
@@ -3217,7 +3350,8 @@
    "chord_quality": "7F C#dim7",
    "pc_rel_tonic": 5,
    "chord_root_rel": 1,
-   "pc_rel_chord": 4
+   "pc_rel_chord": 4,
+   "chord_source": "printed"
   },
   {
    "bar": 34,
@@ -3241,7 +3375,8 @@
    "chord_quality": "7F C#dim7",
    "pc_rel_tonic": 4,
    "chord_root_rel": 1,
-   "pc_rel_chord": 3
+   "pc_rel_chord": 3,
+   "chord_source": "printed"
   },
   {
    "bar": 35,
@@ -3265,7 +3400,8 @@
    "chord_quality": "",
    "pc_rel_tonic": 7,
    "chord_root_rel": 0,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 36,
@@ -3289,7 +3425,8 @@
    "chord_quality": "9",
    "pc_rel_tonic": 5,
    "chord_root_rel": 7,
-   "pc_rel_chord": 10
+   "pc_rel_chord": 10,
+   "chord_source": "printed"
   },
   {
    "bar": 36,
@@ -3313,7 +3450,8 @@
    "chord_quality": "9",
    "pc_rel_tonic": 4,
    "chord_root_rel": 7,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 37,
@@ -3337,7 +3475,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 7,
    "chord_root_rel": 2,
-   "pc_rel_chord": 5
+   "pc_rel_chord": 5,
+   "chord_source": "printed"
   },
   {
    "bar": 37,
@@ -3361,7 +3500,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 9,
    "chord_root_rel": 2,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 37,
@@ -3385,7 +3525,8 @@
    "chord_quality": "13(b9)",
    "pc_rel_tonic": 4,
    "chord_root_rel": 7,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 37,
@@ -3409,7 +3550,8 @@
    "chord_quality": "13(b9)",
    "pc_rel_tonic": 7,
    "chord_root_rel": 7,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 38,
@@ -3433,7 +3575,8 @@
    "chord_quality": "\u0152\u00b27",
    "pc_rel_tonic": 2,
    "chord_root_rel": 9,
-   "pc_rel_chord": 5
+   "pc_rel_chord": 5,
+   "chord_source": "printed"
   },
   {
    "bar": 38,
@@ -3457,7 +3600,8 @@
    "chord_quality": "\u0152\u00b27",
    "pc_rel_tonic": 0,
    "chord_root_rel": 9,
-   "pc_rel_chord": 3
+   "pc_rel_chord": 3,
+   "chord_source": "printed"
   },
   {
    "bar": 39,
@@ -3481,7 +3625,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 4,
    "chord_root_rel": 9,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 40,
@@ -3505,7 +3650,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 2,
    "chord_root_rel": 5,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 40,
@@ -3529,7 +3675,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 0,
    "chord_root_rel": 5,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 41,
@@ -3553,7 +3700,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 2,
    "chord_root_rel": 5,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 41,
@@ -3577,7 +3725,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 4,
    "chord_root_rel": 5,
-   "pc_rel_chord": 11
+   "pc_rel_chord": 11,
+   "chord_source": "printed"
   },
   {
    "bar": 41,
@@ -3601,7 +3750,8 @@
    "chord_quality": "7(b9)",
    "pc_rel_tonic": 10,
    "chord_root_rel": 4,
-   "pc_rel_chord": 6
+   "pc_rel_chord": 6,
+   "chord_source": "printed"
   },
   {
    "bar": 41,
@@ -3625,7 +3775,8 @@
    "chord_quality": "7(b9)",
    "pc_rel_tonic": 2,
    "chord_root_rel": 4,
-   "pc_rel_chord": 10
+   "pc_rel_chord": 10,
+   "chord_source": "printed"
   },
   {
    "bar": 42,
@@ -3649,7 +3800,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 11,
    "chord_root_rel": 4,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 42,
@@ -3673,7 +3825,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 9,
    "chord_root_rel": 4,
-   "pc_rel_chord": 5
+   "pc_rel_chord": 5,
+   "chord_source": "printed"
   },
   {
    "bar": 43,
@@ -3697,7 +3850,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 0,
    "chord_root_rel": 2,
-   "pc_rel_chord": 10
+   "pc_rel_chord": 10,
+   "chord_source": "printed"
   },
   {
    "bar": 43,
@@ -3721,7 +3875,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 11,
    "chord_root_rel": 2,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 43,
@@ -3745,7 +3900,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 2,
    "chord_root_rel": 2,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 43,
@@ -3769,7 +3925,8 @@
    "chord_quality": "/A",
    "pc_rel_tonic": 2,
    "chord_root_rel": 0,
-   "pc_rel_chord": 2
+   "pc_rel_chord": 2,
+   "chord_source": "printed"
   },
   {
    "bar": 43,
@@ -3793,7 +3950,8 @@
    "chord_quality": "/A",
    "pc_rel_tonic": 0,
    "chord_root_rel": 0,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 43,
@@ -3817,7 +3975,8 @@
    "chord_quality": "/A",
    "pc_rel_tonic": 0,
    "chord_root_rel": 0,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 44,
@@ -3841,7 +4000,8 @@
    "chord_quality": "",
    "pc_rel_tonic": 4,
    "chord_root_rel": 5,
-   "pc_rel_chord": 11
+   "pc_rel_chord": 11,
+   "chord_source": "printed"
   },
   {
    "bar": 44,
@@ -3865,7 +4025,8 @@
    "chord_quality": "",
    "pc_rel_tonic": 2,
    "chord_root_rel": 5,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 44,
@@ -3889,7 +4050,8 @@
    "chord_quality": "",
    "pc_rel_tonic": 5,
    "chord_root_rel": 5,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 44,
@@ -3913,7 +4075,8 @@
    "chord_quality": "",
    "pc_rel_tonic": 5,
    "chord_root_rel": 5,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 44,
@@ -3937,7 +4100,8 @@
    "chord_quality": "&7",
    "pc_rel_tonic": 4,
    "chord_root_rel": 9,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 45,
@@ -3961,7 +4125,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 11,
    "chord_root_rel": 2,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 45,
@@ -3985,7 +4150,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 9,
    "chord_root_rel": 2,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 45,
@@ -4009,7 +4175,8 @@
    "chord_quality": "7",
    "pc_rel_tonic": 11,
    "chord_root_rel": 2,
-   "pc_rel_chord": 9
+   "pc_rel_chord": 9,
+   "chord_source": "printed"
   },
   {
    "bar": 46,
@@ -4033,7 +4200,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 0,
    "chord_root_rel": 2,
-   "pc_rel_chord": 10
+   "pc_rel_chord": 10,
+   "chord_source": "printed"
   },
   {
    "bar": 46,
@@ -4057,7 +4225,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 0,
    "chord_root_rel": 2,
-   "pc_rel_chord": 10
+   "pc_rel_chord": 10,
+   "chord_source": "printed"
   },
   {
    "bar": 46,
@@ -4081,7 +4250,8 @@
    "chord_quality": "m7",
    "pc_rel_tonic": 0,
    "chord_root_rel": 2,
-   "pc_rel_chord": 10
+   "pc_rel_chord": 10,
+   "chord_source": "printed"
   },
   {
    "bar": 46,
@@ -4105,7 +4275,8 @@
    "chord_quality": "/A",
    "pc_rel_tonic": 0,
    "chord_root_rel": 0,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 46,
@@ -4129,7 +4300,8 @@
    "chord_quality": "/A",
    "pc_rel_tonic": 0,
    "chord_root_rel": 0,
-   "pc_rel_chord": 0
+   "pc_rel_chord": 0,
+   "chord_source": "printed"
   },
   {
    "bar": 47,
@@ -4153,7 +4325,8 @@
    "chord_quality": "\u00b27",
    "pc_rel_tonic": 0,
    "chord_root_rel": 5,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 47,
@@ -4177,7 +4350,8 @@
    "chord_quality": "\u00b27",
    "pc_rel_tonic": 0,
    "chord_root_rel": 5,
-   "pc_rel_chord": 7
+   "pc_rel_chord": 7,
+   "chord_source": "printed"
   },
   {
    "bar": 47,
@@ -4201,7 +4375,8 @@
    "chord_quality": "m7/C",
    "pc_rel_tonic": 0,
    "chord_root_rel": 2,
-   "pc_rel_chord": 10
+   "pc_rel_chord": 10,
+   "chord_source": "printed"
   },
   {
    "bar": 47,
@@ -4225,7 +4400,8 @@
    "chord_quality": "m7/C",
    "pc_rel_tonic": 0,
    "chord_root_rel": 2,
-   "pc_rel_chord": 10
+   "pc_rel_chord": 10,
+   "chord_source": "printed"
   },
   {
    "bar": 47,
@@ -4249,7 +4425,8 @@
    "chord_quality": "m7/C",
    "pc_rel_tonic": 0,
    "chord_root_rel": 2,
-   "pc_rel_chord": 10
+   "pc_rel_chord": 10,
+   "chord_source": "printed"
   },
   {
    "bar": 48,
@@ -4273,7 +4450,8 @@
    "chord_quality": "m7/C",
    "pc_rel_tonic": 0,
    "chord_root_rel": 2,
-   "pc_rel_chord": 10
+   "pc_rel_chord": 10,
+   "chord_source": "printed"
   },
   {
    "bar": 50,
@@ -4297,7 +4475,8 @@
    "chord_quality": "m7/C",
    "pc_rel_tonic": 0,
    "chord_root_rel": 2,
-   "pc_rel_chord": 10
+   "pc_rel_chord": 10,
+   "chord_source": "printed"
   }
  ]
 }
