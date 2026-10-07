@@ -4,7 +4,7 @@ Lyrics aligned to notated melody, at the syllable, for songs where **Cole Porter
 wrote both the words and the music**.
 
 Each row is one note, carrying the syllable sung on it, the chord sounding at
-its onset, its pitch and its duration — in absolute terms and in key-invariant
+its onset, its pitch and its duration, in absolute terms and in key-invariant
 ones. Chord corpora are plentiful and lyric corpora are plentiful; lyrics
 aligned to *notated* melody at the syllable are not.
 
@@ -23,13 +23,33 @@ Night and Day,2,69,A4,quarter,1.0,"beat,",False,D,dim,7,1,6
 Transcribed from engraved editions of each song. The source scores are not
 redistributed here.
 
+## Songs
+
+| song | key | bars | note events | attachment points |
+|---|---|---:|---:|---:|
+| Anything Goes | C | 47 | 196 | 167 |
+| At Long Last Love | F | 33 | 97 | 85 |
+| Dream Dancing | Bb | 54 | 127 | 109 |
+| Easy To Love | G | 25 | 60 | 54 |
+| Easy To Love (verse) | Eb | 48 | 136 | 124 |
+| Every Time We Say Goodbye | Eb | 38 | 128 | 110 |
+| Get Out Of Town | Bb | 34 | 118 | 87 |
+| I Concentrate On You | C | 72 | 163 | 141 |
+| I've Got You Under My Skin | Eb | 63 | 200 | 175 |
+| It's All Right With Me | C | 61 | 146 | 124 |
+| Night and Day | D | 64 | 233 | 196 |
+| What Is This Thing Called Love | A | 49 | 131 | 117 |
+| You Do Something To Me | Eb | 32 | 64 | 60 |
+| You're The Top | F | 51 | 179 | 146 |
+| **14 songs** | | **671** | **1978** | **1695** |
+
 ## The unit of analysis
 
 The atom is the **syllable-to-note attachment point**, with the chord sounding
-at onset — not the word.
+at onset, not the word.
 
 In sung music one word routinely spans several notes and crosses a chord
-change: *love* held four beats through a ii–V. Collapsing that to a single
+change: *love* held four beats through a ii-V. Collapsing that to a single
 "word" makes every downstream result an artefact of how multi-note words were
 merged. So every note is its own row, and a word held over *k* notes appears as
 one attachment plus *k*−1 melisma continuations, flagged in `melisma` rather
@@ -48,18 +68,18 @@ to invent a rule for.
 | `bar` | bar number, counting the anacrusis as bar 1 |
 | `page`, `system`, `x` | position in the engraved source |
 
-**Pitch** — `midi`, `pitch_name` (e.g. `Bb4`), `dia` (diatonic index, C4 = 0),
+**Pitch**: `midi`, `pitch_name` (e.g. `Bb4`), `dia` (diatonic index, C4 = 0),
 `alter` (semitone alteration applied)
 
-**Rhythm** — `note_type` (`whole`…`32nd`), `dots`, `tuplet`, `duration_q`
+**Rhythm**, `note_type` (`whole`…`32nd`), `dots`, `tuplet`, `duration_q`
 (duration in quarter notes, dots and tuplets applied)
 
-**Words** — `syllable` (empty on a melisma continuation), `word_start` (false
+**Words**: `syllable` (empty on a melisma continuation), `word_start` (false
 when this syllable continues the previous word), `hyphen_after`, `melisma`
 
-**Harmony** — `chord_raw` (symbol as printed), `chord_root`, `chord_quality`
+**Harmony**: `chord_raw` (symbol as printed), `chord_root`, `chord_quality`
 
-**Key-invariant views** — `pc_rel_tonic` (pitch class above the tonic, 0–11),
+**Key-invariant views**: `pc_rel_tonic` (pitch class above the tonic, 0-11),
 `chord_root_rel` (chord root above the tonic), `pc_rel_chord` (pitch class above
 the chord root)
 
@@ -93,6 +113,5 @@ taken from each song's final chord.
 
 The MIT licence covers any code here. It does not and cannot grant rights in
 Cole Porter's songs, which remain in copyright. These rows are published as
-research data — counts, features and alignments for text and data mining — and
-are not a substitute for the works. If you hold rights in this material and
+research data: counts, features and alignments for text and data mining. They are not a substitute for the works. If you hold rights in this material and
 want something removed, open an issue and it will be taken down.
