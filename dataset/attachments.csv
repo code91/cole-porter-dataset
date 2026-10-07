@@ -631,12 +631,12 @@ I've Got You Under My Skin,63,63,Eb4,2,-1,whole,0,1,4.0,,,,True,Eb6,Eb,6,0,0,0,p
 You Do Something To Me,1,63,Eb4,2,-1,whole,0,1,4.0,You,True,False,False,,,,0,,,printed
 You Do Something To Me,2,62,D4,1,0,whole,0,1,4.0,do,True,False,False,D7,D,7,11,11,0,printed
 You Do Something To Me,3,63,Eb4,2,-1,quarter,0,1,1.0,some,True,True,False,E¨6,Eb,6,0,0,0,printed
-You Do Something To Me,3,65,F4,3,0,half,0,1,2.0,thing,False,False,False,E¨²,Eb,²,2,0,2,printed
+You Do Something To Me,3,65,F4,3,0,half,0,1,2.0,thing,False,False,False,E¨6,Eb,6,2,0,2,printed
 You Do Something To Me,3,62,D4,1,0,quarter,0,1,1.0,to,True,False,False,E¨º,Eb,dim,11,0,11,printed
 You Do Something To Me,4,60,C4,0,0,whole,0,1,4.0,"me,",True,False,False,E¨6,Eb,6,9,0,9,printed
 You Do Something To Me,5,60,C4,0,0,quarter,0,1,1.0,some,True,True,False,E¨6,Eb,6,9,0,9,printed
-You Do Something To Me,5,62,D4,1,0,half,0,1,2.0,thing,False,False,False,E¨²,Eb,²,11,0,11,printed
-You Do Something To Me,5,58,Bb3,-1,-1,quarter,0,1,1.0,that,True,False,False,E¨²,Eb,²,7,0,7,printed
+You Do Something To Me,5,62,D4,1,0,half,0,1,2.0,thing,False,False,False,E¨6,Eb,6,11,0,11,printed
+You Do Something To Me,5,58,Bb3,-1,-1,quarter,0,1,1.0,that,True,False,False,E¨6,Eb,6,7,0,7,printed
 You Do Something To Me,6,60,C4,0,0,quarter,0,1,1.0,simp,True,True,False,G‹7,G,m7,9,4,5,printed
 You Do Something To Me,6,63,Eb4,2,-1,quarter,0,1,1.0,ly,False,False,False,G‹7,G,m7,0,4,8,printed
 You Do Something To Me,6,67,G4,4,0,quarter,0,1,1.0,mys,True,True,False,C7(b9),C,7(b9),4,9,7,printed
@@ -688,7 +688,7 @@ You Do Something To Me,28,72,C5,7,0,quarter,0,1,1.0,that,True,False,False,C7,C,7
 You Do Something To Me,29,71,B4,6,0,quarter,0,1,1.0,no,True,True,False,F9,F,9,8,2,6,printed
 You Do Something To Me,29,72,C5,7,0,half,0,1,2.0,bod,False,True,False,F9,F,9,9,2,7,printed
 You Do Something To Me,29,67,G4,4,0,quarter,0,1,1.0,y,False,False,False,F9,F,9,4,2,2,printed
-You Do Something To Me,30,65,F4,3,0,half,0,1,2.0,else,True,False,False,B¨9(“4),Bb,9(“4),2,7,7,printed
+You Do Something To Me,30,65,F4,3,0,half,0,1,2.0,else,True,False,False,F9,F,9,2,2,0,printed
 You Do Something To Me,30,67,G4,4,0,half,0,1,2.0,can,True,False,False,B¨13(b9),Bb,13(b9),4,7,9,printed
 You Do Something To Me,31,63,Eb4,2,-1,whole,0,1,4.0,do,True,False,False,E¨6,Eb,6,0,0,0,printed
 You Do Something To Me,32,63,Eb4,2,-1,whole,0,1,4.0,,,,True,E¨6,Eb,6,0,0,0,printed
@@ -742,9 +742,9 @@ Get Out Of Town,13,70,Bb4,6,-1,eighth,0,1,0.5,"charm,",True,False,False,EØ7,E,m
 Get Out Of Town,13,70,Bb4,6,-1,half,0,1,2.0,,,,True,EØ7,E,m7b57,3,9,6,printed
 Get Out Of Town,14,69,A4,5,0,eighth,0,1,0.5,the,True,False,False,A13(b9),A,13(b9),2,2,0,printed
 Get Out Of Town,14,72,C5,7,0,eighth,0,1,0.5,birds,True,False,False,A13(b9),A,13(b9),5,2,3,printed
-Get Out Of Town,14,72,C5,7,0,eighth,0,1,0.5,,,,True,A7&(b9),A,7&(b9),5,2,3,printed
-Get Out Of Town,14,72,C5,7,0,quarter,0,1,1.0,off,True,False,False,A7&(b9),A,7&(b9),5,2,3,printed
-Get Out Of Town,14,70,Bb4,6,-1,eighth,0,1,0.5,the,True,False,False,A7&(b9),A,7&(b9),3,2,1,printed
+Get Out Of Town,14,72,C5,7,0,eighth,0,1,0.5,,,,True,A13(b9),A,13(b9),5,2,3,printed
+Get Out Of Town,14,72,C5,7,0,quarter,0,1,1.0,off,True,False,False,A13(b9),A,13(b9),5,2,3,printed
+Get Out Of Town,14,70,Bb4,6,-1,eighth,0,1,0.5,the,True,False,False,A13(b9),A,13(b9),3,2,1,printed
 Get Out Of Town,15,69,A4,5,0,whole,0,1,4.0,trees?,True,False,False,A‹7,A,m7,2,2,0,printed
 Get Out Of Town,16,69,A4,5,0,quarter,0,1,1.0,,,,True,A‹7/D,A,m7/D,2,2,0,printed
 Get Out Of Town,17,62,D4,1,0,eighth,0,1,0.5,Justdis,True,True,False,G‹(„ˆˆ9),G,m(add9),7,0,7,printed
@@ -778,11 +778,11 @@ Get Out Of Town,23,74,D5,8,0,eighth,0,1,0.5,too,True,False,False,D‹7,D,m7,7,7,
 Get Out Of Town,23,74,D5,8,0,eighth,0,1,0.5,much.,True,False,False,D‹7,D,m7,7,7,0,printed
 Get Out Of Town,23,74,D5,8,0,half,0,1,2.0,,,,True,A¨13,Ab,13,7,1,6,printed
 Get Out Of Town,24,74,D5,8,0,quarter,0,1,1.0,The,True,False,False,G7(b9),G,7(b9),7,0,7,printed
-Get Out Of Town,25,73,Db5,8,-1,quarter,0,3,0.66667,thrillwhen,True,False,False,E¨²,Eb,²,6,8,10,printed
-Get Out Of Town,25,71,B4,6,0,quarter,0,3,0.66667,,,,True,E¨²,Eb,²,4,8,8,printed
-Get Out Of Town,25,72,C5,7,0,quarter,0,3,0.66667,we,True,False,False,E¨²,Eb,²,5,8,9,printed
-Get Out Of Town,25,77,F5,10,0,quarter,1,1,1.5,meet,True,False,False,E¨²,Eb,²,10,8,2,printed
-Get Out Of Town,25,75,Eb5,9,-1,eighth,0,1,0.5,is,True,False,False,E¨²,Eb,²,8,8,0,printed
+Get Out Of Town,25,73,Db5,8,-1,quarter,0,3,0.66667,thrillwhen,True,False,False,G7(b9),G,7(b9),6,0,6,printed
+Get Out Of Town,25,71,B4,6,0,quarter,0,3,0.66667,,,,True,G7(b9),G,7(b9),4,0,4,printed
+Get Out Of Town,25,72,C5,7,0,quarter,0,3,0.66667,we,True,False,False,G7(b9),G,7(b9),5,0,5,printed
+Get Out Of Town,25,77,F5,10,0,quarter,1,1,1.5,meet,True,False,False,G7(b9),G,7(b9),10,0,10,printed
+Get Out Of Town,25,75,Eb5,9,-1,eighth,0,1,0.5,is,True,False,False,G7(b9),G,7(b9),8,0,8,printed
 Get Out Of Town,26,66,Gb4,4,-1,quarter,0,3,0.66667,so,True,False,False,A¨9,Ab,9,11,1,10,printed
 Get Out Of Town,26,65,F4,3,0,quarter,0,3,0.66667,bit,True,True,False,A¨9,Ab,9,10,1,9,printed
 Get Out Of Town,26,66,Gb4,4,-1,quarter,0,3,0.66667,tersweet,False,False,False,A¨9,Ab,9,11,1,10,printed
@@ -1023,9 +1023,9 @@ Love For Sale,82,77,F5,10,0,quarter,0,1,1.0,,,,True,F7[áÆ],F,7(b13b9),7,7,0,pr
 Love For Sale,82,73,Db5,8,-1,half,0,1,2.0,for,True,False,False,F7[áÆ],F,7(b13b9),3,7,8,printed
 Love For Sale,83,70,Bb4,6,-1,whole,0,1,4.0,sale,True,False,False,B¨‹6,Bb,m6,0,0,0,printed
 Love For Sale,84,70,Bb4,6,-1,quarter,0,1,1.0,,,,True,B¨‹6,Bb,m6,0,0,0,printed
-Easy To Love,1,58,Bb3,-1,-1,quarter,0,1,1.0,I,True,False,False,G¨²,Gb,²,7,3,4,printed
-Easy To Love,1,59,Cb4,0,-1,quarter,0,1,1.0,know,True,False,False,G¨²,Gb,²,8,3,5,printed
-Easy To Love,1,61,Db4,1,-1,quarter,0,1,1.0,too,True,False,False,G¨²,Gb,²,10,3,7,printed
+Easy To Love,1,58,Bb3,-1,-1,quarter,0,1,1.0,I,True,False,False,,,,7,,,printed
+Easy To Love,1,59,Cb4,0,-1,quarter,0,1,1.0,know,True,False,False,,,,8,,,printed
+Easy To Love,1,61,Db4,1,-1,quarter,0,1,1.0,too,True,False,False,,,,10,,,printed
 Easy To Love,2,62,D4,1,0,quarter,1,1,1.5,well,True,False,False,E¨‹(^7),Eb,m(maj7),11,0,11,printed
 Easy To Love,2,63,Eb4,2,-1,eighth,0,1,0.5,that,True,False,False,E¨‹(^7),Eb,m(maj7),0,0,0,printed
 Easy To Love,2,70,Bb4,6,-1,half,0,1,2.0,I'm,True,False,False,E¨‹7,Eb,m7,7,0,7,printed
@@ -1045,37 +1045,37 @@ Easy To Love,6,58,Bb3,-1,-1,quarter,1,1,1.5,thing,True,False,False,D¨7,Db,7,7,1
 Easy To Love,6,55,G3,-3,0,eighth,0,1,0.5,coul,True,False,False,D¨7,Db,7,4,10,6,printed
 Easy To Love,6,56,Ab3,-2,-1,quarter,0,1,1.0,"be,",True,False,False,D¨7,Db,7,5,10,7,printed
 Easy To Love,6,58,Bb3,-1,-1,quarter,0,1,1.0,That,True,False,False,D¨7,Db,7,7,10,9,printed
-Easy To Love,7,61,Db4,1,-1,half,0,1,2.0,you,True,False,False,G¨²,Gb,²,10,3,7,printed
-Easy To Love,7,61,Db4,1,-1,eighth,0,1,0.5,,,,True,G¨²,Gb,²,10,3,7,printed
-Easy To Love,7,63,Eb4,2,-1,eighth,0,1,0.5,couldec,True,True,False,G¨²,Gb,²,0,3,9,printed
-Easy To Love,7,65,F4,3,0,eighth,0,1,0.5,,,,True,G¨²,Gb,²,2,3,11,printed
-Easy To Love,7,66,Gb4,4,-1,eighth,0,1,0.5,er,False,False,False,G¨²,Gb,²,3,3,0,printed
+Easy To Love,7,61,Db4,1,-1,half,0,1,2.0,you,True,False,False,D¨7,Db,7,10,10,0,printed
+Easy To Love,7,61,Db4,1,-1,eighth,0,1,0.5,,,,True,D¨7,Db,7,10,10,0,printed
+Easy To Love,7,63,Eb4,2,-1,eighth,0,1,0.5,couldec,True,True,False,D¨7,Db,7,0,10,2,printed
+Easy To Love,7,65,F4,3,0,eighth,0,1,0.5,,,,True,D¨7,Db,7,2,10,4,printed
+Easy To Love,7,66,Gb4,4,-1,eighth,0,1,0.5,er,False,False,False,D¨7,Db,7,3,10,5,printed
 Easy To Love,8,68,Ab4,5,-1,quarter,1,1,1.5,care,True,False,False,A¨‹7,Ab,m7,5,5,0,printed
 Easy To Love,8,70,Bb4,6,-1,eighth,0,1,0.5,for,True,False,False,A¨‹7,Ab,m7,7,5,2,printed
 Easy To Love,8,68,Ab4,5,-1,half,0,1,2.0,me.,True,False,False,D¨7(b9),Db,7(b9),5,10,7,printed
-Easy To Love,9,58,Bb3,-1,-1,quarter,0,1,1.0,I'm,True,False,False,G¨²,Gb,²,7,3,4,printed
-Easy To Love,9,59,Cb4,0,-1,quarter,0,1,1.0,sure,True,False,False,G¨²,Gb,²,8,3,5,printed
-Easy To Love,9,61,Db4,1,-1,quarter,0,1,1.0,you,True,False,False,G¨²,Gb,²,10,3,7,printed
+Easy To Love,9,58,Bb3,-1,-1,quarter,0,1,1.0,I'm,True,False,False,D¨7(b9),Db,7(b9),7,10,9,printed
+Easy To Love,9,59,Cb4,0,-1,quarter,0,1,1.0,sure,True,False,False,D¨7(b9),Db,7(b9),8,10,10,printed
+Easy To Love,9,61,Db4,1,-1,quarter,0,1,1.0,you,True,False,False,D¨7(b9),Db,7(b9),10,10,0,printed
 Easy To Love,10,62,D4,1,0,quarter,1,1,1.5,hate,True,False,False,D¨7(b9),Db,7(b9),11,10,1,printed
 Easy To Love,10,63,Eb4,2,-1,eighth,0,1,0.5,to,True,False,False,D¨7(b9),Db,7(b9),0,10,2,printed
 Easy To Love,10,71,Cb5,7,-1,half,0,1,2.0,hear,True,False,False,D¨9,Db,9,8,10,10,printed
-Easy To Love,11,71,Cb5,7,-1,quarter,0,1,1.0,,,,True,G¨²,Gb,²,8,3,5,printed
-Easy To Love,11,70,Bb4,6,-1,quarter,0,1,1.0,That,True,False,False,G¨²,Gb,²,7,3,4,printed
-Easy To Love,11,69,A4,5,0,quarter,0,1,1.0,I,True,False,False,G¨²,Gb,²,6,3,3,printed
-Easy To Love,11,66,Gb4,4,-1,quarter,0,1,1.0,a,True,True,False,G¨²,Gb,²,3,3,0,printed
+Easy To Love,11,71,Cb5,7,-1,quarter,0,1,1.0,,,,True,D¨9,Db,9,8,10,10,printed
+Easy To Love,11,70,Bb4,6,-1,quarter,0,1,1.0,That,True,False,False,D¨9,Db,9,7,10,9,printed
+Easy To Love,11,69,A4,5,0,quarter,0,1,1.0,I,True,False,False,D¨9,Db,9,6,10,8,printed
+Easy To Love,11,66,Gb4,4,-1,quarter,0,1,1.0,a,True,True,False,D¨9,Db,9,3,10,5,printed
 Easy To Love,12,65,F4,3,0,quarter,1,1,1.5,dore,False,False,False,E¨‹7,Eb,m7,2,0,2,printed
 Easy To Love,12,62,D4,1,0,eighth,0,1,0.5,you,True,False,False,E¨‹7,Eb,m7,11,0,11,printed
 Easy To Love,12,63,Eb4,2,-1,quarter,0,1,1.0,"dear,",True,False,False,E¨‹7,Eb,m7,0,0,0,printed
 Easy To Love,12,64,Fb4,3,-1,quarter,0,1,1.0,But,True,False,False,E¨‹7,Eb,m7,1,0,1,printed
-Easy To Love,13,65,F4,3,0,quarter,0,1,1.0,grant,True,False,False,B¨²,Bb,²,2,7,7,printed
-Easy To Love,13,64,Fb4,3,-1,quarter,0,1,1.0,"me,",True,False,False,B¨²,Bb,²,1,7,6,printed
-Easy To Love,13,63,Eb4,2,-1,quarter,0,1,1.0,just,True,False,False,B¨²,Bb,²,0,7,5,printed
-Easy To Love,13,62,D4,1,0,quarter,0,1,1.0,the,True,False,False,B¨²,Bb,²,11,7,4,printed
-Easy To Love,14,67,G4,4,0,half,0,1,2.0,same,True,False,False,E¨²,Eb,²,4,0,4,printed
-Easy To Love,14,67,G4,4,0,eighth,0,1,0.5,,,,True,E¨²,Eb,²,4,0,4,printed
-Easy To Love,14,55,G3,-3,0,eighth,0,1,0.5,I'm,True,False,False,E¨²,Eb,²,4,0,4,printed
-Easy To Love,14,54,F#3,-4,1,eighth,0,1,0.5,not,True,False,False,E¨²,Eb,²,3,0,3,printed
-Easy To Love,14,55,G3,-3,0,eighth,0,1,0.5,en,True,True,False,E¨²,Eb,²,4,0,4,printed
+Easy To Love,13,65,F4,3,0,quarter,0,1,1.0,grant,True,False,False,E¨‹7,Eb,m7,2,0,2,printed
+Easy To Love,13,64,Fb4,3,-1,quarter,0,1,1.0,"me,",True,False,False,E¨‹7,Eb,m7,1,0,1,printed
+Easy To Love,13,63,Eb4,2,-1,quarter,0,1,1.0,just,True,False,False,E¨‹7,Eb,m7,0,0,0,printed
+Easy To Love,13,62,D4,1,0,quarter,0,1,1.0,the,True,False,False,E¨‹7,Eb,m7,11,0,11,printed
+Easy To Love,14,67,G4,4,0,half,0,1,2.0,same,True,False,False,E¨‹7,Eb,m7,4,0,4,printed
+Easy To Love,14,67,G4,4,0,eighth,0,1,0.5,,,,True,E¨‹7,Eb,m7,4,0,4,printed
+Easy To Love,14,55,G3,-3,0,eighth,0,1,0.5,I'm,True,False,False,E¨‹7,Eb,m7,4,0,4,printed
+Easy To Love,14,54,F#3,-4,1,eighth,0,1,0.5,not,True,False,False,E¨‹7,Eb,m7,3,0,3,printed
+Easy To Love,14,55,G3,-3,0,eighth,0,1,0.5,en,True,True,False,E¨‹7,Eb,m7,4,0,4,printed
 Easy To Love,15,63,Eb4,2,-1,half,0,1,2.0,tire,False,True,False,C‹7,C,m7,0,9,3,printed
 Easy To Love,15,62,D4,1,0,quarter,1,1,1.5,ly,False,False,False,F7,F,7,11,2,9,printed
 Easy To Love,15,60,C4,0,0,eighth,0,1,0.5,to,True,False,False,F7,F,7,9,2,7,printed
@@ -1089,9 +1089,9 @@ Easy To Love,19,55,G3,-3,0,quarter,1,1,1.5,y,False,False,False,F‹7,F,m7,4,2,2,
 Easy To Love,19,56,Ab3,-2,-1,eighth,0,1,0.5,to,True,False,False,F‹7,F,m7,5,2,3,printed
 Easy To Love,20,62,D4,1,0,half,1,1,3.0,"love,",True,False,False,B¨7,Bb,7,11,7,4,printed
 Easy To Love,20,60,C4,0,0,quarter,0,1,1.0,So,True,False,False,B¨7,Bb,7,9,7,2,printed
-Easy To Love,21,58,Bb3,-1,-1,half,0,1,2.0,eas,True,True,False,E¨²,Eb,²,7,0,7,printed
-Easy To Love,21,57,A3,-2,0,quarter,0,1,1.0,y,False,False,False,E¨²,Eb,²,6,0,6,printed
-Easy To Love,21,58,Bb3,-1,-1,quarter,0,1,1.0,to,True,False,False,E¨²,Eb,²,7,0,7,printed
+Easy To Love,21,58,Bb3,-1,-1,half,0,1,2.0,eas,True,True,False,B¨7,Bb,7,7,7,0,printed
+Easy To Love,21,57,A3,-2,0,quarter,0,1,1.0,y,False,False,False,B¨7,Bb,7,6,7,11,printed
+Easy To Love,21,58,Bb3,-1,-1,quarter,0,1,1.0,to,True,False,False,B¨7,Bb,7,7,7,0,printed
 Easy To Love,22,65,F4,3,0,quarter,0,1,1.0,i,True,True,False,A¨9,Ab,9,2,5,9,printed
 Easy To Love,22,64,Fb4,3,-1,quarter,0,1,1.0,do,False,True,False,A¨9,Ab,9,1,5,8,printed
 Easy To Love,22,63,Eb4,2,-1,quarter,0,1,1.0,"lize,",False,False,False,A¨9,Ab,9,0,5,7,printed
@@ -1101,18 +1101,18 @@ Easy To Love,23,59,B3,-1,0,quarter,1,1,1.5,ers,False,False,False,E¨%,Eb,6/9,8,0
 Easy To Love,23,60,C4,0,0,eighth,0,1,0.5,a,True,True,False,E¨%,Eb,6/9,9,0,9,printed
 Easy To Love,24,70,Bb4,6,-1,whole,0,1,4.0,bove,False,False,False,E¨%,Eb,6/9,7,0,7,printed
 Easy To Love,25,70,Bb4,6,-1,whole,0,1,4.0,So,True,False,False,F‹7,F,m7,7,2,5,printed
-Easy To Love,26,60,C4,0,0,half,1,1,3.0,worth,True,False,False,B¨9(“4),Bb,9(“4),9,7,2,printed
+Easy To Love,26,60,C4,0,0,half,1,1,3.0,worth,True,False,False,F‹7,F,m7,9,2,7,printed
 Easy To Love,26,62,D4,1,0,quarter,0,1,1.0,the,True,False,False,B¨7(b9),Bb,7(b9),11,7,4,printed
-Easy To Love,27,67,G4,4,0,quarter,0,1,1.0,yearn,True,True,False,E¨²,Eb,²,4,0,4,printed
-Easy To Love,27,67,G4,4,0,quarter,0,1,1.0,ing,False,False,False,E¨²,Eb,²,4,0,4,printed
-Easy To Love,27,67,G4,4,0,half,0,1,2.0,for,True,False,False,A¨²,Ab,²,4,5,11,printed
+Easy To Love,27,67,G4,4,0,quarter,0,1,1.0,yearn,True,True,False,B¨7(b9),Bb,7(b9),4,7,9,printed
+Easy To Love,27,67,G4,4,0,quarter,0,1,1.0,ing,False,False,False,B¨7(b9),Bb,7(b9),4,7,9,printed
+Easy To Love,27,67,G4,4,0,half,0,1,2.0,for,True,False,False,B¨7(b9),Bb,7(b9),4,7,9,printed
 Easy To Love,28,67,G4,4,0,quarter,0,1,1.0,,,,True,G‹7,G,m7,4,4,0,printed
 Easy To Love,29,70,Bb4,6,-1,quarter,0,1,1.0,So,True,False,False,F‹7,F,m7,7,2,5,printed
 Easy To Love,29,58,Bb3,-1,-1,quarter,1,1,1.5,swell,True,False,False,F‹7,F,m7,7,2,5,printed
-Easy To Love,29,58,Bb3,-1,-1,eighth,0,1,0.5,to,True,False,False,B¨7(b9“4),Bb,7(b9“4),7,7,0,printed
-Easy To Love,30,59,Cb4,0,-1,eighth,0,1,0.5,keep,True,False,False,B¨7(b9“4),Bb,7(b9“4),8,7,1,printed
-Easy To Love,30,59,Cb4,0,-1,quarter,0,1,1.0,ev,True,True,False,B¨7(b9“4),Bb,7(b9“4),8,7,1,printed
-Easy To Love,30,59,Cb4,0,-1,eighth,0,1,0.5,ry,False,False,False,B¨7(b9“4),Bb,7(b9“4),8,7,1,printed
+Easy To Love,29,58,Bb3,-1,-1,eighth,0,1,0.5,to,True,False,False,F‹7,F,m7,7,2,5,printed
+Easy To Love,30,59,Cb4,0,-1,eighth,0,1,0.5,keep,True,False,False,F‹7,F,m7,8,2,6,printed
+Easy To Love,30,59,Cb4,0,-1,quarter,0,1,1.0,ev,True,True,False,F‹7,F,m7,8,2,6,printed
+Easy To Love,30,59,Cb4,0,-1,eighth,0,1,0.5,ry,False,False,False,F‹7,F,m7,8,2,6,printed
 Easy To Love,30,60,C4,0,0,quarter,0,1,1.0,home,True,False,False,B¨9,Bb,9,9,7,2,printed
 Easy To Love,30,60,C4,0,0,eighth,0,1,0.5,fireburn,True,True,False,B¨9,Bb,9,9,7,2,printed
 Easy To Love,30,62,D4,1,0,eighth,0,1,0.5,,,,True,B¨9,Bb,9,11,7,4,printed
@@ -1128,9 +1128,9 @@ Easy To Love,35,55,G3,-3,0,quarter,1,1,1.5,at,True,False,False,F‹7,F,m7,4,2,2,
 Easy To Love,35,56,Ab3,-2,-1,eighth,0,1,0.5,the,True,False,False,F‹7,F,m7,5,2,3,printed
 Easy To Love,36,62,D4,1,0,half,1,1,3.0,"game,",True,False,False,B¨7,Bb,7,11,7,4,printed
 Easy To Love,36,60,C4,0,0,quarter,0,1,1.0,So,True,False,False,B¨7,Bb,7,9,7,2,printed
-Easy To Love,37,58,Bb3,-1,-1,half,0,1,2.0,care,True,True,False,E¨²,Eb,²,7,0,7,printed
-Easy To Love,37,57,A3,-2,0,quarter,0,1,1.0,free,False,False,False,E¨²,Eb,²,6,0,6,printed
-Easy To Love,37,58,Bb3,-1,-1,quarter,0,1,1.0,to,True,True,False,E¨²,Eb,²,7,0,7,printed
+Easy To Love,37,58,Bb3,-1,-1,half,0,1,2.0,care,True,True,False,B¨7,Bb,7,7,7,0,printed
+Easy To Love,37,57,A3,-2,0,quarter,0,1,1.0,free,False,False,False,B¨7,Bb,7,6,7,11,printed
+Easy To Love,37,58,Bb3,-1,-1,quarter,0,1,1.0,to,True,True,False,B¨7,Bb,7,7,7,0,printed
 Easy To Love,38,65,F4,3,0,quarter,0,1,1.0,geth,False,True,False,A¨9,Ab,9,2,5,9,printed
 Easy To Love,38,64,Fb4,3,-1,quarter,0,1,1.0,er,False,False,False,A¨9,Ab,9,1,5,8,printed
 Easy To Love,38,63,Eb4,2,-1,quarter,0,1,1.0,that,True,False,False,A¨9,Ab,9,0,5,7,printed
@@ -1144,9 +1144,9 @@ Easy To Love,41,70,Bb4,6,-1,half,1,1,3.0,you,True,False,False,F‹7,F,m7,7,2,5,p
 Easy To Love,41,65,F4,3,0,quarter,0,1,1.0,can't,True,False,False,F‹7,F,m7,2,2,0,printed
 Easy To Love,42,68,Ab4,5,-1,half,1,1,3.0,see,True,False,False,D¨9,Db,9,5,10,7,printed
 Easy To Love,42,63,Eb4,2,-1,quarter,0,1,1.0,your,True,False,False,D¨9,Db,9,0,10,2,printed
-Easy To Love,43,67,G4,4,0,half,0,1,2.0,fu,True,True,False,E¨²,Eb,²,4,0,4,printed
-Easy To Love,43,62,D4,1,0,quarter,0,1,1.0,ture,False,False,False,E¨²,Eb,²,11,0,11,printed
-Easy To Love,43,63,Eb4,2,-1,quarter,0,1,1.0,with,True,False,False,E¨²,Eb,²,0,0,0,printed
+Easy To Love,43,67,G4,4,0,half,0,1,2.0,fu,True,True,False,D¨9,Db,9,4,10,6,printed
+Easy To Love,43,62,D4,1,0,quarter,0,1,1.0,ture,False,False,False,D¨9,Db,9,11,10,1,printed
+Easy To Love,43,63,Eb4,2,-1,quarter,0,1,1.0,with,True,False,False,D¨9,Db,9,0,10,2,printed
 Easy To Love,44,65,F4,3,0,quarter,0,1,1.0,me,True,False,False,G‹7,G,m7,2,4,10,printed
 Easy To Love,44,64,Fb4,3,-1,quarter,0,1,1.0,'cause,True,False,False,G‹7,G,m7,1,4,9,printed
 Easy To Love,44,63,Eb4,2,-1,quarter,0,1,1.0,you'd,True,False,False,G¨º7,Gb,dim7,0,3,9,printed
@@ -1290,8 +1290,8 @@ Every Time We Say Goodbye,38,63,Eb4,2,-1,whole,0,1,4.0,bye.,False,False,False,E�
 I Concentrate On You,1,55,G3,-3,0,quarter,0,1,1.0,When,True,True,False,C6,C,6,7,0,7,printed
 I Concentrate On You,1,57,A3,-2,0,quarter,0,1,1.0,ev,False,True,False,C6,C,6,9,0,9,printed
 I Concentrate On You,1,60,C4,0,0,quarter,0,1,1.0,er,False,False,False,C6,C,6,0,0,0,printed
-I Concentrate On You,2,59,B3,-1,0,half,1,1,3.0,skies,True,False,False,C²,C,²,11,0,11,printed
-I Concentrate On You,2,57,A3,-2,0,quarter,0,1,1.0,look,True,False,False,C²,C,²,9,0,9,printed
+I Concentrate On You,2,59,B3,-1,0,half,1,1,3.0,skies,True,False,False,C6,C,6,11,0,11,printed
+I Concentrate On You,2,57,A3,-2,0,quarter,0,1,1.0,look,True,False,False,C6,C,6,9,0,9,printed
 I Concentrate On You,3,59,B3,-1,0,quarter,1,1,1.5,grey,True,False,False,C‹(^7),C,m(maj7),11,0,11,printed
 I Concentrate On You,3,59,B3,-1,0,eighth,0,1,0.5,to,True,False,False,C‹(^7),C,m(maj7),11,0,11,printed
 I Concentrate On You,3,59,B3,-1,0,half,0,1,2.0,me,True,False,False,C‹(^7),C,m(maj7),11,0,11,printed
@@ -1302,8 +1302,8 @@ I Concentrate On You,5,65,F4,3,0,quarter,0,3,0.66667,ble,False,False,False,F9,F,
 I Concentrate On You,5,67,G4,4,0,quarter,0,3,0.66667,be,True,True,False,F9,F,9,7,5,2,printed
 I Concentrate On You,6,65,F4,3,0,half,1,1,3.0,gins,False,False,False,B¨‹9,Bb,m9,5,10,7,printed
 I Concentrate On You,6,63,Eb4,2,-1,quarter,0,1,1.0,to,True,False,False,E¨9,Eb,9,3,3,0,printed
-I Concentrate On You,7,65,F4,3,0,whole,0,1,4.0,"brew,",True,False,False,A¨²,Ab,²,5,8,9,printed
-I Concentrate On You,8,65,F4,3,0,half,1,1,3.0,,,,True,A¨²,Ab,²,5,8,9,printed
+I Concentrate On You,7,65,F4,3,0,whole,0,1,4.0,"brew,",True,False,False,E¨9,Eb,9,5,3,2,printed
+I Concentrate On You,8,65,F4,3,0,half,1,1,3.0,,,,True,E¨9,Eb,9,5,3,2,printed
 I Concentrate On You,9,65,F4,3,0,quarter,0,1,1.0,when,True,True,False,DØ7,D,m7b57,5,2,3,printed
 I Concentrate On You,9,65,F4,3,0,quarter,0,3,0.66667,ev,False,True,False,DØ7,D,m7b57,5,2,3,printed
 I Concentrate On You,9,67,G4,4,0,quarter,0,3,0.66667,er,False,False,False,DØ7,D,m7b57,7,2,5,printed
@@ -1318,16 +1318,16 @@ I Concentrate On You,12,63,Eb4,2,-1,whole,0,1,4.0,"strong,",True,False,False,B¨
 I Concentrate On You,13,62,D4,1,0,quarter,0,1,1.0,I,True,False,False,A¨9,Ab,9,2,8,6,printed
 I Concentrate On You,13,65,F4,3,0,quarter,0,1,1.0,Con,True,True,False,DØ7,D,m7b57,5,2,3,printed
 I Concentrate On You,13,64,E4,2,0,quarter,0,1,1.0,cen,False,True,False,DØ7,D,m7b57,4,2,2,printed
-I Concentrate On You,14,63,Eb4,2,-1,quarter,0,1,1.0,trate,False,False,False,G7&,G,7&,3,7,8,printed
-I Concentrate On You,14,62,D4,1,0,half,0,1,2.0,On,True,False,False,G7&,G,7&,2,7,7,printed
-I Concentrate On You,14,60,C4,0,0,quarter,0,1,1.0,You.,True,False,False,G7&,G,7&,0,7,5,printed
+I Concentrate On You,14,63,Eb4,2,-1,quarter,0,1,1.0,trate,False,False,False,DØ7,D,m7b57,3,2,1,printed
+I Concentrate On You,14,62,D4,1,0,half,0,1,2.0,On,True,False,False,DØ7,D,m7b57,2,2,0,printed
+I Concentrate On You,14,60,C4,0,0,quarter,0,1,1.0,You.,True,False,False,DØ7,D,m7b57,0,2,10,printed
 I Concentrate On You,15,60,C4,0,0,whole,0,1,4.0,,,,True,C%,C,6/9,0,0,0,printed
 I Concentrate On You,16,60,C4,0,0,half,1,1,3.0,,,,True,D9,D,9,0,2,10,printed
 I Concentrate On You,17,55,G3,-3,0,quarter,0,1,1.0,When,True,False,False,C6,C,6,7,0,7,printed
 I Concentrate On You,17,57,A3,-2,0,quarter,0,1,1.0,for,True,True,False,C6,C,6,9,0,9,printed
 I Concentrate On You,17,60,C4,0,0,quarter,0,1,1.0,tune,False,False,False,C6,C,6,0,0,0,printed
-I Concentrate On You,18,59,B3,-1,0,half,1,1,3.0,cries,True,False,False,C²,C,²,11,0,11,printed
-I Concentrate On You,18,57,A3,-2,0,quarter,0,1,1.0,"""nay,",True,False,False,C²,C,²,9,0,9,printed
+I Concentrate On You,18,59,B3,-1,0,half,1,1,3.0,cries,True,False,False,C6,C,6,11,0,11,printed
+I Concentrate On You,18,57,A3,-2,0,quarter,0,1,1.0,"""nay,",True,False,False,C6,C,6,9,0,9,printed
 I Concentrate On You,19,59,B3,-1,0,quarter,1,1,1.5,"nay!""",True,False,False,C‹(^7),C,m(maj7),11,0,11,printed
 I Concentrate On You,19,59,B3,-1,0,eighth,0,1,0.5,to,True,False,False,C‹(^7),C,m(maj7),11,0,11,printed
 I Concentrate On You,19,59,B3,-1,0,half,0,1,2.0,me,True,False,False,C‹(^7),C,m(maj7),11,0,11,printed
@@ -1347,16 +1347,16 @@ I Concentrate On You,25,72,C5,7,0,quarter,0,3,0.66667,the,True,False,False,F‹7
 I Concentrate On You,26,70,Bb4,6,-1,quarter,0,1,1.0,blues,True,False,False,B¨9,Bb,9,10,10,0,printed
 I Concentrate On You,26,69,A4,5,0,quarter,0,1,1.0,be,True,True,False,B¨9,Bb,9,9,10,11,printed
 I Concentrate On You,26,68,Ab4,5,-1,half,0,1,2.0,come,False,False,False,B¨9,Bb,9,8,10,10,printed
-I Concentrate On You,27,68,G#4,4,1,quarter,0,1,1.0,my,True,False,False,E¨²,Eb,²,8,3,5,printed
-I Concentrate On You,27,67,G4,4,0,quarter,0,1,1.0,on,True,True,False,E¨²,Eb,²,7,3,4,printed
-I Concentrate On You,27,66,F#4,3,1,quarter,0,1,1.0,ly,False,False,False,E¨²,Eb,²,6,3,3,printed
+I Concentrate On You,27,68,G#4,4,1,quarter,0,1,1.0,my,True,False,False,B¨9,Bb,9,8,10,10,printed
+I Concentrate On You,27,67,G4,4,0,quarter,0,1,1.0,on,True,True,False,B¨9,Bb,9,7,10,9,printed
+I Concentrate On You,27,66,F#4,3,1,quarter,0,1,1.0,ly,False,False,False,B¨9,Bb,9,6,10,8,printed
 I Concentrate On You,28,67,G4,4,0,whole,0,1,4.0,"song,",True,False,False,B¨‹7,Bb,m7,7,10,9,printed
 I Concentrate On You,29,62,D4,1,0,quarter,0,1,1.0,I,True,False,False,DØ7,D,m7b57,2,2,0,printed
 I Concentrate On You,29,65,F4,3,0,quarter,0,1,1.0,Con,True,True,False,DØ7,D,m7b57,5,2,3,printed
 I Concentrate On You,29,64,E4,2,0,quarter,0,1,1.0,cen,False,True,False,DØ7,D,m7b57,4,2,2,printed
-I Concentrate On You,30,63,Eb4,2,-1,quarter,0,1,1.0,trate,False,False,False,G7&,G,7&,3,7,8,printed
-I Concentrate On You,30,62,D4,1,0,half,0,1,2.0,On,True,False,False,G7&,G,7&,2,7,7,printed
-I Concentrate On You,30,60,C4,0,0,quarter,0,1,1.0,You.,True,False,False,G7&,G,7&,0,7,5,printed
+I Concentrate On You,30,63,Eb4,2,-1,quarter,0,1,1.0,trate,False,False,False,DØ7,D,m7b57,3,2,1,printed
+I Concentrate On You,30,62,D4,1,0,half,0,1,2.0,On,True,False,False,DØ7,D,m7b57,2,2,0,printed
+I Concentrate On You,30,60,C4,0,0,quarter,0,1,1.0,You.,True,False,False,DØ7,D,m7b57,0,2,10,printed
 I Concentrate On You,31,60,C4,0,0,whole,0,1,4.0,,,,True,C6,C,6,0,0,0,printed
 I Concentrate On You,32,60,C4,0,0,quarter,0,1,1.0,,,,True,C,C,,0,0,0,printed
 I Concentrate On You,32,60,C4,0,0,quarter,0,1,1.0,On,True,False,False,C,C,,0,0,0,printed
@@ -1386,7 +1386,7 @@ I Concentrate On You,42,68,Ab4,5,-1,half,0,1,2.0,"eyes,",True,False,False,F‹7,
 I Concentrate On You,42,68,Ab4,5,-1,quarter,0,3,0.66667,when,True,False,False,B¨7,Bb,7,8,10,10,printed
 I Concentrate On You,42,70,Bb4,6,-1,quarter,0,3,0.66667,you,True,False,False,B¨7,Bb,7,10,10,0,printed
 I Concentrate On You,42,68,Ab4,5,-1,quarter,0,3,0.66667,sur,True,True,False,B¨7,Bb,7,8,10,10,printed
-I Concentrate On You,43,68,Ab4,5,-1,half,0,1,2.0,ren,False,True,False,E¨²,Eb,²,8,3,5,printed
+I Concentrate On You,43,68,Ab4,5,-1,half,0,1,2.0,ren,False,True,False,B¨7,Bb,7,8,10,10,printed
 I Concentrate On You,43,67,G4,4,0,half,0,1,2.0,der,False,False,False,E¨/D,Eb,/D,7,3,4,printed
 I Concentrate On You,44,67,G4,4,0,quarter,0,1,1.0,,,,True,C‹7,C,m7,7,0,7,printed
 I Concentrate On You,44,67,G4,4,0,quarter,0,1,1.0,and,True,False,False,C‹7,C,m7,7,0,7,printed
@@ -1420,7 +1420,7 @@ I Concentrate On You,56,64,E4,2,0,half,1,1,3.0,,,,True,E7,E,7,4,4,0,printed
 I Concentrate On You,57,64,E4,2,0,quarter,0,1,1.0,To,True,False,False,EØ7/B¨,E,m7b57/Bb,4,4,0,printed
 I Concentrate On You,57,67,G4,4,0,quarter,0,1,1.0,prove,True,False,False,EØ7/B¨,E,m7b57/Bb,7,4,3,printed
 I Concentrate On You,57,65,F4,3,0,quarter,0,1,1.0,that,True,False,False,EØ7/B¨,E,m7b57/Bb,5,4,1,printed
-I Concentrate On You,58,65,F4,3,0,half,1,1,3.0,e,True,True,False,A7&(b9),A,7&(b9),5,9,8,printed
+I Concentrate On You,58,65,F4,3,0,half,1,1,3.0,e,True,True,False,EØ7/B¨,E,m7b57/Bb,5,4,1,printed
 I Concentrate On You,58,64,E4,2,0,quarter,0,1,1.0,ven,False,False,False,A7(b9),A,7(b9),4,9,7,printed
 I Concentrate On You,59,64,E4,2,0,quarter,0,1,1.0,wise,True,True,False,D‹7,D,m7,4,2,2,printed
 I Concentrate On You,59,62,D4,1,0,quarter,0,1,1.0,men,False,False,False,D‹7,D,m7,2,2,0,printed
@@ -1673,8 +1673,8 @@ At Long Last Love,25,72,C5,7,0,quarter,0,1,1.0,,,,True,E¨6,Eb,6,2,5,9,printed
 At Long Last Love,25,67,G4,4,0,quarter,0,3,0.66667,Is,True,False,False,E¨6,Eb,6,9,5,4,printed
 At Long Last Love,25,69,A4,5,0,quarter,0,3,0.66667,it,True,False,False,E¨6,Eb,6,11,5,6,printed
 At Long Last Love,25,70,Bb4,6,-1,quarter,0,3,0.66667,a,True,False,False,E¨6,Eb,6,0,5,7,printed
-At Long Last Love,26,73,Db5,8,-1,half,0,1,2.0,fan,True,True,False,E¨²,Eb,²,3,5,10,printed
-At Long Last Love,26,73,Db5,8,-1,half,0,1,2.0,cy,False,False,False,E¨²,Eb,²,3,5,10,printed
+At Long Last Love,26,73,Db5,8,-1,half,0,1,2.0,fan,True,True,False,E¨6,Eb,6,3,5,10,printed
+At Long Last Love,26,73,Db5,8,-1,half,0,1,2.0,cy,False,False,False,E¨6,Eb,6,3,5,10,printed
 At Long Last Love,27,74,D5,8,0,quarter,0,1,1.0,,,,True,A¨9,Ab,9,4,10,6,printed
 At Long Last Love,27,72,C5,7,0,quarter,0,1,1.0,not,True,False,False,A¨9,Ab,9,2,10,4,printed
 At Long Last Love,27,69,A4,5,0,quarter,0,3,0.66667,worth,True,False,False,A¨9,Ab,9,11,10,1,printed
@@ -1787,9 +1787,9 @@ Dream Dancing,39,73,Db5,8,-1,half,0,1,2.0,all,True,False,False,G¨7,Gb,7,3,8,7,p
 Dream Dancing,39,73,Db5,8,-1,eighth,0,1,0.5,,,,True,G¨7,Gb,7,3,8,7,printed
 Dream Dancing,39,72,C5,7,0,eighth,0,1,0.5,the,True,False,False,G¨7,Gb,7,2,8,6,printed
 Dream Dancing,39,73,Db5,8,-1,quarter,0,1,1.0,night,True,False,False,G¨7,Gb,7,3,8,7,printed
-Dream Dancing,40,72,C5,7,0,whole,0,1,4.0,through.,True,False,False,F9(“4),F,9(“4),2,7,7,printed
-Dream Dancing,41,65,F4,3,0,quarter,0,1,1.0,So,True,False,False,F9(“4),F,9(“4),7,7,0,printed
-Dream Dancing,41,70,Bb4,6,-1,quarter,0,1,1.0,say,True,False,False,F9(“4),F,9(“4),0,7,5,printed
+Dream Dancing,40,72,C5,7,0,whole,0,1,4.0,through.,True,False,False,G¨7,Gb,7,2,8,6,printed
+Dream Dancing,41,65,F4,3,0,quarter,0,1,1.0,So,True,False,False,G¨7,Gb,7,7,8,11,printed
+Dream Dancing,41,70,Bb4,6,-1,quarter,0,1,1.0,say,True,False,False,G¨7,Gb,7,0,8,4,printed
 Dream Dancing,41,72,C5,7,0,quarter,0,1,1.0,you,True,False,False,F7,F,7,2,7,7,printed
 Dream Dancing,42,73,Db5,8,-1,half,1,1,3.0,love,True,False,False,G‹7,G,m7,3,9,6,printed
 Dream Dancing,42,70,Bb4,6,-1,quarter,0,1,1.0,me,True,False,False,G¨9(#5),Gb,9(#5),0,8,4,printed
@@ -1817,8 +1817,8 @@ Dream Dancing,49,65,F4,3,0,half,0,1,2.0,,,,True,F7,F,7,7,7,0,printed
 Dream Dancing,50,73,Db5,8,-1,whole,0,1,4.0,Dream,True,False,False,D¨‹7,Db,m7,3,3,0,printed
 Dream Dancing,51,70,Bb4,6,-1,quarter,1,1,1.5,dan,True,True,False,C‹7,C,m7,0,2,10,printed
 Dream Dancing,51,70,Bb4,6,-1,eighth,0,1,0.5,cing,False,False,False,C‹7,C,m7,0,2,10,printed
-Dream Dancing,51,70,Bb4,6,-1,quarter,0,1,1.0,,,,True,F9(“4),F,9(“4),0,7,5,printed
-Dream Dancing,51,70,Bb4,6,-1,quarter,0,1,1.0,with,True,False,False,F9(“4),F,9(“4),0,7,5,printed
+Dream Dancing,51,70,Bb4,6,-1,quarter,0,1,1.0,,,,True,C‹7,C,m7,0,2,10,printed
+Dream Dancing,51,70,Bb4,6,-1,quarter,0,1,1.0,with,True,False,False,C‹7,C,m7,0,2,10,printed
 Dream Dancing,52,70,Bb4,6,-1,whole,0,1,4.0,you.,True,False,False,B¨6,Bb,6,0,0,0,printed
 What Is This Thing Called Love,1,64,E4,2,0,quarter,0,1,1.0,I,True,False,False,A,A,,7,0,7,printed
 What Is This Thing Called Love,1,64,E4,2,0,eighth,0,1,0.5,was,True,False,False,A,A,,7,0,7,printed
@@ -1832,16 +1832,16 @@ What Is This Thing Called Love,3,62,D4,1,0,eighth,0,1,0.5,ing,False,False,False,
 What Is This Thing Called Love,3,62,D4,1,0,eighth,0,1,0.5,a,True,False,False,G©º7/A,G#,dim7/A,5,11,6,printed
 What Is This Thing Called Love,3,65,F4,3,0,quarter,0,1,1.0,life,True,False,False,G©º7/A,G#,dim7/A,8,11,9,printed
 What Is This Thing Called Love,3,65,F4,3,0,quarter,0,1,1.0,a,True,True,False,G©º7/A,G#,dim7/A,8,11,9,printed
-What Is This Thing Called Love,4,64,E4,2,0,half,1,1,3.0,"part,",False,False,False,A²,A,²,7,0,7,printed
-What Is This Thing Called Love,4,64,E4,2,0,quarter,0,1,1.0,When,True,False,False,A²,A,²,7,0,7,printed
+What Is This Thing Called Love,4,64,E4,2,0,half,1,1,3.0,"part,",False,False,False,G©º7/A,G#,dim7/A,7,11,8,printed
+What Is This Thing Called Love,4,64,E4,2,0,quarter,0,1,1.0,When,True,False,False,G©º7/A,G#,dim7/A,7,11,8,printed
 What Is This Thing Called Love,5,69,A4,5,0,quarter,0,1,1.0,love,True,False,False,D7,D,7,0,5,7,printed
 What Is This Thing Called Love,5,69,A4,5,0,quarter,0,1,1.0,flew,True,False,False,D7,D,7,0,5,7,printed
 What Is This Thing Called Love,5,62,D4,1,0,quarter,0,1,1.0,in,True,False,False,G7,G,7,5,10,7,printed
 What Is This Thing Called Love,5,64,E4,2,0,eighth,0,1,0.5,throughmy,True,False,False,G7,G,7,7,10,9,printed
 What Is This Thing Called Love,5,65,F4,3,0,eighth,0,1,0.5,,,,True,G7,G,7,8,10,10,printed
-What Is This Thing Called Love,6,67,G4,4,0,eighth,0,1,0.5,win,True,False,False,C²,C,²,10,3,7,printed
-What Is This Thing Called Love,6,69,A4,5,0,eighth,0,1,0.5,dow,True,False,False,C²,C,²,0,3,9,printed
-What Is This Thing Called Love,6,67,G4,4,0,quarter,0,1,1.0,wide,True,False,False,C²,C,²,10,3,7,printed
+What Is This Thing Called Love,6,67,G4,4,0,eighth,0,1,0.5,win,True,False,False,G7,G,7,10,10,0,printed
+What Is This Thing Called Love,6,69,A4,5,0,eighth,0,1,0.5,dow,True,False,False,G7,G,7,0,10,2,printed
+What Is This Thing Called Love,6,67,G4,4,0,quarter,0,1,1.0,wide,True,False,False,G7,G,7,10,10,0,printed
 What Is This Thing Called Love,6,67,G4,4,0,quarter,0,1,1.0,,,,True,C7,C,7,10,3,7,printed
 What Is This Thing Called Love,6,64,E4,2,0,quarter,0,1,1.0,And,True,False,False,C7,C,7,7,3,4,printed
 What Is This Thing Called Love,7,62,D4,1,0,eighth,0,1,0.5,quickened,True,False,False,D‹6,D,m6,5,5,0,printed
@@ -1862,8 +1862,8 @@ What Is This Thing Called Love,11,66,F#4,3,1,eighth,0,1,0.5,was,True,False,False
 What Is This Thing Called Love,11,66,F#4,3,1,eighth,0,1,0.5,so,True,False,False,A‹6/E,A,m6/E,9,0,9,printed
 What Is This Thing Called Love,11,69,A4,5,0,quarter,0,1,1.0,hap,True,True,False,Cº7/E,C,dim7/E,0,3,9,printed
 What Is This Thing Called Love,11,69,A4,5,0,quarter,0,1,1.0,py,False,False,False,Cº7/E,C,dim7/E,0,3,9,printed
-What Is This Thing Called Love,12,68,G#4,4,1,half,1,1,3.0,then.,True,False,False,E²,E,²,11,7,4,printed
-What Is This Thing Called Love,12,68,G#4,4,1,quarter,0,1,1.0,But,True,False,False,E²,E,²,11,7,4,printed
+What Is This Thing Called Love,12,68,G#4,4,1,half,1,1,3.0,then.,True,False,False,Cº7/E,C,dim7/E,11,3,8,printed
+What Is This Thing Called Love,12,68,G#4,4,1,quarter,0,1,1.0,But,True,False,False,Cº7/E,C,dim7/E,11,3,8,printed
 What Is This Thing Called Love,13,64,E4,2,0,quarter,0,1,1.0,af,True,True,False,A7,A,7,7,0,7,printed
 What Is This Thing Called Love,13,64,E4,2,0,quarter,0,1,1.0,ter,False,False,False,A7,A,7,7,0,7,printed
 What Is This Thing Called Love,13,67,G4,4,0,quarter,1,1,1.5,love,True,False,False,A7,A,7,10,0,10,printed
@@ -1875,8 +1875,8 @@ What Is This Thing Called Love,14,62,D4,1,0,eighth,0,1,0.5,tle,False,False,False
 What Is This Thing Called Love,14,65,F4,3,0,half,0,1,2.0,"while,",True,False,False,BØ7,B,m7b57,8,2,6,printed
 What Is This Thing Called Love,15,59,B3,-1,0,quarter,0,1,1.0,Love,True,False,False,D‹6/F,D,m6/F,2,5,9,printed
 What Is This Thing Called Love,15,59,B3,-1,0,quarter,0,1,1.0,flew,True,False,False,D‹6/F,D,m6/F,2,5,9,printed
-What Is This Thing Called Love,15,60,C4,0,0,quarter,0,1,1.0,out,True,False,False,E7&(b9),E,7&(b9),3,7,8,printed
-What Is This Thing Called Love,15,60,C4,0,0,quarter,0,1,1.0,a,True,True,False,E7&(b9),E,7&(b9),3,7,8,printed
+What Is This Thing Called Love,15,60,C4,0,0,quarter,0,1,1.0,out,True,False,False,D‹6/F,D,m6/F,3,5,10,printed
+What Is This Thing Called Love,15,60,C4,0,0,quarter,0,1,1.0,a,True,True,False,D‹6/F,D,m6/F,3,5,10,printed
 What Is This Thing Called Love,16,57,A3,-2,0,half,1,1,3.0,gain.,False,True,False,A6,A,6,0,0,0,printed
 What Is This Thing Called Love,17,67,G4,4,0,quarter,0,1,1.0,What,True,False,False,A7,A,7,10,0,10,printed
 What Is This Thing Called Love,18,67,G4,4,0,quarter,0,1,1.0,is,True,False,False,EØ7,E,m7b57,10,7,3,printed
@@ -1892,8 +1892,8 @@ What Is This Thing Called Love,22,64,E4,2,0,eighth,0,1,0.5,thing,True,False,Fals
 What Is This Thing Called Love,22,64,E4,2,0,half,0,1,2.0,,,,True,BØ7,B,m7b57,7,2,5,printed
 What Is This Thing Called Love,23,64,E4,2,0,half,0,1,2.0,,,,True,E7(#5),E,7(#5),7,7,0,printed
 What Is This Thing Called Love,23,60,B#3,-1,1,half,0,1,2.0,called,True,False,False,E7(#5),E,7(#5),3,7,8,printed
-What Is This Thing Called Love,24,61,C#4,0,1,whole,0,1,4.0,love?,True,False,False,A²,A,²,4,0,4,printed
-What Is This Thing Called Love,25,67,G4,4,0,quarter,0,1,1.0,Just,True,False,False,A²,A,²,10,0,10,printed
+What Is This Thing Called Love,24,61,C#4,0,1,whole,0,1,4.0,love?,True,False,False,E7(#5),E,7(#5),4,7,9,printed
+What Is This Thing Called Love,25,67,G4,4,0,quarter,0,1,1.0,Just,True,False,False,E7(#5),E,7(#5),10,7,3,printed
 What Is This Thing Called Love,26,67,G4,4,0,quarter,0,1,1.0,who,True,False,False,EØ7,E,m7b57,10,7,3,printed
 What Is This Thing Called Love,26,64,E4,2,0,quarter,0,1,1.0,can,True,False,False,EØ7,E,m7b57,7,7,0,printed
 What Is This Thing Called Love,26,64,E4,2,0,half,0,1,2.0,solve,True,False,False,EØ7,E,m7b57,7,7,0,printed
@@ -1921,8 +1921,8 @@ What Is This Thing Called Love,35,72,C5,7,0,quarter,0,1,1.0,one,True,False,False
 What Is This Thing Called Love,35,72,C5,7,0,quarter,0,3,0.66667,won,True,True,False,D7,D,7,3,5,10,printed
 What Is This Thing Called Love,35,74,D5,8,0,quarter,0,3,0.66667,der,False,True,False,D7,D,7,5,5,0,printed
 What Is This Thing Called Love,35,72,C5,7,0,quarter,0,3,0.66667,ful,False,False,False,D7,D,7,3,5,10,printed
-What Is This Thing Called Love,36,71,B4,6,0,whole,0,1,4.0,day.,True,False,False,G²,G,²,2,10,4,printed
-What Is This Thing Called Love,37,71,B4,6,0,quarter,0,1,1.0,You,True,False,False,G²,G,²,2,10,4,printed
+What Is This Thing Called Love,36,71,B4,6,0,whole,0,1,4.0,day.,True,False,False,D7,D,7,2,5,9,printed
+What Is This Thing Called Love,37,71,B4,6,0,quarter,0,1,1.0,You,True,False,False,D7,D,7,2,5,9,printed
 What Is This Thing Called Love,38,69,A4,5,0,quarter,0,1,1.0,took,True,False,False,F9,F,9,0,8,4,printed
 What Is This Thing Called Love,38,65,F4,3,0,quarter,0,1,1.0,my,True,False,False,F9,F,9,8,8,0,printed
 What Is This Thing Called Love,38,65,F4,3,0,half,0,1,2.0,heart,True,False,False,F9,F,9,8,8,0,printed
@@ -1952,9 +1952,9 @@ What Is This Thing Called Love,47,64,E4,2,0,half,0,1,2.0,,,,True,E7(#5),E,7(#5),
 What Is This Thing Called Love,47,72,C5,7,0,half,0,1,2.0,called,True,False,False,E7(#5),E,7(#5),3,7,8,printed
 What Is This Thing Called Love,48,69,A4,5,0,whole,0,1,4.0,love?,True,False,False,A6,A,6,0,0,0,printed
 You're The Top,1,60,C4,0,0,quarter,0,1,1.0,At,True,False,False,,,,7,,,printed
-You're The Top,2,69,A4,5,0,quarter,0,1,1.0,wordspo,True,False,False,F²7,F,²7,4,0,4,printed
-You're The Top,2,68,Ab4,5,-1,eighth,0,1,0.5,,,,True,F²7,F,²7,3,0,3,printed
-You're The Top,2,69,A4,5,0,eighth,0,1,0.5,et,True,True,False,F²7,F,²7,4,0,4,printed
+You're The Top,2,69,A4,5,0,quarter,0,1,1.0,wordspo,True,False,False,,,,4,,,printed
+You're The Top,2,68,Ab4,5,-1,eighth,0,1,0.5,,,,True,,,,3,,,printed
+You're The Top,2,69,A4,5,0,eighth,0,1,0.5,et,True,True,False,,,,4,,,printed
 You're The Top,2,69,A4,5,0,eighth,0,1,0.5,,,,True,F©º,F#,dim,4,1,3,printed
 You're The Top,2,68,Ab4,5,-1,eighth,0,1,0.5,ic,False,False,False,F©º,F#,dim,3,1,2,printed
 You're The Top,2,69,A4,5,0,quarter,0,1,1.0,I'm,True,False,False,F©º,F#,dim,4,1,3,printed
@@ -1987,15 +1987,15 @@ You're The Top,7,70,Bb4,6,-1,eighth,0,1,0.5,,,,True,B¨/C,Bb,/C,5,5,0,printed
 You're The Top,7,67,G4,4,0,eighth,0,1,0.5,to,True,False,False,C7,C,7,2,7,7,printed
 You're The Top,7,69,A4,5,0,eighth,0,1,0.5,let,True,False,False,C7,C,7,4,7,9,printed
 You're The Top,7,70,Bb4,6,-1,eighth,0,1,0.5,'em,True,False,False,C7,C,7,5,7,10,printed
-You're The Top,8,72,C5,7,0,whole,0,1,4.0,rest,True,False,False,F²9,F,²9,7,0,7,printed
+You're The Top,8,72,C5,7,0,whole,0,1,4.0,rest,True,False,False,C7,C,7,7,7,0,printed
 You're The Top,9,73,C#5,7,1,eighth,0,1,0.5,un,True,True,False,G‹7,G,m7,8,2,6,printed
 You're The Top,9,74,D5,8,0,quarter,0,1,1.0,ex,False,False,False,G‹7,G,m7,9,2,7,printed
 You're The Top,9,64,E4,2,0,eighth,0,1,0.5,pressed.,True,False,False,C9,C,9,11,7,4,printed
 You're The Top,9,64,E4,2,0,quarter,0,1,1.0,,,,True,C9,C,9,11,7,4,printed
 You're The Top,9,60,C4,0,0,eighth,0,1,0.5,I,True,False,False,C9,C,9,7,7,0,printed
-You're The Top,10,68,Ab4,5,-1,quarter,0,1,1.0,hate,True,False,False,F²7,F,²7,3,0,3,printed
-You're The Top,10,68,Ab4,5,-1,eighth,0,1,0.5,par,True,True,False,F²7,F,²7,3,0,3,printed
-You're The Top,10,69,A4,5,0,eighth,0,1,0.5,ad,False,True,False,F²7,F,²7,4,0,4,printed
+You're The Top,10,68,Ab4,5,-1,quarter,0,1,1.0,hate,True,False,False,C9,C,9,3,7,8,printed
+You're The Top,10,68,Ab4,5,-1,eighth,0,1,0.5,par,True,True,False,C9,C,9,3,7,8,printed
+You're The Top,10,69,A4,5,0,eighth,0,1,0.5,ad,False,True,False,C9,C,9,4,7,9,printed
 You're The Top,10,69,A4,5,0,eighth,0,1,0.5,,,,True,F©º7,F#,dim7,4,1,3,printed
 You're The Top,10,68,Ab4,5,-1,eighth,0,1,0.5,ing,False,False,False,F©º7,F#,dim7,3,1,2,printed
 You're The Top,10,69,A4,5,0,quarter,0,1,1.0,my,True,False,False,F©º7,F#,dim7,4,1,3,printed
@@ -2006,19 +2006,19 @@ You're The Top,11,70,Bb4,6,-1,eighth,0,1,0.5,,,,True,C7,C,7,5,7,10,printed
 You're The Top,11,69,A4,5,0,eighth,0,1,0.5,ding,True,False,False,C7,C,7,4,7,9,printed
 You're The Top,11,70,Bb4,6,-1,eighth,0,1,0.5,as,True,False,False,C7,C,7,5,7,10,printed
 You're The Top,11,71,B4,6,0,eighth,0,1,0.5,i'll,True,False,False,C7,C,7,6,7,11,printed
-You're The Top,12,72,C5,7,0,eighth,0,1,0.5,prob,True,True,False,F²7,F,²7,7,0,7,printed
-You're The Top,12,71,B4,6,0,eighth,0,1,0.5,a,False,True,False,F²7,F,²7,6,0,6,printed
-You're The Top,12,72,C5,7,0,eighth,0,1,0.5,bly,False,False,False,F²7,F,²7,7,0,7,printed
-You're The Top,12,77,F5,10,0,eighth,0,1,0.5,miss,True,False,False,F²7,F,²7,0,0,0,printed
+You're The Top,12,72,C5,7,0,eighth,0,1,0.5,prob,True,True,False,C7,C,7,7,7,0,printed
+You're The Top,12,71,B4,6,0,eighth,0,1,0.5,a,False,True,False,C7,C,7,6,7,11,printed
+You're The Top,12,72,C5,7,0,eighth,0,1,0.5,bly,False,False,False,C7,C,7,7,7,0,printed
+You're The Top,12,77,F5,10,0,eighth,0,1,0.5,miss,True,False,False,C7,C,7,0,7,5,printed
 You're The Top,12,77,F5,10,0,quarter,0,1,1.0,,,,True,D‹7,D,m7,0,9,3,printed
 You're The Top,12,74,D5,8,0,quarter,0,1,1.0,a,True,False,False,D‹7,D,m7,9,9,0,printed
 You're The Top,13,76,E5,9,0,half,1,1,3.0,bar.,True,False,False,B‹7,B,m7,11,6,5,printed
 You're The Top,13,74,D5,8,0,quarter,0,1,1.0,But,True,False,False,E7,E,7,9,11,10,printed
 You're The Top,14,71,Cb5,7,-1,quarter,0,1,1.0,if,True,False,False,A‹,A,m,6,4,2,printed
 You're The Top,14,69,A4,5,0,quarter,0,1,1.0,this,True,False,False,A‹,A,m,4,4,0,printed
-You're The Top,14,71,B4,6,0,eighth,0,1,0.5,dit,True,True,False,A‹&,A,m&,6,4,2,printed
-You're The Top,14,74,D5,8,0,quarter,0,1,1.0,ty,False,False,False,A‹&,A,m&,9,4,5,printed
-You're The Top,14,71,B4,6,0,eighth,0,1,0.5,is,True,False,False,A‹&,A,m&,6,4,2,printed
+You're The Top,14,71,B4,6,0,eighth,0,1,0.5,dit,True,True,False,A‹,A,m,6,4,2,printed
+You're The Top,14,74,D5,8,0,quarter,0,1,1.0,ty,False,False,False,A‹,A,m,9,4,5,printed
+You're The Top,14,71,B4,6,0,eighth,0,1,0.5,is,True,False,False,A‹,A,m,6,4,2,printed
 You're The Top,15,72,C5,7,0,quarter,0,1,1.0,not,True,False,False,A‹6,A,m6,7,4,3,printed
 You're The Top,15,69,A4,5,0,quarter,0,1,1.0,so,True,False,False,A‹6,A,m6,4,4,0,printed
 You're The Top,15,71,B4,6,0,eighth,0,1,0.5,pret,True,False,False,A‹6,A,m6,6,4,2,printed
@@ -2033,7 +2033,7 @@ You're The Top,16,72,C5,7,0,quarter,0,1,1.0,,,,True,F,F,,7,0,7,printed
 You're The Top,17,72,C5,7,0,quarter,0,1,1.0,great,True,False,False,F,F,,7,0,7,printed
 You're The Top,17,62,D4,1,0,eighth,0,1,0.5,you,True,False,False,F,F,,9,0,9,printed
 You're The Top,17,62,D4,1,0,eighth,0,1,0.5,are.,True,False,False,F,F,,9,0,9,printed
-You're The Top,17,62,D4,1,0,half,0,1,2.0,,,,True,C&,C,&,9,7,2,printed
+You're The Top,17,62,D4,1,0,half,0,1,2.0,,,,True,F,F,,9,0,9,printed
 You're The Top,18,70,Bb4,6,-1,quarter,0,1,1.0,You're,True,False,False,C©º7,C#,dim7,5,8,9,printed
 You're The Top,18,69,A4,5,0,eighth,0,1,0.5,the,True,False,False,C©º7,C#,dim7,4,8,8,printed
 You're The Top,19,72,C5,7,0,quarter,0,1,1.0,top!,True,False,False,F,F,,7,0,7,printed
@@ -2043,8 +2043,8 @@ You're The Top,21,72,C5,7,0,quarter,0,1,1.0,Col,True,True,False,G‹7,G,m7,7,2,5
 You're The Top,21,74,D5,8,0,quarter,0,1,1.0,os,False,False,False,G‹7,G,m7,9,2,7,printed
 You're The Top,21,69,A4,5,0,eighth,0,1,0.5,se,True,True,False,C13(b9),C,13(b9),4,7,9,printed
 You're The Top,21,72,C5,7,0,quarter,0,1,1.0,um!,False,False,False,C13(b9),C,13(b9),7,7,0,printed
-You're The Top,22,67,G4,4,0,quarter,0,1,1.0,You're,True,False,False,DŒ²7,D,Œ²7,2,9,5,printed
-You're The Top,22,65,F4,3,0,eighth,0,1,0.5,the,True,False,False,DŒ²7,D,Œ²7,0,9,3,printed
+You're The Top,22,67,G4,4,0,quarter,0,1,1.0,You're,True,False,False,D‹,D,m,2,9,5,printed
+You're The Top,22,65,F4,3,0,eighth,0,1,0.5,the,True,False,False,D‹,D,m,0,9,3,printed
 You're The Top,23,69,A4,5,0,quarter,0,1,1.0,top!,True,False,False,D‹7,D,m7,4,9,7,printed
 You're The Top,24,67,G4,4,0,quarter,0,1,1.0,You're,True,False,False,B¨7,Bb,7,2,5,9,printed
 You're The Top,24,65,F4,3,0,eighth,0,1,0.5,the,True,False,False,B¨7,Bb,7,0,5,7,printed
@@ -2068,15 +2068,15 @@ You're The Top,28,72,C5,7,0,quarter,0,1,1.0,by,True,False,False,F,F,,7,0,7,print
 You're The Top,29,74,D5,8,0,half,1,1,3.0,"Strauss,",True,False,False,BØ7,B,m7b57,9,6,3,printed
 You're The Top,29,72,C5,7,0,eighth,0,1,0.5,You're,True,False,False,BØ7,B,m7b57,7,6,1,printed
 You're The Top,29,74,D5,8,0,eighth,0,1,0.5,a,True,False,False,BØ7,B,m7b57,9,6,3,printed
-You're The Top,30,76,E5,9,0,quarter,0,1,1.0,Ben,True,True,False,E&7,E,&7,11,11,0,printed
-You're The Top,30,76,E5,9,0,eighth,0,1,0.5,del,False,False,False,E&7,E,&7,11,11,0,printed
-You're The Top,30,76,E5,9,0,eighth,0,1,0.5,bon,True,True,False,E&7,E,&7,11,11,0,printed
+You're The Top,30,76,E5,9,0,quarter,0,1,1.0,Ben,True,True,False,BØ7,B,m7b57,11,6,5,printed
+You're The Top,30,76,E5,9,0,eighth,0,1,0.5,del,False,False,False,BØ7,B,m7b57,11,6,5,printed
+You're The Top,30,76,E5,9,0,eighth,0,1,0.5,bon,True,True,False,BØ7,B,m7b57,11,6,5,printed
 You're The Top,30,76,E5,9,0,eighth,0,1,0.5,,,,True,A9,A,9,11,4,7,printed
 You're The Top,30,76,E5,9,0,quarter,0,1,1.0,"net,",False,False,False,A9,A,9,11,4,7,printed
 You're The Top,30,76,E5,9,0,eighth,0,1,0.5,A,True,False,False,A9,A,9,11,4,7,printed
-You're The Top,31,76,E5,9,0,quarter,0,1,1.0,Shakespeareson,True,True,False,D&9,D,&9,11,9,2,printed
-You're The Top,31,76,E5,9,0,eighth,0,1,0.5,,,,True,D&9,D,&9,11,9,2,printed
-You're The Top,31,76,E5,9,0,eighth,0,1,0.5,,,,True,D&9,D,&9,11,9,2,printed
+You're The Top,31,76,E5,9,0,quarter,0,1,1.0,Shakespeareson,True,True,False,A9,A,9,11,4,7,printed
+You're The Top,31,76,E5,9,0,eighth,0,1,0.5,,,,True,A9,A,9,11,4,7,printed
+You're The Top,31,76,E5,9,0,eighth,0,1,0.5,,,,True,A9,A,9,11,4,7,printed
 You're The Top,31,76,E5,9,0,eighth,0,1,0.5,,,,True,G13,G,13,11,2,9,printed
 You're The Top,31,76,E5,9,0,quarter,0,1,1.0,"net,",False,False,False,G13,G,13,11,2,9,printed
 You're The Top,31,76,E5,9,0,eighth,0,1,0.5,You'reMick,True,False,False,G13,G,13,11,2,9,printed
@@ -2093,8 +2093,8 @@ You're The Top,37,72,C5,7,0,quarter,0,1,1.0,Tow'r,True,False,False,G‹7,G,m7,7,
 You're The Top,37,74,D5,8,0,quarter,0,1,1.0,of,True,False,False,G‹7,G,m7,9,2,7,printed
 You're The Top,37,69,A4,5,0,eighth,0,1,0.5,Pi,True,True,False,C13(b9),C,13(b9),4,7,9,printed
 You're The Top,37,72,C5,7,0,quarter,0,1,1.0,"sa,",False,False,False,C13(b9),C,13(b9),7,7,0,printed
-You're The Top,38,67,G4,4,0,quarter,0,1,1.0,You're,True,False,False,DŒ²7,D,Œ²7,2,9,5,printed
-You're The Top,38,65,F4,3,0,eighth,0,1,0.5,the,True,False,False,DŒ²7,D,Œ²7,0,9,3,printed
+You're The Top,38,67,G4,4,0,quarter,0,1,1.0,You're,True,False,False,D‹,D,m,2,9,5,printed
+You're The Top,38,65,F4,3,0,eighth,0,1,0.5,the,True,False,False,D‹,D,m,0,9,3,printed
 You're The Top,39,69,A4,5,0,quarter,0,1,1.0,smile,True,False,False,D‹7,D,m7,4,9,7,printed
 You're The Top,40,67,G4,4,0,quarter,0,1,1.0,on,True,False,False,B¨7,Bb,7,2,5,9,printed
 You're The Top,40,65,F4,3,0,eighth,0,1,0.5,the,True,False,False,B¨7,Bb,7,0,5,7,printed
@@ -2114,7 +2114,7 @@ You're The Top,44,69,A4,5,0,quarter,0,1,1.0,to,True,True,False,B¨,Bb,,4,5,11,pr
 You're The Top,44,67,G4,4,0,eighth,0,1,0.5,tal,False,False,False,B¨,Bb,,2,5,9,printed
 You're The Top,44,70,Bb4,6,-1,eighth,0,1,0.5,"wreck,",True,False,False,B¨,Bb,,5,5,0,printed
 You're The Top,44,70,Bb4,6,-1,quarter,0,1,1.0,,,,True,B¨,Bb,,5,5,0,printed
-You're The Top,44,69,A4,5,0,quarter,0,1,1.0,a,True,False,False,D&7,D,&7,4,9,7,printed
+You're The Top,44,69,A4,5,0,quarter,0,1,1.0,a,True,False,False,B¨,Bb,,4,5,11,printed
 You're The Top,45,76,E5,9,0,quarter,0,1,1.0,"flop,",True,False,False,G7,G,7,11,2,9,printed
 You're The Top,45,74,D5,8,0,eighth,0,1,0.5,But,True,False,False,G7,G,7,9,2,7,printed
 You're The Top,45,76,E5,9,0,eighth,0,1,0.5,if,True,False,False,G7,G,7,11,2,9,printed
@@ -2123,16 +2123,16 @@ You're The Top,46,77,F5,10,0,quarter,0,1,1.0,"y,",False,False,False,G‹7,G,m7,0
 You're The Top,46,77,F5,10,0,eighth,0,1,0.5,I'm,True,False,False,G‹7,G,m7,0,2,10,printed
 You're The Top,46,77,F5,10,0,quarter,1,1,1.5,,,,True,F/A,F,/A,0,0,0,printed
 You're The Top,46,77,F5,10,0,eighth,0,1,0.5,the,True,False,False,F/A,F,/A,0,0,0,printed
-You're The Top,47,77,F5,10,0,eighth,0,1,0.5,bot,True,False,False,B¨²7,Bb,²7,0,5,7,printed
-You're The Top,47,77,F5,10,0,quarter,0,1,1.0,"tom,",True,False,False,B¨²7,Bb,²7,0,5,7,printed
+You're The Top,47,77,F5,10,0,eighth,0,1,0.5,bot,True,False,False,F/A,F,/A,0,0,0,printed
+You're The Top,47,77,F5,10,0,quarter,0,1,1.0,"tom,",True,False,False,F/A,F,/A,0,0,0,printed
 You're The Top,47,77,F5,10,0,eighth,0,1,0.5,You're,True,False,False,G‹7/C,G,m7/C,0,2,10,printed
 You're The Top,47,77,F5,10,0,quarter,1,1,1.5,,,,True,G‹7/C,G,m7/C,0,2,10,printed
 You're The Top,47,77,F5,10,0,eighth,0,1,0.5,the,True,False,False,G‹7/C,G,m7/C,0,2,10,printed
 You're The Top,48,77,F5,10,0,quarter,0,1,1.0,top!,True,False,False,G‹7/C,G,m7/C,0,2,10,printed
 You're The Top,50,77,F5,10,0,quarter,0,1,1.0,top!,True,False,False,G‹7/C,G,m7/C,0,2,10,printed
-All of You,1,61,Db4,1,-1,quarter,0,1,1.0,I,True,False,False,A¨(“4),Ab,(“4),0,7,5,printed
-All of You,1,63,Eb4,2,-1,quarter,0,1,1.0,love,True,False,False,A¨(“4),Ab,(“4),2,7,7,printed
-All of You,1,65,F4,3,0,quarter,0,1,1.0,the,True,False,False,A¨(“4),Ab,(“4),4,7,9,printed
+All of You,1,61,Db4,1,-1,quarter,0,1,1.0,I,True,False,False,,,,0,,,printed
+All of You,1,63,Eb4,2,-1,quarter,0,1,1.0,love,True,False,False,,,,2,,,printed
+All of You,1,65,F4,3,0,quarter,0,1,1.0,the,True,False,False,,,,4,,,printed
 All of You,2,66,Gb4,4,-1,half,1,1,3.0,looks,True,False,False,E¨Ø7,Eb,m7b57,5,2,3,printed
 All of You,2,65,F4,3,0,quarter,0,1,1.0,of,True,False,False,A¨7(b9),Ab,7(b9),4,7,9,printed
 All of You,3,65,F4,3,0,half,1,1,3.0,"you,",True,False,False,D¨6,Db,6,4,0,4,printed
@@ -2206,9 +2206,9 @@ All of You,30,68,Ab4,5,-1,half,0,1,2.0,love,True,False,False,B¨7(b9),Bb,7(b9),7
 All of You,31,70,Bb4,6,-1,half,0,1,2.0,all,True,False,False,E¨‹7,Eb,m7,9,2,7,printed
 All of You,31,60,C4,0,0,half,0,1,2.0,of,True,False,False,A¨7,Ab,7,11,7,4,printed
 All of You,32,61,Db4,1,-1,whole,0,1,4.0,you.,True,False,False,D¨6,Db,6,0,0,0,printed
-All of You,33,61,Db4,1,-1,quarter,0,1,1.0,I,True,False,False,A¨9(“4),Ab,9(“4),0,7,5,printed
-All of You,33,63,Eb4,2,-1,quarter,0,1,1.0,love,True,False,False,A¨9(“4),Ab,9(“4),2,7,7,printed
-All of You,33,65,F4,3,0,quarter,0,1,1.0,the,True,False,False,A¨9(“4),Ab,9(“4),4,7,9,printed
+All of You,33,61,Db4,1,-1,quarter,0,1,1.0,I,True,False,False,D¨6,Db,6,0,0,0,printed
+All of You,33,63,Eb4,2,-1,quarter,0,1,1.0,love,True,False,False,D¨6,Db,6,2,0,2,printed
+All of You,33,65,F4,3,0,quarter,0,1,1.0,the,True,False,False,D¨6,Db,6,4,0,4,printed
 Don't Fence Me In,1,60,C4,0,0,quarter,0,1,1.0,"Oh,",True,False,False,,,,7,,,printed
 Don't Fence Me In,1,65,F4,3,0,quarter,0,1,1.0,give,True,False,False,,,,0,,,printed
 Don't Fence Me In,1,67,G4,4,0,quarter,0,1,1.0,me,True,False,False,,,,2,,,printed
@@ -2386,7 +2386,7 @@ Too Darn Hot,7,64,E4,2,0,eighth,0,1,0.5,ba,True,True,False,cm,C,m,4,0,4,printed
 Too Darn Hot,7,62,D4,1,0,eighth,0,1,0.5,by,False,False,False,cm,C,m,2,0,2,printed
 Too Darn Hot,7,60,C4,0,0,eighth,0,1,0.5,to,True,True,False,cm,C,m,0,0,0,printed
 Too Darn Hot,7,62,D4,1,0,eighth,0,1,0.5,"night,",False,False,False,cm,C,m,2,0,2,printed
-Too Darn Hot,8,62,D4,1,0,whole,0,1,4.0,,,,True,G7s4,G,7s4,2,7,7,printed
+Too Darn Hot,8,62,D4,1,0,whole,0,1,4.0,,,,True,cm,C,m,2,0,2,printed
 Too Darn Hot,9,62,D4,1,0,quarter,0,1,1.0,,,,True,G7,G,7,2,7,7,printed
 Too Darn Hot,9,55,G3,-3,0,quarter,0,1,1.0,and,True,False,False,G7,G,7,7,7,0,printed
 Too Darn Hot,10,60,C4,0,0,quarter,0,1,1.0,play,True,False,False,Cm,C,m,0,0,0,printed
@@ -2400,7 +2400,7 @@ Too Darn Hot,11,64,E4,2,0,eighth,0,1,0.5,ba,True,True,False,Cm,C,m,4,0,4,printed
 Too Darn Hot,11,62,D4,1,0,eighth,0,1,0.5,by,False,False,False,Cm,C,m,2,0,2,printed
 Too Darn Hot,11,60,C4,0,0,eighth,0,1,0.5,to,True,True,False,Cm,C,m,0,0,0,printed
 Too Darn Hot,11,62,D4,1,0,eighth,0,1,0.5,night.,False,False,False,Cm,C,m,2,0,2,printed
-Too Darn Hot,12,62,D4,1,0,whole,0,1,4.0,,,,True,g7s4,G,7s4,2,7,7,printed
+Too Darn Hot,12,62,D4,1,0,whole,0,1,4.0,,,,True,Cm,C,m,2,0,2,printed
 Too Darn Hot,13,62,D4,1,0,quarter,0,1,1.0,,,,True,g7,G,7,2,7,7,printed
 Too Darn Hot,13,55,G3,-3,0,quarter,0,1,1.0,I’d,True,False,False,g7,G,7,7,7,0,printed
 Too Darn Hot,14,60,C4,0,0,quarter,0,1,1.0,like,True,False,False,c,C,,0,0,0,printed
@@ -3038,3 +3038,399 @@ I Get a Kick Out of You,62,69,A4,5,0,half,0,1,2.0,out,True,False,False,G7,G,7,9,
 I Get a Kick Out of You,62,71,B4,6,0,quarter,0,1,1.0,of,True,False,False,G7,G,7,11,7,4,printed
 I Get a Kick Out of You,63,72,C5,7,0,whole,0,1,4.0,you.,True,False,False,C,C,,0,0,0,printed
 I Get a Kick Out of You,64,72,C5,7,0,quarter,0,1,1.0,,,,True,C,C,,0,0,0,printed
+Begin the Beguine,1,60,C4,0,0,quarter,0,3,0.66667,When,True,False,False,C,C,,0,0,0,printed
+Begin the Beguine,1,62,D4,1,0,quarter,0,3,0.66667,they,True,False,False,C,C,,2,0,2,printed
+Begin the Beguine,1,64,E4,2,0,quarter,0,3,0.66667,be,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,1,67,G4,4,0,half,0,1,2.0,gin,True,False,False,C,C,,7,0,7,printed
+Begin the Beguine,2,67,G4,4,0,half,0,1,2.0,,,,True,C6,C,6,7,0,7,printed
+Begin the Beguine,2,67,G4,4,0,eighth,0,1,0.5,,,,True,C6,C,6,7,0,7,printed
+Begin the Beguine,2,64,E4,2,0,quarter,0,1,1.0,the,True,False,False,C6,C,6,4,0,4,printed
+Begin the Beguine,2,62,D4,1,0,eighth,0,1,0.5,be,True,False,False,C6,C,6,2,0,2,printed
+Begin the Beguine,3,64,E4,2,0,whole,0,1,4.0,"guine,",True,False,False,CMaj7,C,Maj7,4,0,4,printed
+Begin the Beguine,4,64,E4,2,0,half,0,1,2.0,,,,True,C6,C,6,4,0,4,printed
+Begin the Beguine,4,64,E4,2,0,eighth,0,1,0.5,,,,True,C6,C,6,4,0,4,printed
+Begin the Beguine,4,60,C4,0,0,quarter,0,1,1.0,it,True,False,False,C6,C,6,0,0,0,printed
+Begin the Beguine,5,60,C4,0,0,quarter,0,3,0.66667,brings,True,False,False,C,C,,0,0,0,printed
+Begin the Beguine,5,62,D4,1,0,quarter,0,3,0.66667,back,True,False,False,C,C,,2,0,2,printed
+Begin the Beguine,5,64,E4,2,0,quarter,0,3,0.66667,the,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,5,69,A4,5,0,half,0,1,2.0,sound,True,False,False,C,C,,9,0,9,printed
+Begin the Beguine,6,69,A4,5,0,quarter,0,1,1.0,,,,True,C6,C,6,9,0,9,printed
+Begin the Beguine,6,67,G4,4,0,quarter,0,1,1.0,of,True,False,False,C6,C,6,7,0,7,printed
+Begin the Beguine,6,67,G4,4,0,quarter,0,3,0.66667,mus,True,False,False,C6,C,6,7,0,7,printed
+Begin the Beguine,6,65,F4,3,0,quarter,0,3,0.66667,ic,True,False,False,C6,C,6,5,0,5,printed
+Begin the Beguine,6,64,E4,2,0,quarter,0,3,0.66667,so,True,False,False,C6,C,6,4,0,4,printed
+Begin the Beguine,7,65,F4,3,0,half,0,1,2.0,ten,True,False,False,Dm7,D,m7,5,2,3,printed
+Begin the Beguine,7,62,D4,1,0,half,0,1,2.0,"der,",True,False,False,Dm7,D,m7,2,2,0,printed
+Begin the Beguine,8,62,D4,1,0,half,1,1,3.0,,,,True,G7,G,7,2,7,7,printed
+Begin the Beguine,8,62,D4,1,0,eighth,0,1,0.5,it,True,False,False,G7,G,7,2,7,7,printed
+Begin the Beguine,9,62,D4,1,0,quarter,0,3,0.66667,brings,True,False,False,Dm7,D,m7,2,2,0,printed
+Begin the Beguine,9,64,E4,2,0,quarter,0,3,0.66667,back,True,False,False,Dm7,D,m7,4,2,2,printed
+Begin the Beguine,9,65,F4,3,0,quarter,0,3,0.66667,a,True,False,False,Dm7,D,m7,5,2,3,printed
+Begin the Beguine,9,74,D5,8,0,half,0,1,2.0,"night,",True,False,False,Dm7,D,m7,2,2,0,printed
+Begin the Beguine,10,74,D5,8,0,quarter,0,1,1.0,,,,True,Dm7,D,m7,2,2,0,printed
+Begin the Beguine,10,72,C5,7,0,quarter,0,1,1.0,of,True,False,False,Dm7,D,m7,0,2,10,printed
+Begin the Beguine,10,72,C5,7,0,quarter,0,3,0.66667,trop,True,False,False,Dm7,D,m7,0,2,10,printed
+Begin the Beguine,10,71,B4,6,0,quarter,0,3,0.66667,i,True,False,False,Dm7,D,m7,11,2,9,printed
+Begin the Beguine,10,69,A4,5,0,quarter,0,3,0.66667,cal,True,False,False,Dm7,D,m7,9,2,7,printed
+Begin the Beguine,11,72,C5,7,0,half,0,1,2.0,splen,True,False,False,Dm7,D,m7,0,2,10,printed
+Begin the Beguine,11,69,A4,5,0,half,0,1,2.0,dor.,True,False,False,Dm7,D,m7,9,2,7,printed
+Begin the Beguine,12,69,A4,5,0,half,1,1,3.0,,,,True,Dm7,D,m7,9,2,7,printed
+Begin the Beguine,12,62,D4,1,0,quarter,0,1,1.0,It,True,False,False,Dm7,D,m7,2,2,0,printed
+Begin the Beguine,13,62,D4,1,0,quarter,0,3,0.66667,brings,True,False,False,Dm7,D,m7,2,2,0,printed
+Begin the Beguine,13,64,E4,2,0,quarter,0,3,0.66667,back,True,False,False,Dm7,D,m7,4,2,2,printed
+Begin the Beguine,13,65,F4,3,0,quarter,0,3,0.66667,a,True,False,False,Dm7,D,m7,5,2,3,printed
+Begin the Beguine,13,67,G4,4,0,half,0,1,2.0,mem,True,False,False,Dm7,D,m7,7,2,5,printed
+Begin the Beguine,14,67,G4,4,0,quarter,0,3,0.66667,,,,True,G7b9,G,7b9,7,7,0,printed
+Begin the Beguine,14,67,G4,4,0,quarter,0,3,0.66667,o,True,False,False,G7b9,G,7b9,7,7,0,printed
+Begin the Beguine,14,67,G4,4,0,quarter,0,3,0.66667,ry,True,False,False,G7b9,G,7b9,7,7,0,printed
+Begin the Beguine,14,65,F4,3,0,quarter,1,1,1.5,ev,True,False,False,G7b9,G,7b9,5,7,10,printed
+Begin the Beguine,14,64,E4,2,0,eighth,0,1,0.5,er,True,False,False,G7b9,G,7b9,4,7,9,printed
+Begin the Beguine,15,64,E4,2,0,whole,0,1,4.0,green.,True,False,False,CMaj7,C,Maj7,4,0,4,printed
+Begin the Beguine,16,60,C4,0,0,quarter,0,3,0.66667,with,True,False,False,C,C,,0,0,0,printed
+Begin the Beguine,16,62,D4,1,0,quarter,0,3,0.66667,you,True,False,False,C,C,,2,0,2,printed
+Begin the Beguine,16,64,E4,2,0,quarter,0,3,0.66667,once,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,16,67,G4,4,0,half,0,1,2.0,more,True,False,False,C,C,,7,0,7,printed
+Begin the Beguine,17,67,G4,4,0,half,0,1,2.0,,,,True,C6,C,6,7,0,7,printed
+Begin the Beguine,17,64,E4,2,0,quarter,0,3,0.66667,un,True,False,False,C6,C,6,4,0,4,printed
+Begin the Beguine,17,62,D4,1,0,quarter,0,3,0.66667,der,True,False,False,C6,C,6,2,0,2,printed
+Begin the Beguine,17,60,C4,0,0,quarter,0,3,0.66667,the,True,False,False,C6,C,6,0,0,0,printed
+Begin the Beguine,18,64,E4,2,0,whole,0,1,4.0,"stars,",True,False,False,CMaj7,C,Maj7,4,0,4,printed
+Begin the Beguine,19,64,E4,2,0,half,0,1,2.0,,,,True,C6,C,6,4,0,4,printed
+Begin the Beguine,19,64,E4,2,0,eighth,0,1,0.5,,,,True,C6,C,6,4,0,4,printed
+Begin the Beguine,19,60,C4,0,0,quarter,0,1,1.0,and,True,False,False,C6,C,6,0,0,0,printed
+Begin the Beguine,20,60,C4,0,0,quarter,0,3,0.66667,down,True,False,False,C,C,,0,0,0,printed
+Begin the Beguine,20,62,D4,1,0,quarter,0,3,0.66667,by,True,False,False,C,C,,2,0,2,printed
+Begin the Beguine,20,64,E4,2,0,quarter,0,3,0.66667,the,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,20,71,B4,6,0,half,0,1,2.0,shore,True,False,False,CMaj7,C,Maj7,11,0,11,printed
+Begin the Beguine,21,71,B4,6,0,quarter,0,1,1.0,,,,True,CMaj7,C,Maj7,11,0,11,printed
+Begin the Beguine,21,69,A4,5,0,quarter,0,1,1.0,an,True,False,False,CMaj7,C,Maj7,9,0,9,printed
+Begin the Beguine,21,67,G4,4,0,quarter,0,1,1.0,or,True,False,False,CMaj7,C,Maj7,7,0,7,printed
+Begin the Beguine,21,65,F4,3,0,quarter,0,3,0.66667,ches,True,False,False,CMaj7,C,Maj7,5,0,5,printed
+Begin the Beguine,21,64,E4,2,0,quarter,0,1,1.0,tra,True,False,False,CMaj7,C,Maj7,4,0,4,printed
+Begin the Beguine,22,62,D4,1,0,quarter,0,3,0.66667,when,True,False,False,Dm7/G,D,m7/G,2,2,0,printed
+Begin the Beguine,22,64,E4,2,0,quarter,0,3,0.66667,they,True,False,False,Dm7/G,D,m7/G,4,2,2,printed
+Begin the Beguine,22,65,F4,3,0,quarter,0,3,0.66667,be,True,False,False,Dm7/G,D,m7/G,5,2,3,printed
+Begin the Beguine,22,67,G4,4,0,half,0,1,2.0,gin,True,False,False,Dm7/G,D,m7/G,7,2,5,printed
+Begin the Beguine,23,67,G4,4,0,half,0,1,2.0,,,,True,G7b9,G,7b9,7,7,0,printed
+Begin the Beguine,23,67,G4,4,0,eighth,0,1,0.5,,,,True,G7b9,G,7b9,7,7,0,printed
+Begin the Beguine,23,65,F4,3,0,quarter,0,1,1.0,the,True,False,False,G7b9,G,7b9,5,7,10,printed
+Begin the Beguine,23,64,E4,2,0,eighth,0,1,0.5,be,True,False,False,G7b9,G,7b9,4,7,9,printed
+Begin the Beguine,24,60,C4,0,0,quarter,0,3,0.66667,live,True,False,False,G7b9,G,7b9,0,7,5,printed
+Begin the Beguine,24,62,D4,1,0,quarter,0,3,0.66667,it,True,False,False,G7b9,G,7b9,2,7,7,printed
+Begin the Beguine,24,64,E4,2,0,quarter,0,3,0.66667,a,True,False,False,G7b9,G,7b9,4,7,9,printed
+Begin the Beguine,24,67,G4,4,0,half,0,1,2.0,gain,True,False,False,G7b9,G,7b9,7,7,0,printed
+Begin the Beguine,25,67,G4,4,0,quarter,0,7,0.57143,,,,True,G7b9,G,7b9,7,7,0,printed
+Begin the Beguine,25,67,G4,4,0,quarter,0,7,0.57143,is,True,False,False,G7b9,G,7b9,7,7,0,printed
+Begin the Beguine,25,69,A4,5,0,quarter,0,3,0.66667,past,True,False,False,G7b9,G,7b9,9,7,2,printed
+Begin the Beguine,25,67,G4,4,0,quarter,0,3,0.66667,all,True,False,False,G7b9,G,7b9,7,7,0,printed
+Begin the Beguine,25,65,F4,3,0,quarter,0,3,0.66667,en,True,False,False,G7b9,G,7b9,5,7,10,printed
+Begin the Beguine,26,58,Bb3,-1,-1,quarter,0,3,0.66667,cept,True,False,False,G7b9,G,7b9,10,7,3,printed
+Begin the Beguine,26,60,C4,0,0,quarter,0,3,0.66667,when,True,False,False,b,B,,0,11,1,printed
+Begin the Beguine,26,61,Db4,1,-1,quarter,0,3,0.66667,that,True,False,False,b,B,,1,11,2,printed
+Begin the Beguine,26,65,F4,3,0,half,0,1,2.0,tune,True,False,False,b,B,,5,11,6,printed
+Begin the Beguine,27,65,F4,3,0,half,0,7,1.14286,,,,True,b,B,,5,11,6,printed
+Begin the Beguine,27,67,G4,4,0,quarter,0,3,0.66667,clut,True,False,False,b,B,,7,11,8,printed
+Begin the Beguine,27,65,F4,3,0,quarter,0,3,0.66667,ches,True,False,False,b,B,,5,11,6,printed
+Begin the Beguine,27,63,Eb4,2,-1,quarter,0,3,0.66667,your,True,False,False,b,B,,3,11,4,printed
+Begin the Beguine,28,75,Eb5,9,-1,quarter,0,3,0.66667,swear,True,False,False,b,B,,3,11,4,printed
+Begin the Beguine,28,74,D5,8,0,quarter,0,3,0.66667,ing,True,False,False,b,B,,2,11,3,printed
+Begin the Beguine,28,72,C5,7,0,quarter,0,3,0.66667,to,True,False,False,b,B,,0,11,1,printed
+Begin the Beguine,28,75,Eb5,9,-1,quarter,1,1,1.5,love,True,False,False,b,B,,3,11,4,printed
+Begin the Beguine,28,72,C5,7,0,eighth,0,1,0.5,for,True,False,False,b,B,,0,11,1,printed
+Begin the Beguine,29,74,D5,8,0,half,0,1,2.0,ev,True,False,False,b,B,,2,11,3,printed
+Begin the Beguine,29,71,B4,6,0,half,0,1,2.0,"er,",True,False,False,b,B,,11,11,0,printed
+Begin the Beguine,30,71,B4,6,0,quarter,0,1,1.0,,,,True,b,B,,11,11,0,printed
+Begin the Beguine,30,72,C5,7,0,quarter,0,1,1.0,and,True,False,False,b,B,,0,11,1,printed
+Begin the Beguine,30,72,C5,7,0,quarter,0,3,0.66667,prom,True,False,False,b,B,,0,11,1,printed
+Begin the Beguine,30,70,Bb4,6,-1,quarter,0,3,0.66667,is,True,False,False,b,B,,10,11,11,printed
+Begin the Beguine,30,68,Ab4,5,-1,quarter,0,3,0.66667,ing,True,False,False,b,B,,8,11,9,printed
+Begin the Beguine,31,71,B4,6,0,half,0,1,2.0,nev,True,False,False,G,G,,11,7,4,printed
+Begin the Beguine,31,67,G4,4,0,half,0,1,2.0,er,True,False,False,G,G,,7,7,0,printed
+Begin the Beguine,32,68,Ab4,5,-1,half,0,1,2.0,nev,True,False,False,Fm7,F,m7,8,5,3,printed
+Begin the Beguine,32,68,Ab4,5,-1,quarter,0,3,0.66667,,,,True,Fm7,F,m7,8,5,3,printed
+Begin the Beguine,32,63,Eb4,2,-1,quarter,0,3,0.66667,er,True,False,False,Fm7,F,m7,3,5,10,printed
+Begin the Beguine,32,62,D4,1,0,quarter,0,3,0.66667,to,True,False,False,Fm7,F,m7,2,5,9,printed
+Begin the Beguine,33,60,C4,0,0,quarter,0,3,0.66667,mo,True,False,False,C,C,,0,0,0,printed
+Begin the Beguine,33,62,D4,1,0,quarter,0,3,0.66667,ments,True,False,False,C,C,,2,0,2,printed
+Begin the Beguine,33,64,E4,2,0,quarter,0,3,0.66667,di,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,33,67,G4,4,0,half,0,1,2.0,"vine,",True,False,False,C,C,,7,0,7,printed
+Begin the Beguine,34,67,G4,4,0,quarter,0,1,1.0,,,,True,C6,C,6,7,0,7,printed
+Begin the Beguine,34,64,E4,2,0,quarter,0,1,1.0,what,True,False,False,C6,C,6,4,0,4,printed
+Begin the Beguine,34,64,E4,2,0,quarter,0,3,0.66667,rap,True,False,False,C6,C,6,4,0,4,printed
+Begin the Beguine,34,62,D4,1,0,quarter,0,3,0.66667,ture,True,False,False,C6,C,6,2,0,2,printed
+Begin the Beguine,34,60,C4,0,0,quarter,0,3,0.66667,se,True,False,False,C6,C,6,0,0,0,printed
+Begin the Beguine,35,60,C4,0,0,quarter,0,3,0.66667,clouds,True,False,False,C6,C,6,0,0,0,printed
+Begin the Beguine,35,62,D4,1,0,quarter,0,3,0.66667,came,True,False,False,C6,C,6,2,0,2,printed
+Begin the Beguine,35,64,E4,2,0,quarter,0,3,0.66667,a,True,False,False,C6,C,6,4,0,4,printed
+Begin the Beguine,35,67,G4,4,0,quarter,0,3,0.66667,long,True,False,False,C6,C,6,7,0,7,printed
+Begin the Beguine,35,69,A4,5,0,quarter,0,3,0.66667,to,True,False,False,C6,C,6,9,0,9,printed
+Begin the Beguine,35,67,G4,4,0,quarter,0,3,0.66667,dis,True,False,False,C6,C,6,7,0,7,printed
+Begin the Beguine,36,70,Bb4,6,-1,quarter,1,1,1.5,perse,True,False,False,C6,C,6,10,0,10,printed
+Begin the Beguine,36,69,A4,5,0,eighth,0,1,0.5,the,True,False,False,C6,C,6,9,0,9,printed
+Begin the Beguine,36,67,G4,4,0,quarter,0,3,0.66667,joys,True,False,False,C6,C,6,7,0,7,printed
+Begin the Beguine,36,65,F4,3,0,quarter,0,3,0.66667,we,True,False,False,C6,C,6,5,0,5,printed
+Begin the Beguine,36,64,E4,2,0,quarter,0,3,0.66667,had,True,False,False,C6,C,6,4,0,4,printed
+Begin the Beguine,37,62,D4,1,0,quarter,0,3,0.66667,now,True,False,False,Dm7b5,D,m7b5,2,2,0,printed
+Begin the Beguine,37,64,E4,2,0,quarter,0,3,0.66667,when,True,False,False,Dm7b5,D,m7b5,4,2,2,printed
+Begin the Beguine,37,65,F4,3,0,quarter,0,3,0.66667,I,True,False,False,Dm7b5,D,m7b5,5,2,3,printed
+Begin the Beguine,37,68,Ab4,5,-1,quarter,0,3,0.66667,hear,True,False,False,Dm7b5,D,m7b5,8,2,6,printed
+Begin the Beguine,37,72,C5,7,0,quarter,0,3,0.66667,peo,True,False,False,Dm7b5,D,m7b5,0,2,10,printed
+Begin the Beguine,37,74,D5,8,0,quarter,0,3,0.66667,ple,True,False,False,Dm7b5,D,m7b5,2,2,0,printed
+Begin the Beguine,38,76,E5,9,0,half,0,3,1.33333,curse,True,False,False,Dm7b5,D,m7b5,4,2,2,printed
+Begin the Beguine,38,74,D5,8,0,quarter,0,3,0.66667,the,True,False,False,Dm7b5,D,m7b5,2,2,0,printed
+Begin the Beguine,38,72,C5,7,0,quarter,0,3,0.66667,chance,True,False,False,Dm7b5,D,m7b5,0,2,10,printed
+Begin the Beguine,38,70,Bb4,6,-1,quarter,0,3,0.66667,that,True,False,False,Dm7b5,D,m7b5,10,2,8,printed
+Begin the Beguine,38,68,Ab4,5,-1,quarter,0,3,0.66667,was,True,False,False,Dm7b5,D,m7b5,8,2,6,printed
+Begin the Beguine,39,62,D4,1,0,quarter,0,1,1.0,know,True,False,False,Dm7/G,D,m7/G,2,2,0,printed
+Begin the Beguine,39,64,E4,2,0,quarter,0,3,0.66667,but,True,False,False,Dm7/G,D,m7/G,4,2,2,printed
+Begin the Beguine,39,65,F4,3,0,quarter,0,1,1.0,too,True,False,False,Dm7/G,D,m7/G,5,2,3,printed
+Begin the Beguine,39,67,G4,4,0,half,0,1,2.0,well,True,False,False,Dm7/G,D,m7/G,7,2,5,printed
+Begin the Beguine,40,67,G4,4,0,half,0,1,2.0,,,,True,G7b9,G,7b9,7,7,0,printed
+Begin the Beguine,40,67,G4,4,0,eighth,0,1,0.5,,,,True,G7b9,G,7b9,7,7,0,printed
+Begin the Beguine,40,65,F4,3,0,quarter,0,1,1.0,what,True,False,False,G7b9,G,7b9,5,7,10,printed
+Begin the Beguine,40,64,E4,2,0,eighth,0,1,0.5,they,True,False,False,G7b9,G,7b9,4,7,9,printed
+Begin the Beguine,41,76,E5,9,0,quarter,0,3,0.66667,love,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,41,76,E5,9,0,quarter,0,3,0.66667,that,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,41,76,E5,9,0,quarter,0,3,0.66667,was,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,41,76,E5,9,0,quarter,1,1,1.5,once,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,41,76,E5,9,0,eighth,0,1,0.5,a,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,42,76,E5,9,0,quarter,1,1,1.5,fire,True,False,False,C6,C,6,4,0,4,printed
+Begin the Beguine,42,76,E5,9,0,eighth,0,1,0.5,re,True,False,False,C6,C,6,4,0,4,printed
+Begin the Beguine,42,74,D5,8,0,quarter,1,1,1.5,main,True,False,False,C6,C,6,2,0,2,printed
+Begin the Beguine,42,72,C5,7,0,eighth,0,1,0.5,an,True,False,False,C6,C,6,0,0,0,printed
+Begin the Beguine,43,71,B4,6,0,half,0,1,2.0,em,True,False,False,G7/D,G,7/D,11,7,4,printed
+Begin the Beguine,43,67,G4,4,0,half,0,1,2.0,ber;,True,False,False,G7/D,G,7/D,7,7,0,printed
+Begin the Beguine,44,67,G4,4,0,half,0,1,2.0,,,,True,G7,G,7,7,7,0,printed
+Begin the Beguine,44,69,A4,5,0,eighth,0,1,0.5,let,True,False,False,G7,G,7,9,7,2,printed
+Begin the Beguine,44,71,B4,6,0,eighth,0,1,0.5,it,True,False,False,G7,G,7,11,7,4,printed
+Begin the Beguine,45,72,C5,7,0,quarter,0,1,1.0,sleep,True,False,False,FMaj37,F,Maj37,0,5,7,printed
+Begin the Beguine,45,72,C5,7,0,eighth,0,1,0.5,like,True,False,False,FMaj37,F,Maj37,0,5,7,printed
+Begin the Beguine,45,72,C5,7,0,quarter,0,1,1.0,the,True,False,False,FMaj37,F,Maj37,0,5,7,printed
+Begin the Beguine,45,72,C5,7,0,quarter,1,1,1.5,dead,True,False,False,FMaj37,F,Maj37,0,5,7,printed
+Begin the Beguine,45,72,C5,7,0,eighth,0,1,0.5,de,True,False,False,FMaj37,F,Maj37,0,5,7,printed
+Begin the Beguine,46,72,C5,7,0,half,0,3,1.33333,sire,True,False,False,F6,F,6,0,5,7,printed
+Begin the Beguine,46,72,C5,7,0,quarter,0,3,0.66667,I,True,False,False,F6,F,6,0,5,7,printed
+Begin the Beguine,46,72,C5,7,0,quarter,0,3,0.66667,on,True,False,False,F6,F,6,0,5,7,printed
+Begin the Beguine,46,71,B4,6,0,quarter,0,3,0.66667,ly,True,False,False,F6,F,6,11,5,6,printed
+Begin the Beguine,46,69,A4,5,0,quarter,0,3,0.66667,re,True,False,False,F6,F,6,9,5,4,printed
+Begin the Beguine,47,67,G4,4,0,half,0,1,2.0,mem,True,False,False,Em7,E,m7,7,4,3,printed
+Begin the Beguine,47,64,E4,2,0,half,0,1,2.0,"ber,",True,False,False,Em7,E,m7,4,4,0,printed
+Begin the Beguine,48,64,E4,2,0,half,1,1,3.0,,,,True,A7b9,A,7b9,4,9,7,printed
+Begin the Beguine,49,62,D4,1,0,quarter,0,3,0.66667,when,True,False,False,Dm7,D,m7,2,2,0,printed
+Begin the Beguine,49,64,E4,2,0,quarter,0,3,0.66667,they,True,False,False,Dm7,D,m7,4,2,2,printed
+Begin the Beguine,49,65,F4,3,0,quarter,0,3,0.66667,be,True,False,False,Dm7,D,m7,5,2,3,printed
+Begin the Beguine,49,67,G4,4,0,half,0,1,2.0,gin,True,False,False,Dm7,D,m7,7,2,5,printed
+Begin the Beguine,50,76,E5,9,0,quarter,0,3,0.66667,let,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,50,76,E5,9,0,quarter,0,3,0.66667,them,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,50,76,E5,9,0,quarter,0,3,0.66667,be,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,50,76,E5,9,0,quarter,0,3,0.66667,gin,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,50,76,E5,9,0,quarter,0,3,0.66667,the,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,50,76,E5,9,0,quarter,0,3,0.66667,be,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,51,76,E5,9,0,half,0,1,2.0,"guine,",True,False,False,C6,C,6,4,0,4,printed
+Begin the Beguine,51,76,E5,9,0,quarter,1,1,1.5,make,True,False,False,C6,C,6,4,0,4,printed
+Begin the Beguine,51,76,E5,9,0,eighth,0,1,0.5,them,True,False,False,C6,C,6,4,0,4,printed
+Begin the Beguine,52,76,E5,9,0,whole,0,1,4.0,"play,",True,False,False,CMaj7,C,Maj7,4,0,4,printed
+Begin the Beguine,53,76,E5,9,0,half,1,1,3.0,,,,True,C6,C,6,4,0,4,printed
+Begin the Beguine,53,72,C5,7,0,eighth,0,1,0.5,till,True,False,False,C6,C,6,0,0,0,printed
+Begin the Beguine,53,74,D5,8,0,eighth,0,1,0.5,the,True,False,False,C6,C,6,2,0,2,printed
+Begin the Beguine,54,76,E5,9,0,quarter,0,3,0.66667,stars,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,54,76,E5,9,0,quarter,0,3,0.66667,that,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,54,76,E5,9,0,quarter,0,3,0.66667,were,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,54,76,E5,9,0,quarter,1,1,1.5,there,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,54,76,E5,9,0,eighth,0,1,0.5,be,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,55,77,F5,10,0,quarter,1,1,1.5,fore,True,False,False,C,C,,5,0,5,printed
+Begin the Beguine,55,76,E5,9,0,eighth,0,7,0.28571,re,True,False,False,C,C,,4,0,4,printed
+Begin the Beguine,55,74,D5,8,0,quarter,0,7,0.57143,turn,True,False,False,C,C,,2,0,2,printed
+Begin the Beguine,55,72,C5,7,0,quarter,0,7,0.57143,a,True,False,False,C,C,,0,0,0,printed
+Begin the Beguine,56,71,B4,6,0,half,0,7,1.14286,bove,True,False,False,b,B,,11,11,0,printed
+Begin the Beguine,56,67,G4,4,0,half,0,7,1.14286,"you,",True,False,False,b,B,,7,11,8,printed
+Begin the Beguine,57,67,G4,4,0,half,1,7,1.71429,,,,True,b,B,,7,11,8,printed
+Begin the Beguine,57,69,A4,5,0,eighth,0,7,0.28571,till,True,False,False,b,B,,9,11,10,printed
+Begin the Beguine,57,71,B4,6,0,eighth,0,1,0.5,you,True,False,False,b,B,,11,11,0,printed
+Begin the Beguine,58,72,C5,7,0,quarter,0,3,0.66667,whis,True,False,False,b,B,,0,11,1,printed
+Begin the Beguine,58,72,C5,7,0,eighth,0,3,0.33333,per,True,False,False,b,B,,0,11,1,printed
+Begin the Beguine,58,72,C5,7,0,quarter,0,3,0.66667,to,True,False,False,b,B,,0,11,1,printed
+Begin the Beguine,58,72,C5,7,0,quarter,0,1,1.0,me,True,False,False,b,B,,0,11,1,printed
+Begin the Beguine,58,72,C5,7,0,quarter,0,1,1.0,once,True,False,False,b,B,,0,11,1,printed
+Begin the Beguine,59,74,D5,8,0,half,0,7,1.14286,"more,",True,False,False,b,B,,2,11,3,printed
+Begin the Beguine,59,72,C5,7,0,quarter,0,3,0.66667,"""Dar",True,False,False,b,B,,0,11,1,printed
+Begin the Beguine,59,71,B4,6,0,quarter,0,3,0.66667,"ling,",True,False,False,b,B,,11,11,0,printed
+Begin the Beguine,59,69,A4,5,0,quarter,0,3,0.66667,I,True,False,False,b,B,,9,11,10,printed
+Begin the Beguine,60,67,G4,4,0,half,0,1,2.0,love,True,False,False,Em7,E,m7,7,4,3,printed
+Begin the Beguine,60,64,E4,2,0,half,0,1,2.0,"you!""",True,False,False,Em7,E,m7,4,4,0,printed
+Begin the Beguine,61,64,E4,2,0,half,1,1,3.0,,,,True,A7b9,A,7b9,4,9,7,printed
+Begin the Beguine,61,64,E4,2,0,eighth,0,1,0.5,and,True,False,False,A7b9,A,7b9,4,9,7,printed
+Begin the Beguine,61,64,E4,2,0,eighth,0,1,0.5,we,True,False,False,A7b9,A,7b9,4,9,7,printed
+Begin the Beguine,62,62,D4,1,0,quarter,0,3,0.66667,sud,True,False,False,Dm7,D,m7,2,2,0,printed
+Begin the Beguine,62,64,E4,2,0,quarter,0,3,0.66667,den,True,False,False,Dm7,D,m7,4,2,2,printed
+Begin the Beguine,62,65,F4,3,0,quarter,0,3,0.66667,ly,True,False,False,Dm7,D,m7,5,2,3,printed
+Begin the Beguine,62,67,G4,4,0,half,0,1,2.0,know,True,False,False,Dm7,D,m7,7,2,5,printed
+Begin the Beguine,63,67,G4,4,0,half,0,1,2.0,,,,True,Dm7,D,m7,7,2,5,printed
+Begin the Beguine,63,67,G4,4,0,quarter,1,1,1.5,,,,True,Dm7,D,m7,7,2,5,printed
+Begin the Beguine,63,67,G4,4,0,eighth,0,1,0.5,what,True,False,False,Dm7,D,m7,7,2,5,printed
+Begin the Beguine,64,62,D4,1,0,quarter,0,3,0.66667,heav,True,False,False,Dm7b5,D,m7b5,2,2,0,printed
+Begin the Beguine,64,64,E4,2,0,quarter,0,3,0.66667,en,True,False,False,Dm7b5,D,m7b5,4,2,2,printed
+Begin the Beguine,64,65,F4,3,0,quarter,0,3,0.66667,we're,True,False,False,Dm7b5,D,m7b5,5,2,3,printed
+Begin the Beguine,64,67,G4,4,0,half,0,1,2.0,in,True,False,False,Dm7b5,D,m7b5,7,2,5,printed
+Begin the Beguine,65,62,D4,1,0,quarter,0,1,1.0,when,True,False,False,Dm7/G,D,m7/G,2,2,0,printed
+Begin the Beguine,65,64,E4,2,0,quarter,0,3,0.66667,they,True,False,False,Dm7/G,D,m7/G,4,2,2,printed
+Begin the Beguine,65,65,F4,3,0,quarter,0,1,1.0,be,True,False,False,Dm7/G,D,m7/G,5,2,3,printed
+Begin the Beguine,65,67,G4,4,0,half,0,1,2.0,gin,True,False,False,Dm7/G,D,m7/G,7,2,5,printed
+Begin the Beguine,66,67,G4,4,0,half,0,1,2.0,,,,True,G7b9,G,7b9,7,7,0,printed
+Begin the Beguine,66,67,G4,4,0,eighth,0,1,0.5,,,,True,G7b9,G,7b9,7,7,0,printed
+Begin the Beguine,66,65,F4,3,0,quarter,0,1,1.0,the,True,False,False,G7b9,G,7b9,5,7,10,printed
+Begin the Beguine,66,64,E4,2,0,eighth,0,1,0.5,be,True,False,False,G7b9,G,7b9,4,7,9,printed
+Begin the Beguine,67,60,C4,0,0,whole,0,1,4.0,guine,True,False,False,C,C,,0,0,0,printed
+Begin the Beguine,68,60,C4,0,0,half,1,1,3.0,,,,True,C6,C,6,0,0,0,printed
+Begin the Beguine,69,62,D4,1,0,quarter,0,3,0.66667,when,True,False,False,Dm7,D,m7,2,2,0,printed
+Begin the Beguine,69,64,E4,2,0,quarter,0,3,0.66667,they,True,False,False,Dm7,D,m7,4,2,2,printed
+Begin the Beguine,69,65,F4,3,0,quarter,0,3,0.66667,be,True,False,False,Dm7,D,m7,5,2,3,printed
+Begin the Beguine,69,67,G4,4,0,half,0,1,2.0,gin,True,False,False,Dm7,D,m7,7,2,5,printed
+My Heart Belongs to Daddy,1,64,E4,2,0,quarter,0,1,1.0,tear,True,False,False,Dm,D,m,2,0,2,printed
+My Heart Belongs to Daddy,1,65,F4,3,0,eighth,0,1,0.5,ing,True,False,False,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,1,62,D4,1,0,eighth,0,1,0.5,off,True,False,False,Dm,D,m,0,0,0,printed
+My Heart Belongs to Daddy,1,62,D4,1,0,quarter,0,1,1.0,,,,True,Dm,D,m,0,0,0,printed
+My Heart Belongs to Daddy,1,65,F4,3,0,quarter,0,1,1.0,a,True,False,False,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,2,64,E4,2,0,quarter,0,1,1.0,game,True,False,False,Dm,D,m,2,0,2,printed
+My Heart Belongs to Daddy,2,65,F4,3,0,eighth,0,1,0.5,of,True,False,False,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,2,62,D4,1,0,eighth,0,1,0.5,golf,True,False,False,Dm,D,m,0,0,0,printed
+My Heart Belongs to Daddy,2,62,D4,1,0,quarter,0,1,1.0,,,,True,Dm,D,m,0,0,0,printed
+My Heart Belongs to Daddy,2,65,F4,3,0,quarter,0,1,1.0,I,True,False,False,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,3,64,E4,2,0,quarter,0,3,0.66667,may,True,False,False,Dm,D,m,2,0,2,printed
+My Heart Belongs to Daddy,3,65,F4,3,0,quarter,0,3,0.66667,make,True,False,False,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,3,62,D4,1,0,quarter,0,3,0.66667,a,True,False,False,Dm,D,m,0,0,0,printed
+My Heart Belongs to Daddy,3,64,E4,2,0,quarter,0,3,0.66667,play,True,False,False,Dm,D,m,2,0,2,printed
+My Heart Belongs to Daddy,3,65,F4,3,0,quarter,0,3,0.66667,for,True,False,False,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,3,67,G4,4,0,quarter,0,3,0.66667,the,True,False,False,Dm,D,m,5,0,5,printed
+My Heart Belongs to Daddy,4,69,A4,5,0,eighth,0,1,0.5,cad,True,False,False,Em7b5,E,m7b5,7,2,5,printed
+My Heart Belongs to Daddy,4,67,G4,4,0,quarter,0,1,1.0,dy;,True,False,False,Em7b5,E,m7b5,5,2,3,printed
+My Heart Belongs to Daddy,4,67,G4,4,0,quarter,0,1,1.0,but,True,False,False,Em7b5,E,m7b5,5,2,3,printed
+My Heart Belongs to Daddy,5,68,G#4,4,1,quarter,0,1,1.0,when,True,False,False,A,A,,6,7,11,printed
+My Heart Belongs to Daddy,5,69,A4,5,0,quarter,0,1,1.0,I,True,False,False,A,A,,7,7,0,printed
+My Heart Belongs to Daddy,5,76,E5,9,0,eighth,0,1,0.5,do,True,False,False,A,A,,2,7,7,printed
+My Heart Belongs to Daddy,5,76,E5,9,0,quarter,0,1,1.0,,,,True,A,A,,2,7,7,printed
+My Heart Belongs to Daddy,5,73,C#5,7,1,eighth,0,1,0.5,I,True,False,False,A,A,,11,7,4,printed
+My Heart Belongs to Daddy,6,69,A4,5,0,eighth,0,1,0.5,don't,True,False,False,A,A,,7,7,0,printed
+My Heart Belongs to Daddy,6,68,G#4,4,1,eighth,0,1,0.5,fol,True,False,False,A,A,,6,7,11,printed
+My Heart Belongs to Daddy,6,67,G4,4,0,eighth,0,1,0.5,low,True,False,False,A,A,,5,7,10,printed
+My Heart Belongs to Daddy,6,64,E4,2,0,eighth,0,1,0.5,through,True,False,False,A,A,,2,7,7,printed
+My Heart Belongs to Daddy,6,64,E4,2,0,quarter,0,1,1.0,,,,True,A,A,,2,7,7,printed
+My Heart Belongs to Daddy,6,65,F4,3,0,eighth,0,1,0.5,'cause,True,False,False,A,A,,3,7,8,printed
+My Heart Belongs to Daddy,6,67,G4,4,0,eighth,0,1,0.5,My,True,False,False,A,A,,5,7,10,printed
+My Heart Belongs to Daddy,7,69,A4,5,0,quarter,0,1,1.0,Heart,True,False,False,Gm,G,m,7,5,2,printed
+My Heart Belongs to Daddy,7,69,A4,5,0,eighth,0,1,0.5,Be,True,False,False,Gm,G,m,7,5,2,printed
+My Heart Belongs to Daddy,7,69,A4,5,0,eighth,0,1,0.5,longs,True,False,False,Gm,G,m,7,5,2,printed
+My Heart Belongs to Daddy,7,69,A4,5,0,quarter,0,1,1.0,,,,True,A,A,,7,7,0,printed
+My Heart Belongs to Daddy,7,68,G#4,4,1,quarter,0,1,1.0,To,True,False,False,A,A,,6,7,11,printed
+My Heart Belongs to Daddy,8,65,F4,3,0,eighth,0,1,0.5,Dad,True,False,False,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,8,62,D4,1,0,quarter,0,1,1.0,dy.,True,False,False,Dm,D,m,0,0,0,printed
+My Heart Belongs to Daddy,8,65,F4,3,0,quarter,0,1,1.0,If,True,False,False,A7+,A,7+,3,7,8,printed
+My Heart Belongs to Daddy,9,64,E4,2,0,quarter,0,1,1.0,I,True,False,False,Dm,D,m,2,0,2,printed
+My Heart Belongs to Daddy,9,65,F4,3,0,eighth,0,1,0.5,in,True,False,False,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,9,62,D4,1,0,eighth,0,1,0.5,vite,True,False,False,Dm,D,m,0,0,0,printed
+My Heart Belongs to Daddy,9,62,D4,1,0,quarter,0,1,1.0,,,,True,Dm,D,m,0,0,0,printed
+My Heart Belongs to Daddy,9,65,F4,3,0,quarter,0,1,1.0,a,True,False,False,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,10,64,E4,2,0,quarter,0,1,1.0,boy,True,False,False,Dm,D,m,2,0,2,printed
+My Heart Belongs to Daddy,10,65,F4,3,0,eighth,0,1,0.5,some,True,False,False,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,10,62,D4,1,0,eighth,0,1,0.5,night,True,False,False,Dm,D,m,0,0,0,printed
+My Heart Belongs to Daddy,10,62,D4,1,0,quarter,0,1,1.0,,,,True,Dm,D,m,0,0,0,printed
+My Heart Belongs to Daddy,10,65,F4,3,0,quarter,0,1,1.0,to,True,False,False,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,11,64,E4,2,0,quarter,0,3,0.66667,dine,True,False,False,Dm,D,m,2,0,2,printed
+My Heart Belongs to Daddy,11,65,F4,3,0,quarter,0,3,0.66667,on,True,False,False,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,11,62,D4,1,0,quarter,0,3,0.66667,my,True,False,False,Dm,D,m,0,0,0,printed
+My Heart Belongs to Daddy,11,64,E4,2,0,quarter,0,3,0.66667,fine,True,False,False,Dm,D,m,2,0,2,printed
+My Heart Belongs to Daddy,11,65,F4,3,0,quarter,0,3,0.66667,fin,True,False,False,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,11,67,G4,4,0,quarter,0,3,0.66667,nan,True,False,False,Dm,D,m,5,0,5,printed
+My Heart Belongs to Daddy,12,69,A4,5,0,eighth,0,1,0.5,had,True,False,False,Em7b5,E,m7b5,7,2,5,printed
+My Heart Belongs to Daddy,12,67,G4,4,0,quarter,0,1,1.0,"die,",True,False,False,Em7b5,E,m7b5,5,2,3,printed
+My Heart Belongs to Daddy,12,67,G4,4,0,quarter,0,1,1.0,I,True,False,False,Em7b5,E,m7b5,5,2,3,printed
+My Heart Belongs to Daddy,13,68,G#4,4,1,eighth,0,1,0.5,just,True,False,False,A7,A,7,6,7,11,printed
+My Heart Belongs to Daddy,13,69,A4,5,0,quarter,0,1,1.0,a,True,False,False,A7,A,7,7,7,0,printed
+My Heart Belongs to Daddy,13,76,E5,9,0,eighth,0,1,0.5,dore,True,False,False,A7,A,7,2,7,7,printed
+My Heart Belongs to Daddy,13,76,E5,9,0,quarter,1,1,1.5,,,,True,A7,A,7,2,7,7,printed
+My Heart Belongs to Daddy,13,73,C#5,7,1,eighth,0,1,0.5,his,True,False,False,A7,A,7,11,7,4,printed
+My Heart Belongs to Daddy,14,69,A4,5,0,eighth,0,1,0.5,ask,True,False,False,A7,A,7,7,7,0,printed
+My Heart Belongs to Daddy,14,68,G#4,4,1,eighth,0,1,0.5,ing,True,False,False,A7,A,7,6,7,11,printed
+My Heart Belongs to Daddy,14,67,G4,4,0,eighth,0,1,0.5,for,True,False,False,A7,A,7,5,7,10,printed
+My Heart Belongs to Daddy,14,64,E4,2,0,eighth,0,1,0.5,"more,",True,False,False,A7,A,7,2,7,7,printed
+My Heart Belongs to Daddy,14,64,E4,2,0,quarter,0,1,1.0,,,,True,A7,A,7,2,7,7,printed
+My Heart Belongs to Daddy,14,65,F4,3,0,eighth,0,1,0.5,but,True,False,False,A7,A,7,3,7,8,printed
+My Heart Belongs to Daddy,14,67,G4,4,0,eighth,0,1,0.5,My,True,False,False,A7,A,7,5,7,10,printed
+My Heart Belongs to Daddy,15,69,A4,5,0,quarter,0,1,1.0,Heart,True,False,False,Gm,G,m,7,5,2,printed
+My Heart Belongs to Daddy,15,69,A4,5,0,eighth,0,1,0.5,Be,True,False,False,Gm,G,m,7,5,2,printed
+My Heart Belongs to Daddy,15,69,A4,5,0,eighth,0,1,0.5,longs,True,False,False,Gm,G,m,7,5,2,printed
+My Heart Belongs to Daddy,15,69,A4,5,0,quarter,1,1,1.5,,,,True,A7,A,7,7,7,0,printed
+My Heart Belongs to Daddy,15,68,G#4,4,1,eighth,0,1,0.5,To,True,False,False,A7,A,7,6,7,11,printed
+My Heart Belongs to Daddy,16,65,F4,3,0,eighth,0,1,0.5,Dad,True,False,False,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,16,62,D4,1,0,quarter,0,1,1.0,dy.,True,False,False,Dm,D,m,0,0,0,printed
+My Heart Belongs to Daddy,16,74,D5,8,0,eighth,0,1,0.5,"Yes,",True,False,False,Dm,D,m,0,0,0,printed
+My Heart Belongs to Daddy,16,76,E5,9,0,eighth,0,1,0.5,My,True,False,False,Dm,D,m,2,0,2,printed
+My Heart Belongs to Daddy,17,77,F5,10,0,quarter,0,1,1.0,Heart,True,False,False,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,17,77,F5,10,0,eighth,0,1,0.5,Be,True,False,False,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,17,77,F5,10,0,eighth,0,1,0.5,longs,True,False,False,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,17,77,F5,10,0,quarter,1,1,1.5,,,,True,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,17,76,E5,9,0,eighth,0,1,0.5,To,True,False,False,Dm,D,m,2,0,2,printed
+My Heart Belongs to Daddy,18,76,E5,9,0,eighth,0,1,0.5,Dad,True,False,False,Dm,D,m,2,0,2,printed
+My Heart Belongs to Daddy,18,74,D5,8,0,quarter,0,1,1.0,"dy,",True,False,False,Dm,D,m,0,0,0,printed
+My Heart Belongs to Daddy,18,74,D5,8,0,eighth,0,1,0.5,so,True,False,False,Dm,D,m,0,0,0,printed
+My Heart Belongs to Daddy,18,76,E5,9,0,eighth,0,1,0.5,I,True,False,False,Dm,D,m,2,0,2,printed
+My Heart Belongs to Daddy,19,77,F5,10,0,quarter,0,1,1.0,sim,True,False,False,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,19,77,F5,10,0,eighth,0,1,0.5,ply,True,False,False,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,19,77,F5,10,0,eighth,0,1,0.5,could,True,False,False,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,19,77,F5,10,0,eighth,0,1,0.5,,,,True,Dm,D,m,3,0,3,printed
+My Heart Belongs to Daddy,19,76,E5,9,0,quarter,0,1,1.0,n't,True,False,False,Dm,D,m,2,0,2,printed
+My Heart Belongs to Daddy,19,74,D5,8,0,eighth,0,1,0.5,be,True,False,False,Dm,D,m,0,0,0,printed
+My Heart Belongs to Daddy,20,76,E5,9,0,half,1,1,3.0,bad.,True,False,False,Dm,D,m,2,0,2,printed
+My Heart Belongs to Daddy,20,73,C#5,7,1,eighth,0,1,0.5,"Yes,",True,False,False,Dm,D,m,11,0,11,printed
+My Heart Belongs to Daddy,20,74,D5,8,0,eighth,0,1,0.5,My,True,False,False,Dm,D,m,0,0,0,printed
+My Heart Belongs to Daddy,21,76,E5,9,0,quarter,0,1,1.0,Heart,True,False,False,Dm,D,m,2,0,2,printed
+My Heart Belongs to Daddy,21,76,E5,9,0,eighth,0,1,0.5,Be,True,False,False,Dm,D,m,2,0,2,printed
+My Heart Belongs to Daddy,21,76,E5,9,0,eighth,0,1,0.5,longs,True,False,False,Dm,D,m,2,0,2,printed
+My Heart Belongs to Daddy,21,76,E5,9,0,quarter,1,1,1.5,,,,True,Dm,D,m,2,0,2,printed
+My Heart Belongs to Daddy,21,74,D5,8,0,eighth,0,1,0.5,To,True,False,False,Dm,D,m,0,0,0,printed
+My Heart Belongs to Daddy,22,74,D5,8,0,eighth,0,1,0.5,Dad,True,False,False,Dm,D,m,0,0,0,printed
+My Heart Belongs to Daddy,22,73,C#5,7,1,quarter,0,1,1.0,"dy,",True,False,False,Dm,D,m,11,0,11,printed
+My Heart Belongs to Daddy,22,73,C#5,7,1,quarter,0,3,0.66667,da,True,False,False,Dm,D,m,11,0,11,printed
+My Heart Belongs to Daddy,22,70,Bb4,6,-1,quarter,0,3,0.66667,"da,",True,False,False,Dm,D,m,8,0,8,printed
+My Heart Belongs to Daddy,23,69,A4,5,0,quarter,0,3,0.66667,da,True,False,False,Dm,D,m,7,0,7,printed
+My Heart Belongs to Daddy,23,73,C#5,7,1,quarter,0,3,0.66667,da,True,False,False,Dm,D,m,11,0,11,printed
+My Heart Belongs to Daddy,23,70,Bb4,6,-1,quarter,0,3,0.66667,"da,",True,False,False,Dm,D,m,8,0,8,printed
+My Heart Belongs to Daddy,23,69,A4,5,0,eighth,0,1,0.5,da,True,False,False,Dm,D,m,7,0,7,printed
+My Heart Belongs to Daddy,23,73,C#5,7,1,quarter,0,1,1.0,da,True,False,False,Dm,D,m,11,0,11,printed
+My Heart Belongs to Daddy,23,70,Bb4,6,-1,16th,0,3,0.16667,da,True,False,False,Dm,D,m,8,0,8,printed
+My Heart Belongs to Daddy,23,73,C#5,7,1,16th,0,3,0.16667,,,,True,Dm,D,m,11,0,11,printed
+My Heart Belongs to Daddy,23,70,Bb4,6,-1,16th,0,3,0.16667,,,,True,Dm,D,m,8,0,8,printed
+My Heart Belongs to Daddy,24,78,F#5,10,1,quarter,0,1,1.0,want,True,False,False,Dm,D,m,4,0,4,printed
+My Heart Belongs to Daddy,24,78,F#5,10,1,eighth,0,1,0.5,to,True,False,False,Dm,D,m,4,0,4,printed
+My Heart Belongs to Daddy,24,78,F#5,10,1,eighth,0,1,0.5,warn,True,False,False,Dm,D,m,4,0,4,printed
+My Heart Belongs to Daddy,24,78,F#5,10,1,quarter,1,1,1.5,,,,True,A7,A,7,4,7,9,printed
+My Heart Belongs to Daddy,24,76,E5,9,0,eighth,0,1,0.5,"you,",True,False,False,A7,A,7,2,7,7,printed
+My Heart Belongs to Daddy,25,76,E5,9,0,eighth,0,1,0.5,lad,True,False,False,D,D,,2,0,2,printed
+My Heart Belongs to Daddy,25,74,D5,8,0,quarter,0,1,1.0,die,True,False,False,D,D,,0,0,0,printed
+My Heart Belongs to Daddy,25,74,D5,8,0,eighth,0,1,0.5,tho',True,False,False,D,D,,0,0,0,printed
+My Heart Belongs to Daddy,25,76,E5,9,0,eighth,0,1,0.5,I,True,False,False,D,D,,2,0,2,printed
+My Heart Belongs to Daddy,26,78,F#5,10,1,quarter,0,1,1.0,know,True,False,False,D,D,,4,0,4,printed
+My Heart Belongs to Daddy,26,78,F#5,10,1,eighth,0,1,0.5,you're,True,False,False,D,D,,4,0,4,printed
+My Heart Belongs to Daddy,26,78,F#5,10,1,eighth,0,1,0.5,per,True,False,False,D,D,,4,0,4,printed
+My Heart Belongs to Daddy,26,78,F#5,10,1,quarter,0,3,0.66667,,,,True,D7,D,7,4,0,4,printed
+My Heart Belongs to Daddy,26,76,E5,9,0,quarter,0,3,0.66667,fect,True,False,False,D7,D,7,2,0,2,printed
+My Heart Belongs to Daddy,26,74,D5,8,0,quarter,0,3,0.66667,ly,True,False,False,D7,D,7,0,0,0,printed
+My Heart Belongs to Daddy,27,71,B4,6,0,half,1,1,3.0,"swell,",True,False,False,G,G,,9,5,4,printed
+My Heart Belongs to Daddy,27,70,Bb4,6,-1,eighth,0,1,0.5,that,True,False,False,G,G,,8,5,3,printed
+My Heart Belongs to Daddy,27,71,B4,6,0,eighth,0,1,0.5,My,True,False,False,G,G,,9,5,4,printed
+My Heart Belongs to Daddy,28,74,D5,8,0,quarter,0,1,1.0,Hear,True,False,False,Gm,G,m,0,5,7,printed
+My Heart Belongs to Daddy,28,74,D5,8,0,eighth,0,1,0.5,Be,True,False,False,Gm,G,m,0,5,7,printed
+My Heart Belongs to Daddy,28,72,C5,7,0,eighth,0,1,0.5,longs,True,False,False,Gm,G,m,10,5,5,printed
+My Heart Belongs to Daddy,28,72,C5,7,0,quarter,1,1,1.5,,,,True,Gm,G,m,10,5,5,printed
+My Heart Belongs to Daddy,28,70,Bb4,6,-1,eighth,0,1,0.5,To,True,False,False,Gm,G,m,8,5,3,printed
+My Heart Belongs to Daddy,29,70,Bb4,6,-1,quarter,0,1,1.0,Dad,True,False,False,D,D,,8,0,8,printed
+My Heart Belongs to Daddy,29,69,A4,5,0,quarter,0,1,1.0,"dy,",True,False,False,D,D,,7,0,7,printed
+My Heart Belongs to Daddy,29,69,A4,5,0,eighth,0,1,0.5,,,,True,D,D,,7,0,7,printed
+My Heart Belongs to Daddy,29,66,F#4,3,1,eighth,0,1,0.5,'cause,True,False,False,D,D,,4,0,4,printed
+My Heart Belongs to Daddy,29,67,G4,4,0,eighth,0,1,0.5,my,True,False,False,D,D,,5,0,5,printed
+My Heart Belongs to Daddy,30,69,A4,5,0,quarter,0,3,0.66667,dad,True,False,False,Em7b5,E,m7b5,7,2,5,printed
+My Heart Belongs to Daddy,30,69,A4,5,0,quarter,0,3,0.66667,"dy,",True,False,False,Em7b5,E,m7b5,7,2,5,printed
+My Heart Belongs to Daddy,30,69,A4,5,0,quarter,0,3,0.66667,he,True,False,False,Em7b5,E,m7b5,7,2,5,printed
+My Heart Belongs to Daddy,30,67,G4,4,0,quarter,0,3,0.66667,treats,True,False,False,A7,A,7,5,7,10,printed
+My Heart Belongs to Daddy,30,65,F4,3,0,quarter,0,3,0.66667,it,True,False,False,A7,A,7,3,7,8,printed
+My Heart Belongs to Daddy,30,64,E4,2,0,quarter,0,3,0.66667,so,True,False,False,A7,A,7,2,7,7,printed
