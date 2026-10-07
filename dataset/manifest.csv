@@ -1,15 +1,16 @@
-song,key,mode,bars,events,attachments
-Night and Day,D,major,64,233,196
-Anything Goes,C,major,47,196,167
-I've Got You Under My Skin,Eb,major,63,200,174
-You Do Something To Me,Eb,major,32,64,60
-Get Out Of Town,Bb,major,34,118,87
-Love For Sale,Bb,minor,84,213,196
-Easy To Love,Eb,major,48,136,124
-Every Time We Say Goodbye,Eb,major,38,128,110
-I Concentrate On You,C,major,72,163,141
-It's All Right With Me,C,major,61,146,124
-At Long Last Love,F,major,33,97,85
-Dream Dancing,Bb,major,54,127,109
-What Is This Thing Called Love,A,major,49,131,117
-You're The Top,F,major,51,179,146
+song,key,mode,reference_key,bars,events,attachments
+Night and Day,D,major,D (Gay Divorce 1932),64,233,196
+Anything Goes,C,major,C,47,196,167
+I've Got You Under My Skin,Eb,major,Eb,63,200,174
+You Do Something To Me,Eb,major,Eb,32,64,60
+Get Out Of Town,G,minor,G,34,118,87
+Love For Sale,Bb,minor,Bbm,84,213,196
+Easy To Love,Eb,major,Bb,48,136,124
+Every Time We Say Goodbye,Eb,major,unresolved,38,128,110
+I Concentrate On You,C,major,unresolved,72,163,141
+It's All Right With Me,C,major,unresolved,61,146,124
+At Long Last Love,Bb,major,C,33,97,85
+Dream Dancing,Bb,major,C,54,127,109
+What Is This Thing Called Love,A,major,C,49,131,117
+You're The Top,F,major,Eb,51,179,146
+All of You,Db,major,C,33,79,76

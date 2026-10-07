@@ -15,10 +15,10 @@ Night and Day,2,69,A4,quarter,1.0,"beat,",False,D,dim,7,1,6
 
 | | |
 |---|---|
-| songs | 14 |
-| note events | 2,131 |
-| syllable-to-note attachment points | 1,837 |
-| melisma rate | 15.5% |
+| songs | 15 |
+| note events | 2,210 |
+| syllable-to-note attachment points | 1,912 |
+| melisma rate | 13.5% |
 
 Every song is by Cole Porter, words and music. Transcribed from engraved
 editions of each song. The source scores are not
@@ -28,21 +28,22 @@ redistributed here.
 
 | song | key | verse | bars | note events | attachment points |
 |---|---|:-:|---:|---:|---:|
+| All of You | Db | none known | 33 | 79 | 76 |
 | Anything Goes | C | yes | 47 | 196 | 167 |
-| At Long Last Love | F | none known | 33 | 97 | 85 |
+| At Long Last Love | Bb | none known | 33 | 97 | 85 |
 | Dream Dancing | Bb | missing | 54 | 127 | 109 |
 | Easy To Love | Eb | yes | 48 | 136 | 124 |
 | Every Time We Say Goodbye | Eb | none known | 38 | 128 | 110 |
-| Get Out Of Town | Bb | missing | 34 | 118 | 87 |
+| Get Out Of Town | G minor | missing | 34 | 118 | 87 |
 | I Concentrate On You | C | none known | 72 | 163 | 141 |
-| I've Got You Under My Skin | Eb | none known | 63 | 200 | 175 |
+| I've Got You Under My Skin | Eb | none known | 63 | 200 | 174 |
 | It's All Right With Me | C | none known | 61 | 146 | 124 |
 | Love For Sale | Bb minor | yes | 84 | 213 | 196 |
 | Night and Day | D | yes | 64 | 233 | 196 |
 | What Is This Thing Called Love | A | yes | 49 | 131 | 117 |
 | You Do Something To Me | Eb | missing | 32 | 64 | 60 |
 | You're The Top | F | yes | 51 | 179 | 146 |
-| **14 songs** | | | **730** | **2,131** | **1,837** |
+| **15 songs** | | | **763** | **2,210** | **1,912** |
 
 Where a song has a verse it is part of the same song, with bars running
 continuously from the verse into the chorus. "missing" means a verse exists in
@@ -90,8 +91,15 @@ when this syllable continues the previous word), `hyphen_after`, `melisma`
 the chord root)
 
 The absolute and relative columns are both present so an analysis can use
-either, and so nothing depends on the tonic estimate being right. The tonic is
-taken from each song's final chord.
+either.
+
+**The key is declared, not inferred.** Each edition states its key and that is
+what `manifest.csv` records; `reference_key` names the key of an independent
+edition where one was found, which is the target for anyone transposing the set
+to a single key. Estimating the key from the music is unreliable in this
+repertoire: a chart that closes on a turnaround makes the last chord the
+dominant, and ii-V is frequent enough that weighting chords by duration elects
+the ii instead of the tonic. Both failure modes occur here.
 
 ## Files
 
