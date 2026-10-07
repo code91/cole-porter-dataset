@@ -37,7 +37,7 @@ redistributed here.
 | I Concentrate On You | C | 72 | 163 | 141 |
 | I've Got You Under My Skin | Eb | 63 | 200 | 175 |
 | It's All Right With Me | C | 61 | 146 | 124 |
-| Love For Sale | F minor | 64 | 148 | 133 |
+| Love For Sale | Bb minor | 64 | 148 | 133 |
 | Love For Sale (verse) * | Bb minor | 20 | 65 | 63 |
 | Night and Day | D | 64 | 233 | 196 |
 | What Is This Thing Called Love | A | 49 | 131 | 117 |
