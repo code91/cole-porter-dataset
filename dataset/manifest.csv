@@ -1,16 +1,19 @@
-song,key,mode,reference_key,bars,events,attachments
-Night and Day,D,major,D (Gay Divorce 1932),64,233,196
-Anything Goes,C,major,C,47,196,167
-I've Got You Under My Skin,Eb,major,Eb,63,200,174
-You Do Something To Me,Eb,major,Eb,32,64,60
-Get Out Of Town,G,minor,G,34,118,87
-Love For Sale,Bb,minor,Bbm,84,213,196
-Easy To Love,Eb,major,Bb,48,136,124
-Every Time We Say Goodbye,Eb,major,unresolved,38,128,110
-I Concentrate On You,C,major,unresolved,72,163,141
-It's All Right With Me,C,major,unresolved,61,146,124
-At Long Last Love,Bb,major,C,33,97,85
-Dream Dancing,Bb,major,C,54,127,109
-What Is This Thing Called Love,A,major,C,49,131,117
-You're The Top,F,major,Eb,51,179,146
-All of You,Db,major,C,33,79,76
+song,key,mode,reference_key,porter_words_and_music,bars,events,attachments
+Night and Day,D,major,D (Gay Divorce 1932),True,64,233,196
+Anything Goes,C,major,C,True,47,196,167
+I've Got You Under My Skin,Eb,major,Eb,True,63,200,174
+You Do Something To Me,Eb,major,Eb,True,32,64,60
+Get Out Of Town,G,minor,G,True,34,118,87
+Love For Sale,Bb,minor,Bbm,True,84,213,196
+Easy To Love,Eb,major,Bb,True,48,136,124
+Every Time We Say Goodbye,Eb,major,unresolved,True,38,128,110
+I Concentrate On You,C,major,unresolved,True,72,163,141
+It's All Right With Me,C,major,unresolved,True,61,146,124
+At Long Last Love,Bb,major,C,True,33,97,85
+Dream Dancing,Bb,major,C,True,54,127,109
+What Is This Thing Called Love,A,major,C,True,49,131,117
+You're The Top,F,major,Eb,True,51,179,146
+All of You,Db,major,C,True,33,79,76
+Don't Fence Me In,F,major,F,False,33,157,149
+Too Darn Hot,G,minor,Gm,True,22,79,64
+You'd Be So Nice To Come Home To,F,minor,Fm,True,30,76,57

@@ -436,7 +436,7 @@ I've Got You Under My Skin,3,70,Bb4,6,-1,eighth,0,1,0.5,un,True,True,False,B¨9,
 I've Got You Under My Skin,3,68,Ab4,5,-1,quarter,0,1,1.0,der,False,False,False,B¨9,Bb,9,5,7,10,printed
 I've Got You Under My Skin,3,67,G4,4,0,eighth,0,1,0.5,my,True,False,False,B¨9,Bb,9,4,7,9,printed
 I've Got You Under My Skin,4,67,G4,4,0,whole,0,1,4.0,skin,True,False,False,Eb^,Eb,maj,4,0,4,printed
-I've Got You Under My Skin,5,67,G4,4,0,half,0,1,2.0,,,,True,/Gm7,/,Gm7,4,,,printed
+I've Got You Under My Skin,5,67,G4,4,0,half,0,1,2.0,,,,True,Eb^,Eb,maj,4,0,4,printed
 I've Got You Under My Skin,5,70,Bb4,6,-1,quarter,0,1,1.0,I've,True,False,False,C7,C,7,7,9,10,printed
 I've Got You Under My Skin,6,72,C5,7,0,half,0,1,2.0,got,True,False,False,Fm7,F,m7,9,2,7,printed
 I've Got You Under My Skin,6,72,C5,7,0,half,0,1,2.0,you,True,False,False,Fm7,F,m7,9,2,7,printed
@@ -447,7 +447,7 @@ I've Got You Under My Skin,7,67,G4,4,0,eighth,0,1,0.5,the,True,False,False,B¨9,
 I've Got You Under My Skin,8,65,F4,3,0,quarter,1,1,1.5,heart,True,False,False,Eb^,Eb,maj,2,0,2,printed
 I've Got You Under My Skin,8,67,G4,4,0,eighth,0,1,0.5,of,True,False,False,Eb^,Eb,maj,4,0,4,printed
 I've Got You Under My Skin,8,67,G4,4,0,half,0,1,2.0,me,True,False,False,Eb^,Eb,maj,4,0,4,printed
-I've Got You Under My Skin,9,67,G4,4,0,half,1,1,3.0,,,,True,/Gm7,/,Gm7,4,,,printed
+I've Got You Under My Skin,9,67,G4,4,0,half,1,1,3.0,,,,True,Eb^,Eb,maj,4,0,4,printed
 I've Got You Under My Skin,9,67,G4,4,0,quarter,0,1,1.0,so,True,False,False,C7,C,7,4,9,7,printed
 I've Got You Under My Skin,10,68,Ab4,5,-1,quarter,0,1,1.0,deep,True,False,False,Fm7,F,m7,5,2,3,printed
 I've Got You Under My Skin,10,68,Ab4,5,-1,eighth,0,1,0.5,in,True,False,False,Fm7,F,m7,5,2,3,printed
@@ -461,7 +461,7 @@ I've Got You Under My Skin,11,63,Eb4,2,-1,eighth,0,1,0.5,a,True,False,False,Bb7,
 I've Got You Under My Skin,12,62,D4,1,0,quarter,1,1,1.5,part,True,False,False,Eb^,Eb,maj,11,0,11,printed
 I've Got You Under My Skin,12,60,C4,0,0,eighth,0,1,0.5,of,True,False,False,Eb^,Eb,maj,9,0,9,printed
 I've Got You Under My Skin,12,60,C4,0,0,half,0,1,2.0,me,True,False,False,Eb^,Eb,maj,9,0,9,printed
-I've Got You Under My Skin,13,60,C4,0,0,half,0,1,2.0,,,,True,/Gm7,/,Gm7,9,,,printed
+I've Got You Under My Skin,13,60,C4,0,0,half,0,1,2.0,,,,True,Eb^,Eb,maj,9,0,9,printed
 I've Got You Under My Skin,13,62,D4,1,0,quarter,0,1,1.0,I've,True,False,False,C7,C,7,11,9,2,printed
 I've Got You Under My Skin,14,63,Eb4,2,-1,half,0,1,2.0,got,True,False,False,Fm7,F,m7,0,2,10,printed
 I've Got You Under My Skin,14,63,Eb4,2,-1,half,0,1,2.0,you,True,False,False,Fm7,F,m7,0,2,10,printed
@@ -2209,3 +2209,315 @@ All of You,32,61,Db4,1,-1,whole,0,1,4.0,you.,True,False,False,D¨6,Db,6,0,0,0,pr
 All of You,33,61,Db4,1,-1,quarter,0,1,1.0,I,True,False,False,A¨9(“4),Ab,9(“4),0,7,5,printed
 All of You,33,63,Eb4,2,-1,quarter,0,1,1.0,love,True,False,False,A¨9(“4),Ab,9(“4),2,7,7,printed
 All of You,33,65,F4,3,0,quarter,0,1,1.0,the,True,False,False,A¨9(“4),Ab,9(“4),4,7,9,printed
+Don't Fence Me In,1,60,C4,0,0,quarter,0,1,1.0,"Oh,",True,False,False,,,,7,,,printed
+Don't Fence Me In,1,65,F4,3,0,quarter,0,1,1.0,give,True,False,False,,,,0,,,printed
+Don't Fence Me In,1,67,G4,4,0,quarter,0,1,1.0,me,True,False,False,,,,2,,,printed
+Don't Fence Me In,2,69,A4,5,0,quarter,0,1,1.0,"land,",True,False,False,f,F,,4,0,4,printed
+Don't Fence Me In,2,69,A4,5,0,eighth,0,1,0.5,lots,True,False,False,f,F,,4,0,4,printed
+Don't Fence Me In,2,68,G#4,4,1,eighth,0,1,0.5,of,True,False,False,f,F,,3,0,3,printed
+Don't Fence Me In,2,69,A4,5,0,quarter,0,1,1.0,land,True,False,False,fM7,F,M7,4,0,4,printed
+Don't Fence Me In,2,69,A4,5,0,eighth,0,1,0.5,un,True,True,False,fM7,F,M7,4,0,4,printed
+Don't Fence Me In,2,68,G#4,4,1,eighth,0,1,0.5,der,False,False,False,fM7,F,M7,3,0,3,printed
+Don't Fence Me In,3,69,A4,5,0,eighth,0,1,0.5,star,True,True,False,F6,F,6,4,0,4,printed
+Don't Fence Me In,3,67,G4,4,0,eighth,0,1,0.5,ry,False,False,False,F6,F,6,2,0,2,printed
+Don't Fence Me In,3,65,F4,3,0,eighth,0,1,0.5,skies,True,False,False,F6,F,6,0,0,0,printed
+Don't Fence Me In,3,67,G4,4,0,eighth,0,1,0.5,a,True,True,False,F6,F,6,2,0,2,printed
+Don't Fence Me In,3,69,A4,5,0,half,0,1,2.0,bove,False,False,False,FM7,F,M7,4,0,4,printed
+Don't Fence Me In,4,69,A4,5,0,half,0,1,2.0,don’t,True,False,False,f6,F,6,4,0,4,printed
+Don't Fence Me In,4,70,Bb4,6,-1,quarter,0,1,1.0,fence,True,False,False,d7b9,D,7b9,5,9,8,printed
+Don't Fence Me In,4,69,A4,5,0,eighth,0,1,0.5,me,True,False,False,d7b9,D,7b9,4,9,7,printed
+Don't Fence Me In,4,67,G4,4,0,eighth,0,1,0.5,in.,True,False,False,d7b9,D,7b9,2,9,5,printed
+Don't Fence Me In,5,67,G4,4,0,half,1,1,3.0,,,,True,gm7,G,m7,2,2,0,printed
+Don't Fence Me In,5,64,E4,2,0,eighth,0,1,0.5,Let,True,False,False,c7,C,7,11,7,4,printed
+Don't Fence Me In,5,65,F4,3,0,eighth,0,1,0.5,me,True,False,False,c7,C,7,0,7,5,printed
+Don't Fence Me In,6,67,G4,4,0,quarter,0,1,1.0,ride,True,False,False,gm7,G,m7,2,2,0,printed
+Don't Fence Me In,6,67,G4,4,0,eighth,0,1,0.5,thru,True,False,False,gm7,G,m7,2,2,0,printed
+Don't Fence Me In,6,66,F#4,3,1,eighth,0,1,0.5,the,True,False,False,gm7,G,m7,1,2,11,printed
+Don't Fence Me In,6,67,G4,4,0,quarter,0,1,1.0,wide,True,False,False,c7,C,7,2,7,7,printed
+Don't Fence Me In,6,67,G4,4,0,eighth,0,1,0.5,o,True,True,False,c7,C,7,2,7,7,printed
+Don't Fence Me In,6,66,F#4,3,1,eighth,0,1,0.5,pen,False,False,False,c7,C,7,1,7,6,printed
+Don't Fence Me In,7,67,G4,4,0,eighth,0,1,0.5,coun,True,True,False,gm7,G,m7,2,2,0,printed
+Don't Fence Me In,7,65,F4,3,0,eighth,0,1,0.5,try,False,False,False,gm7,G,m7,0,2,10,printed
+Don't Fence Me In,7,64,E4,2,0,eighth,0,1,0.5,that,True,False,False,gm7,G,m7,11,2,9,printed
+Don't Fence Me In,7,65,F4,3,0,eighth,0,1,0.5,I,True,False,False,gm7,G,m7,0,2,10,printed
+Don't Fence Me In,7,67,G4,4,0,half,0,1,2.0,love.,True,False,False,c7,C,7,2,7,7,printed
+Don't Fence Me In,8,72,C5,7,0,half,0,1,2.0,Don’t,True,False,False,gm7,G,m7,7,2,5,printed
+Don't Fence Me In,8,72,C5,7,0,quarter,1,1,1.5,fence,True,False,False,c7,C,7,7,7,0,printed
+Don't Fence Me In,8,71,B4,6,0,eighth,0,1,0.5,me,True,False,False,c7,C,7,6,7,11,printed
+Don't Fence Me In,9,69,A4,5,0,half,1,1,3.0,in.,True,False,False,f6,F,6,4,0,4,printed
+Don't Fence Me In,9,65,F4,3,0,eighth,0,1,0.5,Let,True,False,False,f6,F,6,0,0,0,printed
+Don't Fence Me In,9,67,G4,4,0,eighth,0,1,0.5,me,True,False,False,f6,F,6,2,0,2,printed
+Don't Fence Me In,10,69,A4,5,0,quarter,0,1,1.0,be,True,False,False,f,F,,4,0,4,printed
+Don't Fence Me In,10,69,A4,5,0,eighth,0,1,0.5,by,True,False,False,f,F,,4,0,4,printed
+Don't Fence Me In,10,68,G#4,4,1,eighth,0,1,0.5,my,True,True,False,f,F,,3,0,3,printed
+Don't Fence Me In,10,69,A4,5,0,quarter,0,1,1.0,self,False,False,False,fM7,F,M7,4,0,4,printed
+Don't Fence Me In,10,69,A4,5,0,eighth,0,1,0.5,in,True,False,False,fM7,F,M7,4,0,4,printed
+Don't Fence Me In,10,68,G#4,4,1,eighth,0,1,0.5,the,True,False,False,fM7,F,M7,3,0,3,printed
+Don't Fence Me In,11,69,A4,5,0,quarter,0,1,1.0,eve,True,True,False,f7,F,7,4,0,4,printed
+Don't Fence Me In,11,69,A4,5,0,quarter,0,1,1.0,ning,False,False,False,f7,F,7,4,0,4,printed
+Don't Fence Me In,11,67,G4,4,0,eighth,0,1,0.5,breeze,True,False,False,f7#5,F,7#5,2,0,2,printed
+Don't Fence Me In,11,65,F4,3,0,quarter,1,1,1.5,,,,True,f7#5,F,7#5,0,0,0,printed
+Don't Fence Me In,12,71,B4,6,0,eighth,0,1,0.5,lis,True,True,False,Bb6,Bb,6,6,5,1,printed
+Don't Fence Me In,12,69,A4,5,0,eighth,0,1,0.5,ten,False,False,False,Bb6,Bb,6,4,5,11,printed
+Don't Fence Me In,12,71,B4,6,0,eighth,0,1,0.5,to,True,False,False,Bb6,Bb,6,6,5,1,printed
+Don't Fence Me In,12,69,A4,5,0,eighth,0,1,0.5,the,True,False,False,Bb6,Bb,6,4,5,11,printed
+Don't Fence Me In,12,71,B4,6,0,eighth,0,1,0.5,mur,True,True,False,Bb6,Bb,6,6,5,1,printed
+Don't Fence Me In,12,69,A4,5,0,eighth,0,1,0.5,mur,False,False,False,Bb6,Bb,6,4,5,11,printed
+Don't Fence Me In,12,71,B4,6,0,eighth,0,1,0.5,of,True,False,False,Bb6,Bb,6,6,5,1,printed
+Don't Fence Me In,12,72,C5,7,0,eighth,0,1,0.5,the,True,False,False,Bb6,Bb,6,7,5,2,printed
+Don't Fence Me In,13,74,D5,8,0,eighth,0,1,0.5,cot,True,True,False,Bb6,Bb,6,9,5,4,printed
+Don't Fence Me In,13,73,C#5,7,1,eighth,0,1,0.5,ton,False,True,False,Bb6,Bb,6,8,5,3,printed
+Don't Fence Me In,13,74,D5,8,0,quarter,0,1,1.0,wood,False,False,False,Bb6,Bb,6,9,5,4,printed
+Don't Fence Me In,13,72,C5,7,0,eighth,0,1,0.5,trees.,True,False,False,Bbm,Bb,m,7,5,2,printed
+Don't Fence Me In,13,71,B4,6,0,quarter,1,1,1.5,,,,True,Bbm,Bb,m,6,5,1,printed
+Don't Fence Me In,14,69,A4,5,0,eighth,0,1,0.5,Send,True,False,False,f,F,,4,0,4,printed
+Don't Fence Me In,14,68,G#4,4,1,eighth,0,1,0.5,me,True,False,False,f,F,,3,0,3,printed
+Don't Fence Me In,14,69,A4,5,0,eighth,0,1,0.5,off,True,False,False,f,F,,4,0,4,printed
+Don't Fence Me In,14,71,B4,6,0,eighth,0,1,0.5,for,True,True,False,f,F,,6,0,6,printed
+Don't Fence Me In,14,72,C5,7,0,eighth,0,1,0.5,ev,False,True,False,f,F,,7,0,7,printed
+Don't Fence Me In,14,71,B4,6,0,eighth,0,1,0.5,"er,",False,False,False,f,F,,6,0,6,printed
+Don't Fence Me In,14,72,C5,7,0,eighth,0,1,0.5,but,True,False,False,f,F,,7,0,7,printed
+Don't Fence Me In,14,74,D5,8,0,eighth,0,1,0.5,I,True,False,False,f,F,,9,0,9,printed
+Don't Fence Me In,15,75,Eb5,9,-1,quarter,0,1,1.0,ask,True,False,False,d7,D,7,10,9,1,printed
+Don't Fence Me In,15,74,D5,8,0,quarter,0,1,1.0,you,True,False,False,d7,D,7,9,9,0,printed
+Don't Fence Me In,15,72,C5,7,0,eighth,0,1,0.5,please,True,False,False,gm7b5,G,m7b5,7,2,5,printed
+Don't Fence Me In,15,71,B4,6,0,quarter,1,1,1.5,,,,True,gm7b5,G,m7b5,6,2,4,printed
+Don't Fence Me In,16,69,A4,5,0,half,0,1,2.0,don’t,True,False,False,f,F,,4,0,4,printed
+Don't Fence Me In,16,69,A4,5,0,quarter,0,1,1.0,fence,True,False,False,c7,C,7,4,7,9,printed
+Don't Fence Me In,16,67,G4,4,0,eighth,0,1,0.5,me,True,False,False,c7,C,7,2,7,7,printed
+Don't Fence Me In,16,65,F4,3,0,eighth,0,1,0.5,in.,True,False,False,f,F,,0,0,0,printed
+Don't Fence Me In,17,65,F4,3,0,quarter,0,1,1.0,,,,True,f,F,,0,0,0,printed
+Don't Fence Me In,17,65,F4,3,0,quarter,0,1,1.0,Just,True,False,False,f7,F,7,0,0,0,printed
+Don't Fence Me In,17,65,F4,3,0,quarter,0,1,1.0,turn,True,False,False,f7,F,7,0,0,0,printed
+Don't Fence Me In,17,65,F4,3,0,quarter,0,1,1.0,me,True,False,False,f7,F,7,0,0,0,printed
+Don't Fence Me In,18,65,F4,3,0,quarter,0,1,1.0,"loose,",True,False,False,bb,Bb,,0,5,7,printed
+Don't Fence Me In,18,62,D4,1,0,eighth,0,1,0.5,let,True,False,False,bb,Bb,,9,5,4,printed
+Don't Fence Me In,18,64,E4,2,0,eighth,0,1,0.5,me,True,False,False,bb,Bb,,11,5,6,printed
+Don't Fence Me In,18,65,F4,3,0,eighth,0,1,0.5,strad,True,True,False,bb,Bb,,0,5,7,printed
+Don't Fence Me In,18,64,E4,2,0,eighth,0,1,0.5,dle,False,False,False,bb,Bb,,11,5,6,printed
+Don't Fence Me In,18,62,D4,1,0,eighth,0,1,0.5,my,True,False,False,bb,Bb,,9,5,4,printed
+Don't Fence Me In,18,64,E4,2,0,eighth,0,1,0.5,old,True,False,False,bb,Bb,,11,5,6,printed
+Don't Fence Me In,19,65,F4,3,0,eighth,0,1,0.5,sad,True,True,False,bb,Bb,,0,5,7,printed
+Don't Fence Me In,19,64,E4,2,0,eighth,0,1,0.5,dle,False,False,False,bb,Bb,,11,5,6,printed
+Don't Fence Me In,19,62,D4,1,0,eighth,0,1,0.5,un,True,True,False,bb,Bb,,9,5,4,printed
+Don't Fence Me In,19,64,E4,2,0,eighth,0,1,0.5,der,False,True,False,bb,Bb,,11,5,6,printed
+Don't Fence Me In,19,65,F4,3,0,eighth,0,1,0.5,neath,False,False,False,bb,Bb,,0,5,7,printed
+Don't Fence Me In,19,67,G4,4,0,eighth,0,1,0.5,the,True,False,False,bb,Bb,,2,5,9,printed
+Don't Fence Me In,19,65,F4,3,0,eighth,0,1,0.5,west,True,True,False,bb,Bb,,0,5,7,printed
+Don't Fence Me In,19,62,D4,1,0,eighth,0,1,0.5,ern,False,False,False,bb,Bb,,9,5,4,printed
+Don't Fence Me In,20,60,C4,0,0,whole,0,1,4.0,skies.,True,False,False,f,F,,7,0,7,printed
+Don't Fence Me In,21,60,C4,0,0,quarter,0,1,1.0,,,,True,f,F,,7,0,7,printed
+Don't Fence Me In,21,65,F4,3,0,quarter,0,1,1.0,On,True,False,False,f7,F,7,0,0,0,printed
+Don't Fence Me In,21,65,F4,3,0,quarter,0,1,1.0,my,True,False,False,f7,F,7,0,0,0,printed
+Don't Fence Me In,21,65,F4,3,0,quarter,0,1,1.0,cay,True,True,False,f7,F,7,0,0,0,printed
+Don't Fence Me In,22,65,F4,3,0,quarter,0,1,1.0,"use,",False,False,False,bb,Bb,,0,5,7,printed
+Don't Fence Me In,22,62,D4,1,0,eighth,0,1,0.5,let,True,False,False,bb,Bb,,9,5,4,printed
+Don't Fence Me In,22,64,E4,2,0,eighth,0,1,0.5,me,True,False,False,bb,Bb,,11,5,6,printed
+Don't Fence Me In,22,65,F4,3,0,eighth,0,1,0.5,wan,True,True,False,bb,Bb,,0,5,7,printed
+Don't Fence Me In,22,64,E4,2,0,eighth,0,1,0.5,der,False,False,False,bb,Bb,,11,5,6,printed
+Don't Fence Me In,22,62,D4,1,0,eighth,0,1,0.5,o,True,True,False,bb,Bb,,9,5,4,printed
+Don't Fence Me In,22,64,E4,2,0,eighth,0,1,0.5,ver,False,False,False,bb,Bb,,11,5,6,printed
+Don't Fence Me In,23,65,F4,3,0,eighth,0,1,0.5,yon,True,True,False,bb,Bb,,0,5,7,printed
+Don't Fence Me In,23,64,E4,2,0,eighth,0,1,0.5,der,False,False,False,bb,Bb,,11,5,6,printed
+Don't Fence Me In,23,62,D4,1,0,eighth,0,1,0.5,till,True,False,False,bb,Bb,,9,5,4,printed
+Don't Fence Me In,23,64,E4,2,0,eighth,0,1,0.5,I,True,False,False,bb,Bb,,11,5,6,printed
+Don't Fence Me In,23,65,F4,3,0,eighth,0,1,0.5,see,True,False,False,bb,Bb,,0,5,7,printed
+Don't Fence Me In,23,67,G4,4,0,eighth,0,1,0.5,the,True,False,False,bb,Bb,,2,5,9,printed
+Don't Fence Me In,23,65,F4,3,0,eighth,0,1,0.5,moun,True,True,False,bb,Bb,,0,5,7,printed
+Don't Fence Me In,23,62,D4,1,0,eighth,0,1,0.5,tains,False,False,False,bb,Bb,,9,5,4,printed
+Don't Fence Me In,24,60,C4,0,0,whole,0,1,4.0,rise.,True,False,False,f,F,,7,0,7,printed
+Don't Fence Me In,25,60,C4,0,0,quarter,0,1,1.0,,,,True,gm7,G,m7,7,2,5,printed
+Don't Fence Me In,25,60,C4,0,0,quarter,0,1,1.0,I,True,False,False,gm7,G,m7,7,2,5,printed
+Don't Fence Me In,25,65,F4,3,0,quarter,0,1,1.0,want,True,False,False,c7,C,7,0,7,5,printed
+Don't Fence Me In,25,67,G4,4,0,quarter,0,1,1.0,to,True,False,False,c7,C,7,2,7,7,printed
+Don't Fence Me In,26,69,A4,5,0,quarter,0,1,1.0,ride,True,False,False,f,F,,4,0,4,printed
+Don't Fence Me In,26,69,A4,5,0,eighth,0,1,0.5,to,True,False,False,f,F,,4,0,4,printed
+Don't Fence Me In,26,68,G#4,4,1,eighth,0,1,0.5,the,True,False,False,f,F,,3,0,3,printed
+Don't Fence Me In,26,69,A4,5,0,quarter,0,1,1.0,ridge,True,False,False,fM7,F,M7,4,0,4,printed
+Don't Fence Me In,26,69,A4,5,0,eighth,0,1,0.5,where,True,False,False,fM7,F,M7,4,0,4,printed
+Don't Fence Me In,26,68,G#4,4,1,eighth,0,1,0.5,the,True,False,False,fM7,F,M7,3,0,3,printed
+Don't Fence Me In,27,69,A4,5,0,quarter,0,1,1.0,West,True,False,False,f7,F,7,4,0,4,printed
+Don't Fence Me In,27,69,A4,5,0,quarter,0,1,1.0,com,True,True,False,f7,F,7,4,0,4,printed
+Don't Fence Me In,27,67,G4,4,0,eighth,0,1,0.5,menc,False,True,False,f7#5,F,7#5,2,0,2,printed
+Don't Fence Me In,27,65,F4,3,0,quarter,1,1,1.5,es,False,False,False,f7#5,F,7#5,0,0,0,printed
+Don't Fence Me In,28,71,B4,6,0,quarter,0,1,1.0,gaze,True,False,False,bb6,Bb,6,6,5,1,printed
+Don't Fence Me In,28,71,B4,6,0,eighth,0,1,0.5,at,True,False,False,bb6,Bb,6,6,5,1,printed
+Don't Fence Me In,28,69,A4,5,0,eighth,0,1,0.5,the,True,False,False,bb6,Bb,6,4,5,11,printed
+Don't Fence Me In,28,71,B4,6,0,quarter,0,1,1.0,moon,True,False,False,bb6,Bb,6,6,5,1,printed
+Don't Fence Me In,28,71,B4,6,0,eighth,0,1,0.5,till,True,False,False,bb6,Bb,6,6,5,1,printed
+Don't Fence Me In,28,72,C5,7,0,eighth,0,1,0.5,I,True,False,False,bb6,Bb,6,7,5,2,printed
+Don't Fence Me In,29,74,D5,8,0,quarter,0,1,1.0,lose,True,False,False,bb6,Bb,6,9,5,4,printed
+Don't Fence Me In,29,74,D5,8,0,quarter,0,1,1.0,my,True,False,False,bb6,Bb,6,9,5,4,printed
+Don't Fence Me In,29,72,C5,7,0,eighth,0,1,0.5,sens,True,True,False,bbm,Bb,m,7,5,2,printed
+Don't Fence Me In,29,71,B4,6,0,quarter,1,1,1.5,es.,False,False,False,bbm,Bb,m,6,5,1,printed
+Don't Fence Me In,30,69,A4,5,0,quarter,0,1,1.0,Can’t,True,False,False,f,F,,4,0,4,printed
+Don't Fence Me In,30,69,A4,5,0,eighth,0,1,0.5,look,True,False,False,f,F,,4,0,4,printed
+Don't Fence Me In,30,71,B4,6,0,eighth,0,1,0.5,at,True,False,False,f,F,,6,0,6,printed
+Don't Fence Me In,30,72,C5,7,0,eighth,0,1,0.5,hob,True,True,False,f,F,,7,0,7,printed
+Don't Fence Me In,30,71,B4,6,0,eighth,0,1,0.5,bles,False,False,False,f,F,,6,0,6,printed
+Don't Fence Me In,30,72,C5,7,0,eighth,0,1,0.5,and,True,False,False,f,F,,7,0,7,printed
+Don't Fence Me In,30,74,D5,8,0,eighth,0,1,0.5,I,True,False,False,f,F,,9,0,9,printed
+Don't Fence Me In,31,75,Eb5,9,-1,quarter,0,1,1.0,can’t,True,False,False,d7,D,7,10,9,1,printed
+Don't Fence Me In,31,74,D5,8,0,quarter,0,1,1.0,stand,True,False,False,d7,D,7,9,9,0,printed
+Don't Fence Me In,31,72,C5,7,0,eighth,0,1,0.5,fenc,True,True,False,gm7b5,G,m7b5,7,2,5,printed
+Don't Fence Me In,31,71,B4,6,0,quarter,1,1,1.5,"es,",False,False,False,gm7b5,G,m7b5,6,2,4,printed
+Don't Fence Me In,32,69,A4,5,0,half,0,1,2.0,don’t,True,False,False,f6,F,6,4,0,4,printed
+Don't Fence Me In,32,69,A4,5,0,quarter,0,1,1.0,fence,True,False,False,c9,C,9,4,7,9,printed
+Don't Fence Me In,32,67,G4,4,0,eighth,0,1,0.5,me,True,False,False,c9,C,9,2,7,7,printed
+Don't Fence Me In,32,65,F4,3,0,eighth,0,1,0.5,in.,True,False,False,f6,F,6,0,0,0,printed
+Don't Fence Me In,33,65,F4,3,0,half,1,1,3.0,,,,True,f6,F,6,0,0,0,printed
+Too Darn Hot,1,55,G3,-3,0,quarter,0,1,1.0,It’s,True,False,False,,,,0,,,printed
+Too Darn Hot,2,60,C4,0,0,half,0,1,2.0,too,True,False,False,Cm,C,m,5,5,0,printed
+Too Darn Hot,2,58,Bb3,-1,-1,half,0,1,2.0,darn,True,False,False,Gm7,G,m7,3,0,3,printed
+Too Darn Hot,3,55,G3,-3,0,quarter,0,1,1.0,hot.,True,False,False,cm,C,m,0,5,7,printed
+Too Darn Hot,3,55,G3,-3,0,quarter,0,1,1.0,It’s,True,False,False,g7,G,7,0,0,0,printed
+Too Darn Hot,4,60,C4,0,0,half,0,1,2.0,too,True,False,False,cm,C,m,5,5,0,printed
+Too Darn Hot,4,58,Bb3,-1,-1,half,0,1,2.0,darn,True,False,False,Gm7,G,m7,3,0,3,printed
+Too Darn Hot,5,55,G3,-3,0,quarter,0,1,1.0,hot.,True,False,False,Cm,C,m,0,5,7,printed
+Too Darn Hot,5,55,G3,-3,0,quarter,0,1,1.0,I’d,True,False,False,g7,G,7,0,0,0,printed
+Too Darn Hot,6,60,C4,0,0,quarter,0,1,1.0,like,True,False,False,cm,C,m,5,5,0,printed
+Too Darn Hot,6,62,D4,1,0,eighth,0,1,0.5,to,True,False,False,cm,C,m,7,5,2,printed
+Too Darn Hot,6,64,E4,2,0,eighth,0,1,0.5,sup,True,False,False,cm,C,m,9,5,4,printed
+Too Darn Hot,6,64,E4,2,0,half,0,1,2.0,,,,True,cm,C,m,9,5,4,printed
+Too Darn Hot,7,64,E4,2,0,eighth,0,1,0.5,,,,True,cm,C,m,9,5,4,printed
+Too Darn Hot,7,64,E4,2,0,quarter,0,1,1.0,with,True,False,False,cm,C,m,9,5,4,printed
+Too Darn Hot,7,60,C4,0,0,eighth,0,1,0.5,my,True,False,False,cm,C,m,5,5,0,printed
+Too Darn Hot,7,64,E4,2,0,eighth,0,1,0.5,ba,True,True,False,cm,C,m,9,5,4,printed
+Too Darn Hot,7,62,D4,1,0,eighth,0,1,0.5,by,False,False,False,cm,C,m,7,5,2,printed
+Too Darn Hot,7,60,C4,0,0,eighth,0,1,0.5,to,True,True,False,cm,C,m,5,5,0,printed
+Too Darn Hot,7,62,D4,1,0,eighth,0,1,0.5,"night,",False,False,False,cm,C,m,7,5,2,printed
+Too Darn Hot,8,62,D4,1,0,whole,0,1,4.0,,,,True,G7s4,G,7s4,7,0,7,printed
+Too Darn Hot,9,62,D4,1,0,quarter,0,1,1.0,,,,True,G7,G,7,7,0,7,printed
+Too Darn Hot,9,55,G3,-3,0,quarter,0,1,1.0,and,True,False,False,G7,G,7,0,0,0,printed
+Too Darn Hot,10,60,C4,0,0,quarter,0,1,1.0,play,True,False,False,Cm,C,m,5,5,0,printed
+Too Darn Hot,10,62,D4,1,0,eighth,0,1,0.5,the,True,False,False,Cm,C,m,7,5,2,printed
+Too Darn Hot,10,64,E4,2,0,eighth,0,1,0.5,pup,True,False,False,Cm,C,m,9,5,4,printed
+Too Darn Hot,10,64,E4,2,0,half,0,1,2.0,,,,True,Cm,C,m,9,5,4,printed
+Too Darn Hot,11,64,E4,2,0,eighth,0,1,0.5,,,,True,Cm,C,m,9,5,4,printed
+Too Darn Hot,11,64,E4,2,0,quarter,0,1,1.0,with,True,False,False,Cm,C,m,9,5,4,printed
+Too Darn Hot,11,60,C4,0,0,eighth,0,1,0.5,my,True,False,False,Cm,C,m,5,5,0,printed
+Too Darn Hot,11,64,E4,2,0,eighth,0,1,0.5,ba,True,True,False,Cm,C,m,9,5,4,printed
+Too Darn Hot,11,62,D4,1,0,eighth,0,1,0.5,by,False,False,False,Cm,C,m,7,5,2,printed
+Too Darn Hot,11,60,C4,0,0,eighth,0,1,0.5,to,True,True,False,Cm,C,m,5,5,0,printed
+Too Darn Hot,11,62,D4,1,0,eighth,0,1,0.5,night.,False,False,False,Cm,C,m,7,5,2,printed
+Too Darn Hot,12,62,D4,1,0,whole,0,1,4.0,,,,True,g7s4,G,7s4,7,0,7,printed
+Too Darn Hot,13,62,D4,1,0,quarter,0,1,1.0,,,,True,g7,G,7,7,0,7,printed
+Too Darn Hot,13,55,G3,-3,0,quarter,0,1,1.0,I’d,True,False,False,g7,G,7,0,0,0,printed
+Too Darn Hot,14,60,C4,0,0,quarter,0,1,1.0,like,True,False,False,c,C,,5,5,0,printed
+Too Darn Hot,14,62,D4,1,0,eighth,0,1,0.5,to,True,False,False,c,C,,7,5,2,printed
+Too Darn Hot,14,64,E4,2,0,eighth,0,1,0.5,sup,True,False,False,c,C,,9,5,4,printed
+Too Darn Hot,14,64,E4,2,0,eighth,0,1,0.5,,,,True,C7,C,7,9,5,4,printed
+Too Darn Hot,14,64,E4,2,0,quarter,0,1,1.0,with,True,False,False,C7,C,7,9,5,4,printed
+Too Darn Hot,14,60,C4,0,0,eighth,0,1,0.5,my,True,False,False,C7,C,7,5,5,0,printed
+Too Darn Hot,15,64,E4,2,0,eighth,0,1,0.5,ba,True,True,False,Dm7,D,m7,9,7,2,printed
+Too Darn Hot,15,62,D4,1,0,eighth,0,1,0.5,by,False,False,False,Dm7,D,m7,7,7,0,printed
+Too Darn Hot,15,60,C4,0,0,eighth,0,1,0.5,to,True,True,False,Dm7,D,m7,5,7,10,printed
+Too Darn Hot,15,62,D4,1,0,eighth,0,1,0.5,"night,",False,False,False,Dm7,D,m7,7,7,0,printed
+Too Darn Hot,15,62,D4,1,0,eighth,0,1,0.5,,,,True,G7,G,7,7,0,7,printed
+Too Darn Hot,15,55,G3,-3,0,quarter,0,1,1.0,and,True,False,False,G7,G,7,0,0,0,printed
+Too Darn Hot,16,64,E4,2,0,quarter,0,1,1.0,play,True,False,False,c,C,,9,5,4,printed
+Too Darn Hot,16,65,F4,3,0,eighth,0,1,0.5,the,True,False,False,c,C,,10,5,5,printed
+Too Darn Hot,16,67,G4,4,0,eighth,0,1,0.5,pup,True,False,False,c,C,,0,5,7,printed
+Too Darn Hot,16,67,G4,4,0,eighth,0,1,0.5,,,,True,C7,C,7,0,5,7,printed
+Too Darn Hot,16,67,G4,4,0,quarter,0,1,1.0,with,True,False,False,C7,C,7,0,5,7,printed
+Too Darn Hot,16,64,E4,2,0,eighth,0,1,0.5,my,True,False,False,C7,C,7,9,5,4,printed
+Too Darn Hot,17,67,G4,4,0,eighth,0,1,0.5,ba,True,True,False,g7,G,7,0,0,0,printed
+Too Darn Hot,17,65,F4,3,0,eighth,0,1,0.5,by,False,False,False,g7,G,7,10,0,10,printed
+Too Darn Hot,17,64,E4,2,0,eighth,0,1,0.5,to,True,True,False,g7,G,7,9,0,9,printed
+Too Darn Hot,17,65,F4,3,0,eighth,0,1,0.5,night.,False,False,False,g7,G,7,10,0,10,printed
+Too Darn Hot,17,65,F4,3,0,eighth,0,1,0.5,,,,True,Dm7,D,m7,10,7,3,printed
+Too Darn Hot,17,62,D4,1,0,quarter,0,1,1.0,But,True,False,False,Dm7,D,m7,7,7,0,printed
+Too Darn Hot,18,67,G4,4,0,quarter,0,1,1.0,I,True,False,False,Gm,G,m,0,0,0,printed
+Too Darn Hot,18,69,A4,5,0,eighth,0,1,0.5,ain’t,True,False,False,Gm,G,m,2,0,2,printed
+Too Darn Hot,18,71,B4,6,0,eighth,0,1,0.5,up,True,False,False,Gm,G,m,4,0,4,printed
+Too Darn Hot,18,71,B4,6,0,eighth,0,1,0.5,,,,True,C7,C,7,4,5,11,printed
+Too Darn Hot,18,71,B4,6,0,quarter,0,1,1.0,to,True,False,False,C7,C,7,4,5,11,printed
+Too Darn Hot,18,67,G4,4,0,eighth,0,1,0.5,my,True,False,False,C7,C,7,0,5,7,printed
+Too Darn Hot,19,71,B4,6,0,eighth,0,1,0.5,ba,True,True,False,gm,G,m,4,0,4,printed
+Too Darn Hot,19,69,A4,5,0,eighth,0,1,0.5,by,False,False,False,gm,G,m,2,0,2,printed
+Too Darn Hot,19,67,G4,4,0,eighth,0,1,0.5,to,True,True,False,gm,G,m,0,0,0,printed
+Too Darn Hot,19,69,A4,5,0,eighth,0,1,0.5,night,False,False,False,gm,G,m,2,0,2,printed
+Too Darn Hot,19,69,A4,5,0,eighth,0,1,0.5,,,,True,G9,G,9,2,0,2,printed
+Too Darn Hot,19,67,G4,4,0,quarter,0,1,1.0,’cause,True,False,False,G9,G,9,0,0,0,printed
+Too Darn Hot,19,65,F4,3,0,eighth,0,1,0.5,it's,True,False,False,G9,G,9,10,0,10,printed
+Too Darn Hot,20,64,E4,2,0,half,0,1,2.0,too,True,False,False,cm,C,m,9,5,4,printed
+Too Darn Hot,20,62,D4,1,0,half,0,1,2.0,darn,True,False,False,gm7,G,m7,7,0,7,printed
+Too Darn Hot,21,60,C4,0,0,quarter,0,1,1.0,hot.,True,False,False,gm7,G,m7,5,0,5,printed
+Too Darn Hot,21,55,G3,-3,0,quarter,0,1,1.0,It’s,True,False,False,G7,G,7,0,0,0,printed
+Too Darn Hot,22,60,C4,0,0,quarter,0,1,1.0,,,,True,G7,G,7,5,0,5,printed
+You'd Be So Nice To Come Home To,1,65,F4,,,quarter,0,1,1.0,You'd,True,False,False,,,,0,,,printed
+You'd Be So Nice To Come Home To,1,67,G4,,,quarter,0,1,1.0,be,True,False,False,,,,2,,,printed
+You'd Be So Nice To Come Home To,2,68,Ab4,,,whole,0,1,4.0,so,True,False,False,Fm6,F,m6,3,0,3,printed
+You'd Be So Nice To Come Home To,3,67,G4,,,half,0,1,2.0,nice,True,False,False,C7b9,C,7b9,2,7,7,printed
+You'd Be So Nice To Come Home To,3,67,G4,,,eighth,0,1,0.5,,,,True,C7b9,C,7b9,2,7,7,printed
+You'd Be So Nice To Come Home To,3,65,F4,,,quarter,0,1,1.0,to,True,False,False,C7b9,C,7b9,0,7,5,printed
+You'd Be So Nice To Come Home To,3,64,E4,,,eighth,0,1,0.5,come,True,False,False,C7b9,C,7b9,11,7,4,printed
+You'd Be So Nice To Come Home To,4,65,F4,,,half,0,1,2.0,home,True,False,False,Fm,F,m,0,0,0,printed
+You'd Be So Nice To Come Home To,4,60,C4,,,half,0,1,2.0,to.,True,False,False,Fm,F,m,7,0,7,printed
+You'd Be So Nice To Come Home To,5,60,C4,,,half,0,1,2.0,,,,True,Fm,F,m,7,0,7,printed
+You'd Be So Nice To Come Home To,5,59,B3,,,quarter,0,1,1.0,,,,True,Fm,F,m,6,0,6,printed
+You'd Be So Nice To Come Home To,5,60,C4,,,quarter,0,1,1.0,,,,True,Fm,F,m,7,0,7,printed
+You'd Be So Nice To Come Home To,6,65,F4,,,whole,0,1,4.0,so,True,False,False,Ebm9,Eb,m9,0,10,2,printed
+You'd Be So Nice To Come Home To,7,63,Eb4,,,half,0,1,2.0,nice,True,False,False,Ab7,Ab,7,10,3,7,printed
+You'd Be So Nice To Come Home To,7,63,Eb4,,,eighth,0,1,0.5,,,,True,Ab7,Ab,7,10,3,7,printed
+You'd Be So Nice To Come Home To,7,60,C4,,,quarter,0,1,1.0,by,True,False,False,Ab7,Ab,7,7,3,4,printed
+You'd Be So Nice To Come Home To,7,58,Bb3,,,eighth,0,1,0.5,,,,True,Ab7,Ab,7,5,3,2,printed
+You'd Be So Nice To Come Home To,8,56,Ab3,,,half,0,1,2.0,,,,True,Dbmaj9,Db,maj9,3,8,7,printed
+You'd Be So Nice To Come Home To,8,58,Bb3,,,quarter,0,1,1.0,,,,True,Dbmaj9,Db,maj9,5,8,9,printed
+You'd Be So Nice To Come Home To,8,60,C4,,,quarter,0,1,1.0,,,,True,Dbmaj9,Db,maj9,7,8,11,printed
+You'd Be So Nice To Come Home To,9,61,Db4,,,half,1,1,3.0,breeze,True,False,False,Gm7b5,G,m7b5,8,2,6,printed
+You'd Be So Nice To Come Home To,9,59,B3,,,quarter,0,1,1.0,,,,True,Gm7b5,G,m7b5,6,2,4,printed
+You'd Be So Nice To Come Home To,10,60,C4,,,half,0,1,2.0,,,,True,C7,C,7,7,7,0,printed
+You'd Be So Nice To Come Home To,10,60,C4,,,eighth,0,1,0.5,,,,True,C7,C,7,7,7,0,printed
+You'd Be So Nice To Come Home To,10,63,Eb4,,,quarter,0,1,1.0,sang,True,False,False,C7,C,7,10,7,3,printed
+You'd Be So Nice To Come Home To,10,67,G4,,,eighth,0,1,0.5,a,True,False,False,C7,C,7,2,7,7,printed
+You'd Be So Nice To Come Home To,11,70,Bb4,,,half,1,1,3.0,lull,True,False,False,Gm7b5,G,m7b5,5,2,3,printed
+You'd Be So Nice To Come Home To,11,67,G4,,,quarter,0,1,1.0,a,True,False,False,C7b9,C,7b9,2,7,7,printed
+You'd Be So Nice To Come Home To,12,68,Ab4,,,half,0,1,2.0,by,True,False,False,Fm7,F,m7,3,0,3,printed
+You'd Be So Nice To Come Home To,12,68,Ab4,,,eighth,0,1,0.5,,,,True,Fm7,F,m7,3,0,3,printed
+You'd Be So Nice To Come Home To,12,70,Bb4,,,quarter,0,1,1.0,you'd,True,False,False,Fm/Eb,F,m/Eb,5,0,5,printed
+You'd Be So Nice To Come Home To,12,71,B4,,,eighth,0,1,0.5,be,True,False,False,Fm/Eb,F,m/Eb,6,0,6,printed
+You'd Be So Nice To Come Home To,13,72,C5,,,half,1,1,3.0,all,True,False,False,Dm7b5,D,m7b5,7,9,10,printed
+You'd Be So Nice To Come Home To,13,68,Ab4,,,quarter,0,1,1.0,that,True,False,False,Dm7b5,D,m7b5,3,9,6,printed
+You'd Be So Nice To Come Home To,14,71,B4,,,half,0,1,2.0,I,True,False,False,Db7,Db,7,6,8,10,printed
+You'd Be So Nice To Come Home To,14,68,Ab4,,,quarter,1,1,1.5,could,True,False,False,Db7,Db,7,3,8,7,printed
+You'd Be So Nice To Come Home To,14,67,G4,,,eighth,0,1,0.5,de,True,False,False,Db7,Db,7,2,8,6,printed
+You'd Be So Nice To Come Home To,15,67,G4,,,whole,0,1,4.0,sire,True,False,False,Gm7b5,G,m7b5,2,2,0,printed
+You'd Be So Nice To Come Home To,16,67,G4,,,half,0,1,2.0,,,,True,C7b9,C,7b9,2,7,7,printed
+You'd Be So Nice To Come Home To,16,65,F4,,,quarter,0,1,1.0,Un,True,False,False,C7b9,C,7b9,0,7,5,printed
+You'd Be So Nice To Come Home To,16,67,G4,,,quarter,0,1,1.0,der,True,False,False,C7b9,C,7b9,2,7,7,printed
+You'd Be So Nice To Come Home To,17,68,Ab4,,,whole,0,1,4.0,stars,True,False,False,Fm6,F,m6,3,0,3,printed
+You'd Be So Nice To Come Home To,18,67,G4,,,half,0,1,2.0,chilled,True,False,False,C7,C,7,2,7,7,printed
+You'd Be So Nice To Come Home To,18,67,G4,,,eighth,0,1,0.5,,,,True,C7,C,7,2,7,7,printed
+You'd Be So Nice To Come Home To,18,65,F4,,,quarter,0,1,1.0,by,True,False,False,C7,C,7,0,7,5,printed
+You'd Be So Nice To Come Home To,18,64,E4,,,eighth,0,1,0.5,,,,True,C7,C,7,11,7,4,printed
+You'd Be So Nice To Come Home To,19,65,F4,,,half,0,1,2.0,the,True,False,False,C7,C,7,0,7,5,printed
+You'd Be So Nice To Come Home To,19,60,C4,,,half,0,1,2.0,win,True,False,False,C7,C,7,7,7,0,printed
+You'd Be So Nice To Come Home To,20,60,C4,,,half,0,1,2.0,ter,True,False,False,C7,C,7,7,7,0,printed
+You'd Be So Nice To Come Home To,20,60,C4,,,quarter,0,1,1.0,un,True,False,False,C7,C,7,7,7,0,printed
+You'd Be So Nice To Come Home To,20,61,Db4,,,quarter,0,1,1.0,der,True,False,False,C7,C,7,8,7,1,printed
+You'd Be So Nice To Come Home To,20,63,Eb4,,,quarter,0,1,1.0,an,True,False,False,C7,C,7,10,7,3,printed
+You'd Be So Nice To Come Home To,21,65,F4,,,quarter,0,1,1.0,Aug,True,False,False,C7,C,7,0,7,5,printed
+You'd Be So Nice To Come Home To,21,68,Ab4,,,quarter,0,1,1.0,ust,True,False,False,C7,C,7,3,7,8,printed
+You'd Be So Nice To Come Home To,21,65,F4,,,half,0,1,2.0,"moon,",True,False,False,C7,C,7,0,7,5,printed
+You'd Be So Nice To Come Home To,22,63,Eb4,,,half,0,1,2.0,burn,True,False,False,C7,C,7,10,7,3,printed
+You'd Be So Nice To Come Home To,22,63,Eb4,,,eighth,0,1,0.5,,,,True,C7,C,7,10,7,3,printed
+You'd Be So Nice To Come Home To,22,60,C4,,,quarter,0,1,1.0,ing,True,False,False,C7,C,7,7,7,0,printed
+You'd Be So Nice To Come Home To,22,56,Ab3,,,eighth,0,1,0.5,a,True,False,False,C7,C,7,3,7,8,printed
+You'd Be So Nice To Come Home To,23,58,Bb3,,,half,0,1,2.0,,,,True,C7,C,7,5,7,10,printed
+You'd Be So Nice To Come Home To,23,60,C4,,,quarter,0,1,1.0,You'd,True,False,False,C7,C,7,7,7,0,printed
+You'd Be So Nice To Come Home To,23,61,Db4,,,quarter,0,1,1.0,be,True,False,False,C7,C,7,8,7,1,printed
+You'd Be So Nice To Come Home To,24,65,F4,,,whole,0,1,4.0,so,True,False,False,G7b9,G,7b9,0,2,10,printed
+You'd Be So Nice To Come Home To,25,63,Eb4,,,half,0,1,2.0,"nice,",True,False,False,Cm7,C,m7,10,7,3,printed
+You'd Be So Nice To Come Home To,25,65,F4,,,quarter,0,1,1.0,you'd,True,False,False,Cm7,C,m7,0,7,5,printed
+You'd Be So Nice To Come Home To,25,67,G4,,,eighth,0,1,0.5,be,True,False,False,Cm7,C,m7,2,7,7,printed
+You'd Be So Nice To Come Home To,26,70,Bb4,,,half,1,1,3.0,par,True,False,False,C7,C,7,5,7,10,printed
+You'd Be So Nice To Come Home To,26,68,Ab4,,,quarter,0,1,1.0,a,True,False,False,C7,C,7,3,7,8,printed
+You'd Be So Nice To Come Home To,27,65,F4,,,half,0,1,2.0,dise,True,False,False,Fm,F,m,0,0,0,printed
+You'd Be So Nice To Come Home To,27,68,Ab4,,,quarter,0,1,1.0,to,True,False,False,Fm,F,m,3,0,3,printed
+You'd Be So Nice To Come Home To,27,70,Bb4,,,quarter,0,1,1.0,come,True,False,False,Fm,F,m,5,0,5,printed
+You'd Be So Nice To Come Home To,28,72,C5,,,half,0,1,2.0,home,True,False,False,Bb9,Bb,9,7,5,2,printed
+You'd Be So Nice To Come Home To,28,71,B4,,,half,0,1,2.0,to,True,False,False,E7,E,7,6,11,7,printed
+You'd Be So Nice To Come Home To,29,70,Bb4,,,half,0,1,2.0,,,,True,D7b13,D,7b13,5,9,8,printed
+You'd Be So Nice To Come Home To,29,70,Bb4,,,half,0,1,2.0,and,True,False,False,Eb7,Eb,7,5,10,7,printed
+You'd Be So Nice To Come Home To,30,68,Ab4,,,half,0,1,2.0,love.,True,False,False,Ab,Ab,,3,3,0,printed
