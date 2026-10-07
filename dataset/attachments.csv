@@ -2491,22 +2491,22 @@ You'd Be So Nice To Come Home To,18,67,G4,,,half,0,1,2.0,chilled,True,False,Fals
 You'd Be So Nice To Come Home To,18,67,G4,,,eighth,0,1,0.5,,,,True,C7,C,7,2,7,7,printed
 You'd Be So Nice To Come Home To,18,65,F4,,,quarter,0,1,1.0,by,True,False,False,C7,C,7,0,7,5,printed
 You'd Be So Nice To Come Home To,18,64,E4,,,eighth,0,1,0.5,,,,True,C7,C,7,11,7,4,printed
-You'd Be So Nice To Come Home To,19,65,F4,,,half,0,1,2.0,the,True,False,False,C7,C,7,0,7,5,printed
-You'd Be So Nice To Come Home To,19,60,C4,,,half,0,1,2.0,win,True,False,False,C7,C,7,7,7,0,printed
-You'd Be So Nice To Come Home To,20,60,C4,,,half,0,1,2.0,ter,True,False,False,C7,C,7,7,7,0,printed
-You'd Be So Nice To Come Home To,20,60,C4,,,quarter,0,3,0.66667,un,True,False,False,C7,C,7,7,7,0,printed
-You'd Be So Nice To Come Home To,20,61,Db4,,,quarter,0,3,0.66667,der,True,False,False,C7,C,7,8,7,1,printed
-You'd Be So Nice To Come Home To,20,63,Eb4,,,quarter,0,3,0.66667,an,True,False,False,C7,C,7,10,7,3,printed
-You'd Be So Nice To Come Home To,21,65,F4,,,quarter,0,1,1.0,Aug,True,False,False,C7,C,7,0,7,5,printed
-You'd Be So Nice To Come Home To,21,68,Ab4,,,quarter,0,1,1.0,ust,True,False,False,C7,C,7,3,7,8,printed
-You'd Be So Nice To Come Home To,21,65,F4,,,half,0,1,2.0,"moon,",True,False,False,C7,C,7,0,7,5,printed
-You'd Be So Nice To Come Home To,22,63,Eb4,,,half,0,7,1.14286,burn,True,False,False,C7,C,7,10,7,3,printed
-You'd Be So Nice To Come Home To,22,63,Eb4,,,eighth,0,7,0.28571,,,,True,C7,C,7,10,7,3,printed
-You'd Be So Nice To Come Home To,22,60,C4,,,quarter,0,7,0.57143,ing,True,False,False,C7,C,7,7,7,0,printed
-You'd Be So Nice To Come Home To,22,56,Ab3,,,eighth,0,1,0.5,a,True,False,False,C7,C,7,3,7,8,printed
-You'd Be So Nice To Come Home To,23,58,Bb3,,,half,0,1,2.0,,,,True,C7,C,7,5,7,10,printed
-You'd Be So Nice To Come Home To,23,60,C4,,,quarter,0,1,1.0,You'd,True,False,False,C7,C,7,7,7,0,printed
-You'd Be So Nice To Come Home To,23,61,Db4,,,quarter,0,1,1.0,be,True,False,False,C7,C,7,8,7,1,printed
+You'd Be So Nice To Come Home To,19,65,F4,,,half,0,1,2.0,the,True,False,False,Fm,F,m,0,0,0,printed
+You'd Be So Nice To Come Home To,19,60,C4,,,half,0,1,2.0,win,True,False,False,Fm,F,m,7,0,7,printed
+You'd Be So Nice To Come Home To,20,60,C4,,,half,0,1,2.0,ter,True,False,False,Fm,F,m,7,0,7,printed
+You'd Be So Nice To Come Home To,20,60,C4,,,quarter,0,3,0.66667,un,True,False,False,Fm,F,m,7,0,7,printed
+You'd Be So Nice To Come Home To,20,61,Db4,,,quarter,0,3,0.66667,der,True,False,False,Fm,F,m,8,0,8,printed
+You'd Be So Nice To Come Home To,20,63,Eb4,,,quarter,0,3,0.66667,an,True,False,False,Fm,F,m,10,0,10,printed
+You'd Be So Nice To Come Home To,21,65,F4,,,quarter,0,1,1.0,Aug,True,False,False,Ebm,Eb,m,0,10,2,printed
+You'd Be So Nice To Come Home To,21,68,Ab4,,,quarter,0,1,1.0,ust,True,False,False,Ebm,Eb,m,3,10,5,printed
+You'd Be So Nice To Come Home To,21,65,F4,,,half,0,1,2.0,"moon,",True,False,False,Ebm,Eb,m,0,10,2,printed
+You'd Be So Nice To Come Home To,22,63,Eb4,,,half,0,1,2.0,burn,True,False,False,Ab7,Ab,7,10,3,7,printed
+You'd Be So Nice To Come Home To,22,63,Eb4,,,eighth,0,1,0.5,,,,True,Ab7,Ab,7,10,3,7,printed
+You'd Be So Nice To Come Home To,22,60,C4,,,quarter,0,1,1.0,ing,True,False,False,Ab7,Ab,7,7,3,4,printed
+You'd Be So Nice To Come Home To,22,56,Ab3,,,eighth,0,1,0.5,a,True,False,False,Ab7,Ab,7,3,3,0,printed
+You'd Be So Nice To Come Home To,23,58,Bb3,,,half,0,1,2.0,,,,True,Ab7,Ab,7,5,3,2,printed
+You'd Be So Nice To Come Home To,23,60,C4,,,quarter,0,1,1.0,You'd,True,False,False,Ab7,Ab,7,7,3,4,printed
+You'd Be So Nice To Come Home To,23,61,Db4,,,quarter,0,1,1.0,be,True,False,False,Ab7,Ab,7,8,3,5,printed
 You'd Be So Nice To Come Home To,24,65,F4,,,whole,0,1,4.0,so,True,False,False,G7b9,G,7b9,0,2,10,printed
 You'd Be So Nice To Come Home To,25,63,Eb4,,,half,0,1,2.0,"nice,",True,False,False,Cm7,C,m7,10,7,3,printed
 You'd Be So Nice To Come Home To,25,65,F4,,,quarter,0,1,1.0,you'd,True,False,False,Cm7,C,m7,0,7,5,printed
@@ -2547,21 +2547,21 @@ You'd Be So Nice To Come Home To,30,68,Ab4,,,half,0,1,2.0,love.,True,False,False
 "Well, Did You Evah!",7,69,A4,5,0,quarter,0,1,1.0,par,True,False,False,D-6,D,-6,4,9,7,printed
 "Well, Did You Evah!",7,68,G#4,4,1,eighth,0,1,0.5,ty,True,False,False,D-6,D,-6,3,9,6,printed
 "Well, Did You Evah!",7,69,A4,5,0,quarter,0,1,1.0,this,True,False,False,B7,B,7,4,6,10,printed
-"Well, Did You Evah!",8,60,C4,0,0,quarter,0,1,1.0,Have,True,False,False,F,F,,7,0,7,printed
-"Well, Did You Evah!",8,69,A4,5,0,quarter,0,1,1.0,you,True,False,False,F,F,,4,0,4,printed
-"Well, Did You Evah!",8,69,A4,5,0,quarter,1,1,1.5,heard,True,False,False,F,F,,4,0,4,printed
-"Well, Did You Evah!",8,60,C4,0,0,eighth,0,1,0.5,that,True,False,False,F,F,,7,0,7,printed
-"Well, Did You Evah!",9,59,B3,-1,0,quarter,0,1,1.0,poor,True,False,False,Bdim,B,dim,6,6,0,printed
-"Well, Did You Evah!",9,68,Ab4,5,-1,quarter,0,1,1.0,dear,True,False,False,Bdim,B,dim,3,6,9,printed
-"Well, Did You Evah!",9,68,Ab4,5,-1,half,0,1,2.0,Blanche,True,False,False,Bdim,B,dim,3,6,9,printed
-"Well, Did You Evah!",10,58,Bb3,-1,-1,quarter,0,1,1.0,got,True,False,False,C7,C,7,5,7,10,printed
-"Well, Did You Evah!",10,67,G4,4,0,quarter,0,1,1.0,run,True,False,False,C7,C,7,2,7,7,printed
-"Well, Did You Evah!",10,67,G4,4,0,quarter,0,1,1.0,down,True,False,False,C7,C,7,2,7,7,printed
-"Well, Did You Evah!",10,65,F4,3,0,eighth,0,1,0.5,by,True,False,False,C7,C,7,0,7,5,printed
-"Well, Did You Evah!",10,64,E4,2,0,eighth,0,1,0.5,an,True,False,False,C7,C,7,11,7,4,printed
-"Well, Did You Evah!",11,65,F4,3,0,quarter,0,1,1.0,av,True,False,False,F,F,,0,0,0,printed
-"Well, Did You Evah!",11,69,A4,5,0,quarter,0,1,1.0,a,True,False,False,F,F,,4,0,4,printed
-"Well, Did You Evah!",11,60,C4,0,0,half,0,1,2.0,lanche?,True,False,False,F,F,,7,0,7,printed
+"Well, Did You Evah!",8,60,C4,0,0,quarter,0,1,1.0,Have,True,False,False,A2,A,2,7,4,3,printed
+"Well, Did You Evah!",8,69,A4,5,0,quarter,0,1,1.0,you,True,False,False,A2,A,2,4,4,0,printed
+"Well, Did You Evah!",8,69,A4,5,0,quarter,1,1,1.5,heard,True,False,False,A2,A,2,4,4,0,printed
+"Well, Did You Evah!",8,60,C4,0,0,eighth,0,1,0.5,that,True,False,False,A2,A,2,7,4,3,printed
+"Well, Did You Evah!",9,59,B3,-1,0,quarter,0,1,1.0,poor,True,False,False,A2,A,2,6,4,2,printed
+"Well, Did You Evah!",9,68,Ab4,5,-1,quarter,0,1,1.0,dear,True,False,False,A2,A,2,3,4,11,printed
+"Well, Did You Evah!",9,68,Ab4,5,-1,half,0,1,2.0,Blanche,True,False,False,A2,A,2,3,4,11,printed
+"Well, Did You Evah!",10,58,Bb3,-1,-1,quarter,0,7,0.57143,got,True,False,False,A2,A,2,5,4,1,printed
+"Well, Did You Evah!",10,67,G4,4,0,quarter,0,7,0.57143,run,True,False,False,A2,A,2,2,4,10,printed
+"Well, Did You Evah!",10,67,G4,4,0,quarter,0,7,0.57143,down,True,False,False,A2,A,2,2,4,10,printed
+"Well, Did You Evah!",10,65,F4,3,0,eighth,0,1,0.5,by,True,False,False,A2,A,2,0,4,8,printed
+"Well, Did You Evah!",10,64,E4,2,0,eighth,0,1,0.5,an,True,False,False,A2,A,2,11,4,7,printed
+"Well, Did You Evah!",11,65,F4,3,0,quarter,0,1,1.0,av,True,False,False,A2,A,2,0,4,8,printed
+"Well, Did You Evah!",11,69,A4,5,0,quarter,0,1,1.0,a,True,False,False,A2,A,2,4,4,0,printed
+"Well, Did You Evah!",11,60,C4,0,0,half,0,1,2.0,lanche?,True,False,False,A2,A,2,7,4,3,printed
 "Well, Did You Evah!",12,71,Cb5,7,-1,half,0,1,2.0,"WELL,",True,False,False,C-,C,-,6,7,11,printed
 "Well, Did You Evah!",12,71,Cb5,7,-1,quarter,1,1,1.5,DID,True,False,False,D7,D,7,6,9,9,printed
 "Well, Did You Evah!",12,74,D5,8,0,eighth,0,1,0.5,YOU,True,False,False,D7,D,7,9,9,0,printed
@@ -2893,3 +2893,148 @@ In the Still of the Night,74,72,C5,7,0,whole,0,1,4.0,,,,True,F,F,,7,0,7,printed
 In the Still of the Night,75,72,C5,7,0,whole,0,1,4.0,,,,True,Fm6,F,m6,7,0,7,printed
 In the Still of the Night,76,72,C5,7,0,whole,0,1,4.0,,,,True,Fm6,F,m6,7,0,7,printed
 In the Still of the Night,77,72,C5,7,0,quarter,0,1,1.0,,,,True,F,F,,7,0,7,printed
+I Get a Kick Out of You,1,57,A3,-2,0,quarter,0,1,1.0,I,True,False,False,Dm,D,m,9,2,7,printed
+I Get a Kick Out of You,1,59,B3,-1,0,quarter,0,1,1.0,get,True,False,False,Dm,D,m,11,2,9,printed
+I Get a Kick Out of You,1,60,C4,0,0,quarter,0,1,1.0,no,True,False,False,Dm,D,m,0,2,10,printed
+I Get a Kick Out of You,2,62,D4,1,0,half,0,3,1.33333,kick,True,False,False,G7,G,7,2,7,7,printed
+I Get a Kick Out of You,2,64,E4,2,0,half,0,3,1.33333,from,True,False,False,G7,G,7,4,7,9,printed
+I Get a Kick Out of You,2,65,F4,3,0,half,0,3,1.33333,cham,True,True,False,G7,G,7,5,7,10,printed
+I Get a Kick Out of You,3,67,G4,4,0,whole,0,1,4.0,"pagne,",False,False,False,C,C,,7,0,7,printed
+I Get a Kick Out of You,4,67,G4,4,0,whole,0,1,4.0,,,,True,Em,E,m,7,4,3,printed
+I Get a Kick Out of You,5,57,A3,-2,0,quarter,0,1,1.0,mere,True,False,False,Dm,D,m,9,2,7,printed
+I Get a Kick Out of You,5,59,B3,-1,0,quarter,0,1,1.0,al,True,True,False,Dm,D,m,11,2,9,printed
+I Get a Kick Out of You,5,60,C4,0,0,quarter,0,1,1.0,co,False,True,False,Dm,D,m,0,2,10,printed
+I Get a Kick Out of You,6,62,D4,1,0,half,0,3,1.33333,hol,False,False,False,G7,G,7,2,7,7,printed
+I Get a Kick Out of You,6,64,E4,2,0,half,0,3,1.33333,does,True,True,False,G7,G,7,4,7,9,printed
+I Get a Kick Out of You,6,65,F4,3,0,half,0,3,1.33333,n’t,False,False,False,G7,G,7,5,7,10,printed
+I Get a Kick Out of You,7,67,G4,4,0,half,0,3,1.33333,thrill,True,False,False,C,C,,7,0,7,printed
+I Get a Kick Out of You,7,65,F4,3,0,half,0,3,1.33333,me,True,False,False,C,C,,5,0,5,printed
+I Get a Kick Out of You,7,64,E4,2,0,half,0,3,1.33333,at,True,False,False,C,C,,4,0,4,printed
+I Get a Kick Out of You,8,64,E4,2,0,half,1,1,3.0,"all,",True,False,False,Em,E,m,4,4,0,printed
+I Get a Kick Out of You,8,64,E4,2,0,quarter,0,1,1.0,so,True,False,False,A7,A,7,4,9,7,printed
+I Get a Kick Out of You,9,65,F4,3,0,half,0,3,1.33333,tell,True,False,False,Dm,D,m,5,2,3,printed
+I Get a Kick Out of You,9,64,E4,2,0,half,0,3,1.33333,me,True,False,False,Dm,D,m,4,2,2,printed
+I Get a Kick Out of You,9,62,D4,1,0,half,0,3,1.33333,why,True,False,False,Dm,D,m,2,2,0,printed
+I Get a Kick Out of You,10,62,D4,1,0,half,0,3,1.33333,should,True,False,False,G7,G,7,2,7,7,printed
+I Get a Kick Out of You,10,60,C4,0,0,half,0,3,1.33333,it,True,False,False,G7,G,7,0,7,5,printed
+I Get a Kick Out of You,10,62,D4,1,0,half,0,3,1.33333,be,True,False,False,G7,G,7,2,7,7,printed
+I Get a Kick Out of You,11,64,E4,2,0,whole,0,1,4.0,true,True,False,False,C,C,,4,0,4,printed
+I Get a Kick Out of You,12,64,E4,2,0,half,0,1,2.0,,,,True,Em,E,m,4,4,0,printed
+I Get a Kick Out of You,12,57,A3,-2,0,quarter,0,1,1.0,that,True,False,False,A7,A,7,9,9,0,printed
+I Get a Kick Out of You,13,62,D4,1,0,quarter,0,1,1.0,I,True,False,False,Dm,D,m,2,2,0,printed
+I Get a Kick Out of You,13,64,E4,2,0,quarter,0,1,1.0,get,True,False,False,Dm,D,m,4,2,2,printed
+I Get a Kick Out of You,13,65,F4,3,0,quarter,0,1,1.0,a,True,False,False,Dm,D,m,5,2,3,printed
+I Get a Kick Out of You,13,67,G4,4,0,quarter,0,1,1.0,kick,True,False,False,Dm,D,m,7,2,5,printed
+I Get a Kick Out of You,14,67,G4,4,0,quarter,0,1,1.0,,,,True,G7,G,7,7,7,0,printed
+I Get a Kick Out of You,14,65,F4,3,0,half,0,1,2.0,out,True,False,False,G7,G,7,5,7,10,printed
+I Get a Kick Out of You,14,64,E4,2,0,quarter,0,1,1.0,of,True,False,False,G7,G,7,4,7,9,printed
+I Get a Kick Out of You,15,60,C4,0,0,whole,0,1,4.0,you?,True,False,False,C,C,,0,0,0,printed
+I Get a Kick Out of You,16,60,C4,0,0,quarter,0,1,1.0,,,,True,Em,E,m,0,4,8,printed
+I Get a Kick Out of You,17,57,A3,-2,0,quarter,0,1,1.0,Some,True,False,False,Dm,D,m,9,2,7,printed
+I Get a Kick Out of You,17,59,B3,-1,0,quarter,0,1,1.0,like,True,False,False,Dm,D,m,11,2,9,printed
+I Get a Kick Out of You,17,60,C4,0,0,quarter,0,1,1.0,a,True,False,False,Dm,D,m,0,2,10,printed
+I Get a Kick Out of You,18,62,D4,1,0,half,0,3,1.33333,bop,True,False,False,G7,G,7,2,7,7,printed
+I Get a Kick Out of You,18,64,E4,2,0,half,0,3,1.33333,type,True,False,False,G7,G,7,4,7,9,printed
+I Get a Kick Out of You,18,65,F4,3,0,half,0,3,1.33333,re,True,True,False,G7,G,7,5,7,10,printed
+I Get a Kick Out of You,19,67,G4,4,0,whole,0,1,4.0,frain;,False,False,False,C,C,,7,0,7,printed
+I Get a Kick Out of You,20,67,G4,4,0,whole,0,1,4.0,,,,True,Em,E,m,7,4,3,printed
+I Get a Kick Out of You,21,57,A3,-2,0,quarter,0,1,1.0,I’m,True,False,False,Dm,D,m,9,2,7,printed
+I Get a Kick Out of You,21,59,B3,-1,0,quarter,0,1,1.0,sure,True,False,False,Dm,D,m,11,2,9,printed
+I Get a Kick Out of You,21,60,C4,0,0,quarter,0,1,1.0,that,True,False,False,Dm,D,m,0,2,10,printed
+I Get a Kick Out of You,22,62,D4,1,0,half,0,3,1.33333,if,True,False,False,G7,G,7,2,7,7,printed
+I Get a Kick Out of You,22,64,E4,2,0,half,0,3,1.33333,I,True,False,False,G7,G,7,4,7,9,printed
+I Get a Kick Out of You,22,65,F4,3,0,half,0,3,1.33333,heard,True,False,False,G7,G,7,5,7,10,printed
+I Get a Kick Out of You,23,67,G4,4,0,half,0,3,1.33333,e,True,True,False,C,C,,7,0,7,printed
+I Get a Kick Out of You,23,69,A4,5,0,half,0,3,1.33333,ven,False,False,False,C,C,,9,0,9,printed
+I Get a Kick Out of You,23,66,F#4,3,1,half,0,3,1.33333,one,True,False,False,C,C,,6,0,6,printed
+I Get a Kick Out of You,24,67,G4,4,0,half,0,3,1.33333,riff,True,False,False,C#dim,C#,dim,7,1,6,printed
+I Get a Kick Out of You,24,69,A4,5,0,half,0,3,1.33333,that,True,False,False,C#dim,C#,dim,9,1,8,printed
+I Get a Kick Out of You,24,66,F#4,3,1,half,0,3,1.33333,would,True,False,False,C#dim,C#,dim,6,1,5,printed
+I Get a Kick Out of You,25,67,G4,4,0,half,0,3,1.33333,bore,True,False,False,Dm,D,m,7,2,5,printed
+I Get a Kick Out of You,25,69,A4,5,0,half,0,3,1.33333,me,True,False,False,Dm,D,m,9,2,7,printed
+I Get a Kick Out of You,25,66,F#4,3,1,half,0,3,1.33333,ter,True,True,False,Dm,D,m,6,2,4,printed
+I Get a Kick Out of You,26,67,G4,4,0,half,0,3,1.33333,rif,True,True,False,G7,G,7,7,7,0,printed
+I Get a Kick Out of You,26,66,F#4,3,1,half,0,3,1.33333,i,False,True,False,G7,G,7,6,7,11,printed
+I Get a Kick Out of You,26,65,F4,3,0,half,0,3,1.33333,"c’ly,",False,False,False,G7,G,7,5,7,10,printed
+I Get a Kick Out of You,27,64,E4,2,0,whole,0,1,4.0,too.,True,False,False,C,C,,4,0,4,printed
+I Get a Kick Out of You,28,64,E4,2,0,half,0,1,2.0,,,,True,Em,E,m,4,4,0,printed
+I Get a Kick Out of You,28,57,A3,-2,0,quarter,0,1,1.0,Yet,True,False,False,A7,A,7,9,9,0,printed
+I Get a Kick Out of You,29,62,D4,1,0,quarter,0,1,1.0,I,True,False,False,Dm,D,m,2,2,0,printed
+I Get a Kick Out of You,29,64,E4,2,0,quarter,0,1,1.0,get,True,False,False,Dm,D,m,4,2,2,printed
+I Get a Kick Out of You,29,65,F4,3,0,quarter,0,1,1.0,a,True,False,False,Dm,D,m,5,2,3,printed
+I Get a Kick Out of You,29,67,G4,4,0,quarter,0,1,1.0,kick,True,False,False,Dm,D,m,7,2,5,printed
+I Get a Kick Out of You,30,67,G4,4,0,quarter,0,1,1.0,,,,True,G7,G,7,7,7,0,printed
+I Get a Kick Out of You,30,65,F4,3,0,half,0,1,2.0,out,True,False,False,G7,G,7,5,7,10,printed
+I Get a Kick Out of You,30,64,E4,2,0,quarter,0,1,1.0,of,True,False,False,G7,G,7,4,7,9,printed
+I Get a Kick Out of You,31,60,C4,0,0,whole,0,1,4.0,you.,True,False,False,C,C,,0,0,0,printed
+I Get a Kick Out of You,32,60,C4,0,0,quarter,0,1,1.0,,,,True,C,C,,0,0,0,printed
+I Get a Kick Out of You,33,60,C4,0,0,quarter,0,1,1.0,I,True,False,False,C7,C,7,0,0,0,printed
+I Get a Kick Out of You,33,62,D4,1,0,quarter,0,1,1.0,get,True,False,False,C7,C,7,2,0,2,printed
+I Get a Kick Out of You,33,64,E4,2,0,quarter,0,1,1.0,a,True,False,False,C7,C,7,4,0,4,printed
+I Get a Kick Out of You,34,65,F4,3,0,half,0,3,1.33333,kick,True,False,False,C7,C,7,5,0,5,printed
+I Get a Kick Out of You,34,67,G4,4,0,half,0,3,1.33333,ev,True,True,False,C7,C,7,7,0,7,printed
+I Get a Kick Out of You,34,69,A4,5,0,half,0,3,1.33333,’ry,False,False,False,C7,C,7,9,0,9,printed
+I Get a Kick Out of You,35,70,Bb4,6,-1,half,1,1,3.0,time,True,False,False,Gm,G,m,10,7,3,printed
+I Get a Kick Out of You,35,69,A4,5,0,quarter,0,1,1.0,I,True,False,False,Gm,G,m,9,7,2,printed
+I Get a Kick Out of You,36,70,Bb4,6,-1,half,0,1,2.0,see,True,False,False,C7,C,7,10,0,10,printed
+I Get a Kick Out of You,36,69,A4,5,0,quarter,0,1,1.0,you,True,False,False,C7,C,7,9,0,9,printed
+I Get a Kick Out of You,37,69,A4,5,0,half,1,1,3.0,stand,True,True,False,Gm,G,m,9,7,2,printed
+I Get a Kick Out of You,37,67,G4,4,0,quarter,0,1,1.0,ing,False,False,False,Gm,G,m,7,7,0,printed
+I Get a Kick Out of You,38,69,A4,5,0,half,1,1,3.0,there,True,False,False,C7,C,7,9,0,9,printed
+I Get a Kick Out of You,38,67,G4,4,0,quarter,0,1,1.0,be,True,True,False,C7,C,7,7,0,7,printed
+I Get a Kick Out of You,39,67,G4,4,0,whole,0,1,4.0,fore,False,False,False,A7,A,7,7,9,10,printed
+I Get a Kick Out of You,40,57,A3,-2,0,whole,0,1,4.0,me.,True,False,False,A7,A,7,9,9,0,printed
+I Get a Kick Out of You,41,57,A3,-2,0,quarter,0,1,1.0,I,True,False,False,Dm,D,m,9,2,7,printed
+I Get a Kick Out of You,41,59,B3,-1,0,quarter,0,1,1.0,get,True,False,False,Dm,D,m,11,2,9,printed
+I Get a Kick Out of You,41,61,C#4,0,1,quarter,0,1,1.0,a,True,False,False,Dm,D,m,1,2,11,printed
+I Get a Kick Out of You,42,62,D4,1,0,half,0,3,1.33333,"kick,",True,False,False,Dm,D,m,2,2,0,printed
+I Get a Kick Out of You,42,64,E4,2,0,half,0,3,1.33333,though,True,False,False,Dm,D,m,4,2,2,printed
+I Get a Kick Out of You,42,65,F4,3,0,half,0,3,1.33333,it’s,True,False,False,Dm,D,m,5,2,3,printed
+I Get a Kick Out of You,43,67,G4,4,0,half,1,1,3.0,clear,True,False,False,Gm,G,m,7,7,0,printed
+I Get a Kick Out of You,43,65,F4,3,0,quarter,0,1,1.0,to,True,False,False,Gm,G,m,5,7,10,printed
+I Get a Kick Out of You,44,67,G4,4,0,half,0,1,2.0,me,True,False,False,Gm,G,m,7,7,0,printed
+I Get a Kick Out of You,44,65,F4,3,0,quarter,0,1,1.0,you,True,False,False,Gm,G,m,5,7,10,printed
+I Get a Kick Out of You,45,64,E4,2,0,half,1,1,3.0,ob,True,True,False,D7,D,7,4,2,2,printed
+I Get a Kick Out of You,45,62,D4,1,0,quarter,0,1,1.0,vious,False,True,False,D7,D,7,2,2,0,printed
+I Get a Kick Out of You,46,62,D4,1,0,quarter,0,1,1.0,ly,False,False,False,D7,D,7,2,2,0,printed
+I Get a Kick Out of You,46,69,A4,5,0,half,0,1,2.0,don’t,True,False,False,D7,D,7,9,2,7,printed
+I Get a Kick Out of You,46,62,D4,1,0,quarter,0,1,1.0,a,True,True,False,D7,D,7,2,2,0,printed
+I Get a Kick Out of You,47,60,C4,0,0,whole,0,1,4.0,dore,True,False,False,Dm,D,m,0,2,10,printed
+I Get a Kick Out of You,48,59,B3,-1,0,whole,0,1,4.0,me.,True,False,False,G7,G,7,11,7,4,printed
+I Get a Kick Out of You,49,57,A3,-2,0,quarter,0,1,1.0,I,True,False,False,Dm,D,m,9,2,7,printed
+I Get a Kick Out of You,49,59,B3,-1,0,quarter,0,1,1.0,get,True,False,False,Dm,D,m,11,2,9,printed
+I Get a Kick Out of You,49,60,C4,0,0,quarter,0,1,1.0,no,True,False,False,Dm,D,m,0,2,10,printed
+I Get a Kick Out of You,50,62,D4,1,0,half,0,3,1.33333,kick,True,False,False,G7,G,7,2,7,7,printed
+I Get a Kick Out of You,50,64,E4,2,0,half,0,3,1.33333,in,True,False,False,G7,G,7,4,7,9,printed
+I Get a Kick Out of You,50,65,F4,3,0,half,0,3,1.33333,a,True,False,False,G7,G,7,5,7,10,printed
+I Get a Kick Out of You,51,67,G4,4,0,whole,0,1,4.0,"plane,",True,False,False,C,C,,7,0,7,printed
+I Get a Kick Out of You,52,67,G4,4,0,whole,0,1,4.0,,,,True,Em,E,m,7,4,3,printed
+I Get a Kick Out of You,53,57,A3,-2,0,quarter,0,1,1.0,fly,True,True,False,Dm,D,m,9,2,7,printed
+I Get a Kick Out of You,53,59,B3,-1,0,quarter,0,1,1.0,ing,False,False,False,Dm,D,m,11,2,9,printed
+I Get a Kick Out of You,53,60,C4,0,0,quarter,0,1,1.0,too,True,False,False,Dm,D,m,0,2,10,printed
+I Get a Kick Out of You,54,62,D4,1,0,half,0,3,1.33333,high,True,False,False,G7,G,7,2,7,7,printed
+I Get a Kick Out of You,54,64,E4,2,0,half,0,3,1.33333,with,True,False,False,G7,G,7,4,7,9,printed
+I Get a Kick Out of You,54,65,F4,3,0,half,0,3,1.33333,some,True,False,False,G7,G,7,5,7,10,printed
+I Get a Kick Out of You,55,67,G4,4,0,half,0,3,1.33333,,,,True,C,C,,7,0,7,printed
+I Get a Kick Out of You,55,69,A4,5,0,half,0,3,1.33333,in,True,False,False,C,C,,9,0,9,printed
+I Get a Kick Out of You,55,71,B4,6,0,half,0,3,1.33333,the,True,False,False,C,C,,11,0,11,printed
+I Get a Kick Out of You,56,72,C5,7,0,half,0,3,1.33333,sky,True,False,False,Am,A,m,0,9,3,printed
+I Get a Kick Out of You,56,74,D5,8,0,half,0,3,1.33333,is,True,False,False,Am,A,m,2,9,5,printed
+I Get a Kick Out of You,56,71,B4,6,0,half,0,3,1.33333,my,True,False,False,Am,A,m,11,9,2,printed
+I Get a Kick Out of You,57,72,C5,7,0,half,0,3,1.33333,i,True,True,False,Dm,D,m,0,2,10,printed
+I Get a Kick Out of You,57,71,B4,6,0,half,0,3,1.33333,dea,False,False,False,Dm,D,m,11,2,9,printed
+I Get a Kick Out of You,57,69,A4,5,0,half,0,3,1.33333,of,True,False,False,Dm,D,m,9,2,7,printed
+I Get a Kick Out of You,58,71,B4,6,0,half,0,3,1.33333,noth,True,True,False,G7,G,7,11,7,4,printed
+I Get a Kick Out of You,58,69,A4,5,0,half,0,3,1.33333,ing,False,False,False,G7,G,7,9,7,2,printed
+I Get a Kick Out of You,58,67,G4,4,0,half,0,3,1.33333,to,True,False,False,G7,G,7,7,7,0,printed
+I Get a Kick Out of You,59,64,E4,2,0,whole,0,1,4.0,do.,True,False,False,A7,A,7,4,9,7,printed
+I Get a Kick Out of You,60,64,E4,2,0,half,0,1,2.0,,,,True,A7,A,7,4,9,7,printed
+I Get a Kick Out of You,60,57,A3,-2,0,quarter,0,1,1.0,Yet,True,False,False,A7,A,7,9,9,0,printed
+I Get a Kick Out of You,61,62,D4,1,0,half,0,3,1.33333,I,True,False,False,Dm,D,m,2,2,0,printed
+I Get a Kick Out of You,61,64,E4,2,0,half,0,3,1.33333,get,True,False,False,Dm,D,m,4,2,2,printed
+I Get a Kick Out of You,61,65,F4,3,0,half,0,3,1.33333,a,True,False,False,Dm,D,m,5,2,3,printed
+I Get a Kick Out of You,62,67,G4,4,0,quarter,0,1,1.0,kick,True,False,False,G7,G,7,7,7,0,printed
+I Get a Kick Out of You,62,69,A4,5,0,half,0,1,2.0,out,True,False,False,G7,G,7,9,7,2,printed
+I Get a Kick Out of You,62,71,B4,6,0,quarter,0,1,1.0,of,True,False,False,G7,G,7,11,7,4,printed
+I Get a Kick Out of You,63,72,C5,7,0,whole,0,1,4.0,you.,True,False,False,C,C,,0,0,0,printed
+I Get a Kick Out of You,64,72,C5,7,0,quarter,0,1,1.0,,,,True,C,C,,0,0,0,printed
