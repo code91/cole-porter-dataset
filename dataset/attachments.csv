@@ -810,350 +810,355 @@ Get Out Of Town,31,70,Bb4,6,-1,whole,0,1,4.0,town.,True,False,False,F7(b9),F,7(b
 Get Out Of Town,32,70,Bb4,6,-1,quarter,0,1,1.0,,,,True,F©º D7(b9),F#,dim D7(b9),0,8,4,printed
 Get Out Of Town,33,70,Bb4,6,-1,whole,0,1,4.0,town.,True,False,False,F©º D7(b9),F#,dim D7(b9),0,8,4,printed
 Get Out Of Town,34,70,Bb4,6,-1,quarter,0,1,1.0,,,,True,B¨,Bb,,0,0,0,printed
-Love For Sale,1,70,Bb4,6,-1,whole,0,1,4.0,Love,True,False,False,,,,0,,,printed
-Love For Sale,2,70,Bb4,6,-1,quarter,0,1,1.0,,,,True,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,2,67,G4,4,0,half,0,1,2.0,for,True,False,False,E¨^,Eb,maj,9,5,4,printed
-Love For Sale,3,65,F4,3,0,whole,0,1,4.0,sale,True,False,False,B¨‹6,Bb,m6,7,0,7,printed
-Love For Sale,4,65,F4,3,0,half,1,1,3.0,,,,True,B¨‹6,Bb,m6,7,0,7,printed
-Love For Sale,5,70,Bb4,6,-1,eighth,0,1,0.5,Ap,True,True,False,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,5,70,Bb4,6,-1,eighth,0,1,0.5,pe,False,True,False,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,5,70,Bb4,6,-1,quarter,0,1,1.0,tiz,False,True,False,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,5,70,Bb4,6,-1,quarter,0,1,1.0,ing,False,False,False,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,6,70,Bb4,6,-1,quarter,0,1,1.0,young,True,False,False,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,6,70,Bb4,6,-1,half,0,1,2.0,love,True,False,False,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,6,67,G4,4,0,quarter,0,1,1.0,for,True,False,False,E¨^,Eb,maj,9,5,4,printed
-Love For Sale,7,65,F4,3,0,whole,0,1,4.0,sale,True,False,False,B¨‹6,Bb,m6,7,0,7,printed
-Love For Sale,8,65,F4,3,0,half,1,1,3.0,,,,True,B¨‹6,Bb,m6,7,0,7,printed
-Love For Sale,9,70,Bb4,6,-1,quarter,0,1,1.0,love,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
-Love For Sale,9,70,Bb4,6,-1,quarter,0,1,1.0,that's,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
-Love For Sale,9,70,Bb4,6,-1,quarter,0,1,1.0,fresh,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
-Love For Sale,9,70,Bb4,6,-1,quarter,0,1,1.0,and,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
-Love For Sale,10,70,Bb4,6,-1,quarter,0,1,1.0,still,True,False,False,A¨7,Ab,7,0,10,2,printed
-Love For Sale,10,72,C5,7,0,quarter,0,1,1.0,un,True,True,False,A¨7,Ab,7,2,10,4,printed
-Love For Sale,10,72,C5,7,0,quarter,0,1,1.0,spoiled,False,False,False,A¨7,Ab,7,2,10,4,printed
-Love For Sale,11,68,Ab4,5,-1,quarter,0,1,1.0,love,True,False,False,D¨^,Db,maj,10,3,7,printed
-Love For Sale,11,68,Ab4,5,-1,quarter,0,1,1.0,that's,True,False,False,D¨^,Db,maj,10,3,7,printed
-Love For Sale,11,68,Ab4,5,-1,quarter,0,1,1.0,on,True,True,False,D¨^,Db,maj,10,3,7,printed
-Love For Sale,11,68,Ab4,5,-1,quarter,0,1,1.0,ly,False,False,False,D¨^,Db,maj,10,3,7,printed
-Love For Sale,12,68,Ab4,5,-1,quarter,0,1,1.0,slight,True,True,False,G¨7(#11),Gb,7(#11),10,8,2,printed
-Love For Sale,12,66,Gb4,4,-1,quarter,0,1,1.0,ly,False,False,False,G¨7(#11),Gb,7(#11),8,8,0,printed
-Love For Sale,12,66,Gb4,4,-1,quarter,0,1,1.0,soiled,True,False,False,G¨7(#11),Gb,7(#11),8,8,0,printed
-Love For Sale,13,65,F4,3,0,whole,0,1,4.0,love,True,False,False,C‹7(b5),C,m7(b5),7,2,5,printed
-Love For Sale,14,65,F4,3,0,quarter,0,1,1.0,,,,True,F7[áÆ],F,7(b13b9),7,7,0,printed
-Love For Sale,14,61,Db4,1,-1,half,0,1,2.0,for,True,False,False,F7[áÆ],F,7(b13b9),3,7,8,printed
-Love For Sale,15,58,Bb3,-1,-1,whole,0,1,4.0,sale,True,False,False,B¨‹6,Bb,m6,0,0,0,printed
-Love For Sale,16,58,Bb3,-1,-1,quarter,0,1,1.0,,,,True,B¨‹6,Bb,m6,0,0,0,printed
-Love For Sale,17,70,Bb4,6,-1,whole,0,1,4.0,Who,True,False,False,B¨‹6,Bb,m6,0,0,0,printed
-Love For Sale,18,70,Bb4,6,-1,quarter,0,1,1.0,,,,True,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,18,67,G4,4,0,half,0,1,2.0,will,True,False,False,E¨^,Eb,maj,9,5,4,printed
-Love For Sale,19,65,F4,3,0,whole,0,1,4.0,buy,True,False,False,B¨‹6,Bb,m6,7,0,7,printed
-Love For Sale,20,65,F4,3,0,half,1,1,3.0,,,,True,B¨‹6,Bb,m6,7,0,7,printed
-Love For Sale,21,70,Bb4,6,-1,eighth,0,1,0.5,who,True,False,False,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,21,70,Bb4,6,-1,eighth,0,1,0.5,would,True,False,False,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,21,70,Bb4,6,-1,quarter,0,1,1.0,like,True,False,False,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,21,70,Bb4,6,-1,quarter,0,1,1.0,to,True,False,False,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,22,70,Bb4,6,-1,quarter,0,1,1.0,sam,True,True,False,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,22,70,Bb4,6,-1,quarter,0,1,1.0,ple,False,False,False,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,22,70,Bb4,6,-1,quarter,0,1,1.0,my,True,False,False,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,22,67,G4,4,0,quarter,0,1,1.0,sup,True,True,False,E¨^,Eb,maj,9,5,4,printed
-Love For Sale,23,65,F4,3,0,whole,0,1,4.0,ply?,False,False,False,B¨‹6,Bb,m6,7,0,7,printed
+Love For Sale,1,65,F4,3,0,eighth,0,1,0.5,When,True,False,False,Bb,Bb,,7,0,7,secondary
+Love For Sale,1,65,F4,3,0,eighth,0,1,0.5,the,True,False,False,Bb,Bb,,7,0,7,secondary
+Love For Sale,2,70,Bb4,6,-1,quarter,0,1,1.0,on,True,True,False,Bb,Bb,,0,0,0,secondary
+Love For Sale,2,70,Bb4,6,-1,quarter,0,1,1.0,ly,False,False,False,Bb,Bb,,0,0,0,secondary
+Love For Sale,2,70,Bb4,6,-1,quarter,0,1,1.0,sound,True,False,False,Bb,Bb,,0,0,0,secondary
+Love For Sale,2,70,Bb4,6,-1,eighth,0,1,0.5,in,True,False,False,Bb,Bb,,0,0,0,secondary
+Love For Sale,2,70,Bb4,6,-1,eighth,0,1,0.5,the,True,False,False,Bb,Bb,,0,0,0,secondary
+Love For Sale,3,68,Ab4,5,-1,quarter,0,1,1.0,emp,True,True,False,Ab,Ab,,10,10,0,secondary
+Love For Sale,3,68,Ab4,5,-1,quarter,0,1,1.0,ty,False,False,False,Ab,Ab,,10,10,0,secondary
+Love For Sale,3,75,Eb5,9,-1,quarter,0,1,1.0,street,True,False,False,Ab,Ab,,5,10,7,secondary
+Love For Sale,3,72,C5,7,0,eighth,0,1,0.5,Is,True,False,False,Ab,Ab,,2,10,4,secondary
+Love For Sale,3,68,Ab4,5,-1,eighth,0,1,0.5,the,True,False,False,Ab,Ab,,10,10,0,secondary
+Love For Sale,4,66,Gb4,4,-1,quarter,0,1,1.0,heav,True,True,False,Gb,Gb,,8,8,0,secondary
+Love For Sale,4,66,Gb4,4,-1,quarter,0,1,1.0,y,False,False,False,Gb,Gb,,8,8,0,secondary
+Love For Sale,4,66,Gb4,4,-1,quarter,0,1,1.0,tread,True,False,False,Gb,Gb,,8,8,0,secondary
+Love For Sale,4,66,Gb4,4,-1,eighth,0,1,0.5,of,True,False,False,Gb,Gb,,8,8,0,secondary
+Love For Sale,4,66,Gb4,4,-1,eighth,0,1,0.5,the,True,False,False,Gb,Gb,,8,8,0,secondary
+Love For Sale,5,65,F4,3,0,quarter,0,1,1.0,heav,True,True,False,Fm6,F,m6,7,7,0,secondary
+Love For Sale,5,65,F4,3,0,quarter,0,1,1.0,y,False,False,False,Fm6,F,m6,7,7,0,secondary
+Love For Sale,5,72,C5,7,0,quarter,0,1,1.0,feet,True,False,False,Fm6,F,m6,2,7,7,secondary
+Love For Sale,5,68,Ab4,5,-1,eighth,0,1,0.5,That,True,False,False,Fm6,F,m6,10,7,3,secondary
+Love For Sale,5,65,F4,3,0,eighth,0,1,0.5,be,True,True,False,Fm6,F,m6,7,7,0,secondary
+Love For Sale,6,63,Eb4,2,-1,quarter,0,1,1.0,longs,False,False,False,Ebm7,Eb,m7,5,5,0,secondary
+Love For Sale,6,63,Eb4,2,-1,eighth,0,1,0.5,to,True,False,False,Ebm7,Eb,m7,5,5,0,secondary
+Love For Sale,6,63,Eb4,2,-1,eighth,0,1,0.5,a,True,False,False,Ebm7,Eb,m7,5,5,0,secondary
+Love For Sale,6,66,Gb4,4,-1,quarter,1,1,1.5,lone,True,True,False,Ebm7,Eb,m7,8,5,3,secondary
+Love For Sale,6,65,F4,3,0,eighth,0,1,0.5,some,False,False,False,Ebm7,Eb,m7,7,5,2,secondary
+Love For Sale,7,68,Ab4,5,-1,whole,0,1,4.0,cop,True,False,False,Dbmaj7,Db,maj7,10,3,7,secondary
+Love For Sale,8,69,A4,5,0,whole,0,1,4.0,I,True,False,False,F7,F,7,11,7,4,secondary
+Love For Sale,9,69,A4,5,0,half,0,1,2.0,,,,True,F7(b9),F,7(b9),11,7,4,secondary
+Love For Sale,9,66,Gb4,4,-1,quarter,1,1,1.5,o,True,True,False,F7(b9),F,7(b9),8,7,1,secondary
+Love For Sale,9,66,Gb4,4,-1,eighth,0,1,0.5,pen,False,False,False,F7(b9),F,7(b9),8,7,1,secondary
+Love For Sale,10,65,F4,3,0,quarter,0,1,1.0,shop,True,False,False,Bbm,Bb,m,7,0,7,secondary
+Love For Sale,11,65,F4,3,0,eighth,0,1,0.5,When,True,False,False,Cm7(b5),C,m7(b5),7,2,5,secondary
+Love For Sale,11,65,F4,3,0,eighth,0,1,0.5,the,True,False,False,Cm7(b5),C,m7(b5),7,2,5,secondary
+Love For Sale,12,70,Bb4,6,-1,quarter,0,1,1.0,moon,True,False,False,Bb7,Bb,7,0,0,0,secondary
+Love For Sale,12,70,Bb4,6,-1,quarter,0,1,1.0,so,True,False,False,Bb7,Bb,7,0,0,0,secondary
+Love For Sale,12,70,Bb4,6,-1,quarter,0,1,1.0,long,True,False,False,Bb7,Bb,7,0,0,0,secondary
+Love For Sale,12,70,Bb4,6,-1,eighth,0,1,0.5,has,True,False,False,Bb7,Bb,7,0,0,0,secondary
+Love For Sale,12,70,Bb4,6,-1,eighth,0,1,0.5,been,True,False,False,Bb7,Bb,7,0,0,0,secondary
+Love For Sale,13,68,Ab4,5,-1,quarter,0,1,1.0,gaz,True,True,False,Ab7,Ab,7,10,10,0,secondary
+Love For Sale,13,68,Ab4,5,-1,quarter,0,1,1.0,ing,False,False,False,Ab7,Ab,7,10,10,0,secondary
+Love For Sale,13,75,Eb5,9,-1,quarter,0,1,1.0,down,True,False,False,Ab7,Ab,7,5,10,7,secondary
+Love For Sale,13,72,C5,7,0,eighth,0,1,0.5,On,True,False,False,Ab7,Ab,7,2,10,4,secondary
+Love For Sale,13,68,Ab4,5,-1,eighth,0,1,0.5,the,True,False,False,Ab7,Ab,7,10,10,0,secondary
+Love For Sale,14,66,Gb4,4,-1,quarter,0,1,1.0,way,True,True,False,Gb7,Gb,7,8,8,0,secondary
+Love For Sale,14,66,Gb4,4,-1,quarter,0,1,1.0,ward,False,False,False,Gb7,Gb,7,8,8,0,secondary
+Love For Sale,14,66,Gb4,4,-1,quarter,0,1,1.0,ways,True,False,False,Gb7,Gb,7,8,8,0,secondary
+Love For Sale,14,66,Gb4,4,-1,eighth,0,1,0.5,of,True,False,False,Gb7,Gb,7,8,8,0,secondary
+Love For Sale,14,66,Gb4,4,-1,eighth,0,1,0.5,this,True,False,False,Gb7,Gb,7,8,8,0,secondary
+Love For Sale,15,64,E4,2,0,quarter,0,1,1.0,way,True,True,False,E7,E,7,6,6,0,secondary
+Love For Sale,15,64,E4,2,0,quarter,0,1,1.0,ward,False,False,False,E7,E,7,6,6,0,secondary
+Love For Sale,15,73,C#5,7,1,quarter,0,1,1.0,town,True,False,False,E7,E,7,3,6,9,secondary
+Love For Sale,15,71,B4,6,0,eighth,0,1,0.5,That,True,False,False,E7,E,7,1,6,7,secondary
+Love For Sale,15,68,G#4,4,1,eighth,0,1,0.5,her,True,False,False,E7,E,7,10,6,4,secondary
+Love For Sale,16,64,E4,2,0,quarter,0,1,1.0,smile,True,False,False,A,A,,6,11,7,secondary
+Love For Sale,16,64,E4,2,0,quarter,0,1,1.0,be,True,True,False,A,A,,6,11,7,secondary
+Love For Sale,16,66,F#4,3,1,quarter,1,1,1.5,comes,False,False,False,A,A,,8,11,9,secondary
+Love For Sale,16,64,E4,2,0,eighth,0,1,0.5,a,True,False,False,A,A,,6,11,7,secondary
+Love For Sale,17,68,Ab4,5,-1,whole,0,1,4.0,smirk,True,False,False,Ab7,Ab,7,10,10,0,secondary
+Love For Sale,18,69,A4,5,0,whole,0,1,4.0,I,True,False,False,F13,F,13,11,7,4,secondary
+Love For Sale,19,69,A4,5,0,half,0,1,2.0,,,,True,Bb,Bb,,11,0,11,secondary
+Love For Sale,19,62,D4,1,0,quarter,1,1,1.5,go,True,False,False,Bb,Bb,,4,0,4,secondary
+Love For Sale,19,60,C4,0,0,eighth,0,1,0.5,to,True,False,False,Bb,Bb,,2,0,2,secondary
+Love For Sale,20,58,Bb3,-1,-1,quarter,0,1,1.0,work,True,False,False,Bb,Bb,,0,0,0,secondary
+Love For Sale,21,70,Bb4,6,-1,whole,0,1,4.0,Love,True,False,False,,,,0,,,printed
+Love For Sale,22,70,Bb4,6,-1,quarter,0,1,1.0,,,,True,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,22,67,G4,4,0,half,0,1,2.0,for,True,False,False,E¨^,Eb,maj,9,5,4,printed
+Love For Sale,23,65,F4,3,0,whole,0,1,4.0,sale,True,False,False,B¨‹6,Bb,m6,7,0,7,printed
 Love For Sale,24,65,F4,3,0,half,1,1,3.0,,,,True,B¨‹6,Bb,m6,7,0,7,printed
-Love For Sale,25,70,Bb4,6,-1,quarter,0,1,1.0,who's,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
-Love For Sale,25,70,Bb4,6,-1,quarter,0,1,1.0,pre,True,True,False,E¨‹7,Eb,m7,0,5,7,printed
-Love For Sale,25,70,Bb4,6,-1,quarter,0,1,1.0,pared,False,False,False,E¨‹7,Eb,m7,0,5,7,printed
-Love For Sale,25,70,Bb4,6,-1,quarter,0,1,1.0,to,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
-Love For Sale,26,70,Bb4,6,-1,quarter,0,1,1.0,pay,True,False,False,A¨7,Ab,7,0,10,2,printed
-Love For Sale,26,72,C5,7,0,quarter,0,1,1.0,the,True,False,False,A¨7,Ab,7,2,10,4,printed
-Love For Sale,26,72,C5,7,0,quarter,0,1,1.0,price,True,False,False,A¨7,Ab,7,2,10,4,printed
-Love For Sale,27,68,Ab4,5,-1,quarter,0,1,1.0,for,True,False,False,D¨^,Db,maj,10,3,7,printed
-Love For Sale,27,68,Ab4,5,-1,quarter,0,1,1.0,a,True,False,False,D¨^,Db,maj,10,3,7,printed
-Love For Sale,27,68,Ab4,5,-1,quarter,0,1,1.0,trip,True,False,False,D¨^,Db,maj,10,3,7,printed
-Love For Sale,27,68,Ab4,5,-1,quarter,0,1,1.0,to,True,False,False,D¨^,Db,maj,10,3,7,printed
-Love For Sale,28,68,Ab4,5,-1,quarter,0,1,1.0,par,True,True,False,G¨7(#11),Gb,7(#11),10,8,2,printed
-Love For Sale,28,66,Gb4,4,-1,quarter,0,1,1.0,ra,False,True,False,G¨7(#11),Gb,7(#11),8,8,0,printed
-Love For Sale,28,66,Gb4,4,-1,quarter,0,1,1.0,dise?,False,False,False,G¨7(#11),Gb,7(#11),8,8,0,printed
-Love For Sale,29,65,F4,3,0,whole,0,1,4.0,love,True,False,False,C‹7(b5),C,m7(b5),7,2,5,printed
-Love For Sale,30,65,F4,3,0,quarter,0,1,1.0,,,,True,F7[áÆ],F,7(b13b9),7,7,0,printed
-Love For Sale,30,61,Db4,1,-1,half,0,1,2.0,for,True,False,False,F7[áÆ],F,7(b13b9),3,7,8,printed
-Love For Sale,31,58,Bb3,-1,-1,whole,0,1,4.0,sale,True,False,False,B¨‹6,Bb,m6,0,0,0,printed
-Love For Sale,32,58,Bb3,-1,-1,quarter,0,1,1.0,,,,True,B¨‹6,Bb,m6,0,0,0,printed
-Love For Sale,33,58,Bb3,-1,-1,eighth,0,1,0.5,Let,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
-Love For Sale,33,60,C4,0,0,eighth,0,1,0.5,the,True,False,False,E¨‹7,Eb,m7,2,5,9,printed
-Love For Sale,33,61,Db4,1,-1,quarter,0,1,1.0,po,True,True,False,E¨‹7,Eb,m7,3,5,10,printed
-Love For Sale,33,63,Eb4,2,-1,quarter,0,1,1.0,ets,False,False,False,E¨‹7,Eb,m7,5,5,0,printed
-Love For Sale,34,65,F4,3,0,quarter,0,1,1.0,pipe,True,False,False,A¨7,Ab,7,7,10,9,printed
-Love For Sale,34,63,Eb4,2,-1,quarter,0,1,1.0,of,True,False,False,A¨7,Ab,7,5,10,7,printed
-Love For Sale,34,63,Eb4,2,-1,half,0,1,2.0,love,True,False,False,A¨7,Ab,7,5,10,7,printed
-Love For Sale,35,60,C4,0,0,quarter,0,1,1.0,in,True,False,False,D¨^,Db,maj,2,3,11,printed
-Love For Sale,35,61,Db4,1,-1,quarter,0,3,0.66667,their,True,False,False,G¨^,Gb,maj,3,8,7,printed
-Love For Sale,35,63,Eb4,2,-1,quarter,0,3,0.66667,child,True,True,False,G¨^,Gb,maj,5,8,9,printed
-Love For Sale,35,65,F4,3,0,quarter,0,3,0.66667,lish,False,False,False,G¨^,Gb,maj,7,8,11,printed
-Love For Sale,36,68,Ab4,5,-1,half,1,1,3.0,way,True,False,False,F‹7,F,m7,10,7,3,printed
-Love For Sale,37,58,Bb3,-1,-1,eighth,0,1,0.5,I,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
-Love For Sale,37,60,C4,0,0,eighth,0,1,0.5,know,True,False,False,E¨‹7,Eb,m7,2,5,9,printed
-Love For Sale,37,61,Db4,1,-1,quarter,0,1,1.0,ev',True,True,False,E¨‹7,Eb,m7,3,5,10,printed
-Love For Sale,37,63,Eb4,2,-1,quarter,0,1,1.0,ry,False,False,False,E¨‹7,Eb,m7,5,5,0,printed
-Love For Sale,38,65,F4,3,0,quarter,0,1,1.0,type,True,False,False,A¨7,Ab,7,7,10,9,printed
-Love For Sale,38,63,Eb4,2,-1,quarter,0,1,1.0,of,True,False,False,A¨7,Ab,7,5,10,7,printed
-Love For Sale,38,63,Eb4,2,-1,half,0,1,2.0,love,True,False,False,A¨7,Ab,7,5,10,7,printed
-Love For Sale,39,60,C4,0,0,eighth,0,1,0.5,bet,True,True,False,D¨^,Db,maj,2,3,11,printed
-Love For Sale,39,61,Db4,1,-1,eighth,0,1,0.5,ter,False,False,False,D¨^,Db,maj,3,3,0,printed
-Love For Sale,39,63,Eb4,2,-1,quarter,0,1,1.0,far,True,False,False,D¨^,Db,maj,5,3,2,printed
-Love For Sale,39,65,F4,3,0,quarter,0,1,1.0,than,True,False,False,D¨^,Db,maj,7,3,4,printed
-Love For Sale,40,70,Bb4,6,-1,half,1,1,3.0,they,True,False,False,D¨^,Db,maj,0,3,9,printed
-Love For Sale,41,58,Bb3,-1,-1,eighth,0,1,0.5,If,True,False,False,B¨9,Bb,9,0,0,0,printed
-Love For Sale,41,60,C4,0,0,eighth,0,1,0.5,you,True,False,False,B¨9,Bb,9,2,0,2,printed
-Love For Sale,41,62,D4,1,0,quarter,0,1,1.0,want,True,False,False,B¨9,Bb,9,4,0,4,printed
-Love For Sale,41,65,F4,3,0,quarter,0,1,1.0,the,True,False,False,B¨9,Bb,9,7,0,7,printed
-Love For Sale,42,66,Gb4,4,-1,quarter,0,1,1.0,thrill,True,False,False,C¨9(#11),Cb,9(#11),8,1,7,printed
-Love For Sale,42,65,F4,3,0,quarter,0,1,1.0,og,True,False,False,C¨9(#11),Cb,9(#11),7,1,6,printed
-Love For Sale,42,65,F4,3,0,half,0,1,2.0,love,True,False,False,B¨9,Bb,9,7,0,7,printed
-Love For Sale,43,62,D4,1,0,eighth,0,1,0.5,I've,True,False,False,E¨‹6,Eb,m6,4,5,11,printed
-Love For Sale,43,63,Eb4,2,-1,eighth,0,1,0.5,seen,True,False,False,E¨‹6,Eb,m6,5,5,0,printed
-Love For Sale,43,65,F4,3,0,quarter,0,1,1.0,thru,True,False,False,E¨‹6,Eb,m6,7,5,2,printed
-Love For Sale,43,66,Gb4,4,-1,quarter,0,1,1.0,the,True,False,False,E¨‹6,Eb,m6,8,5,3,printed
-Love For Sale,44,72,C5,7,0,quarter,0,1,1.0,mill,True,False,False,E¨‹6,Eb,m6,2,5,9,printed
-Love For Sale,44,70,Bb4,6,-1,quarter,0,1,1.0,of,True,False,False,E¨‹6,Eb,m6,0,5,7,printed
-Love For Sale,44,70,Bb4,6,-1,half,0,1,2.0,love,True,False,False,E¨‹6,Eb,m6,0,5,7,printed
-Love For Sale,45,73,Db5,8,-1,half,0,1,2.0,old,True,False,False,G‹7(b5),G,m7(b5),3,9,6,printed
-Love For Sale,45,72,C5,7,0,half,0,1,2.0,love,True,False,False,C7,C,7,2,2,0,printed
-Love For Sale,46,73,Db5,8,-1,half,0,1,2.0,new,True,False,False,G‹7(b5),G,m7(b5),3,9,6,printed
-Love For Sale,46,72,C5,7,0,half,0,1,2.0,love,True,False,False,C7,C,7,2,2,0,printed
-Love For Sale,47,71,Cb5,7,-1,eighth,0,1,0.5,ev',True,True,False,G¨‹7,Gb,m7,1,8,5,printed
-Love For Sale,47,71,Cb5,7,-1,eighth,0,1,0.5,ry,False,False,False,G¨‹7,Gb,m7,1,8,5,printed
-Love For Sale,47,71,Cb5,7,-1,quarter,0,1,1.0,love,True,False,False,C¨7,Cb,7,1,1,0,printed
-Love For Sale,47,71,Cb5,7,-1,quarter,0,1,1.0,but,True,False,False,C¨7,Cb,7,1,1,0,printed
-Love For Sale,48,71,Cb5,7,-1,half,0,1,2.0,true,True,False,False,F‹7(b5),F,m7(b5),1,7,6,printed
-Love For Sale,48,70,Bb4,6,-1,half,0,1,2.0,love,True,False,False,B¨7,Bb,7,0,0,0,printed
-Love For Sale,49,70,Bb4,6,-1,whole,0,1,4.0,Love,True,False,False,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,50,70,Bb4,6,-1,quarter,0,1,1.0,,,,True,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,50,67,G4,4,0,half,0,1,2.0,for,True,False,False,E¨^,Eb,maj,9,5,4,printed
-Love For Sale,51,65,F4,3,0,whole,0,1,4.0,sale,True,False,False,B¨‹6,Bb,m6,7,0,7,printed
-Love For Sale,52,65,F4,3,0,half,1,1,3.0,,,,True,B¨‹6,Bb,m6,7,0,7,printed
-Love For Sale,53,70,Bb4,6,-1,eighth,0,1,0.5,ap,True,True,False,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,53,70,Bb4,6,-1,eighth,0,1,0.5,pe,False,True,False,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,53,70,Bb4,6,-1,quarter,0,1,1.0,tiz,False,True,False,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,53,70,Bb4,6,-1,quarter,0,1,1.0,ing,False,False,False,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,54,70,Bb4,6,-1,quarter,0,1,1.0,young,True,False,False,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,54,70,Bb4,6,-1,half,0,1,2.0,love,True,False,False,E¨^,Eb,maj,0,5,7,printed
-Love For Sale,54,67,G4,4,0,quarter,0,1,1.0,for,True,False,False,E¨^,Eb,maj,9,5,4,printed
-Love For Sale,55,65,F4,3,0,whole,0,1,4.0,sale,True,False,False,B¨‹6,Bb,m6,7,0,7,printed
-Love For Sale,56,65,F4,3,0,half,1,1,3.0,,,,True,B¨‹6,Bb,m6,7,0,7,printed
-Love For Sale,57,70,Bb4,6,-1,quarter,0,1,1.0,if,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
-Love For Sale,57,70,Bb4,6,-1,quarter,0,1,1.0,you,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
-Love For Sale,57,70,Bb4,6,-1,quarter,0,1,1.0,want,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
-Love For Sale,57,70,Bb4,6,-1,quarter,0,1,1.0,to,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
-Love For Sale,58,70,Bb4,6,-1,quarter,0,1,1.0,buy,True,False,False,A¨7,Ab,7,0,10,2,printed
-Love For Sale,58,72,C5,7,0,quarter,0,1,1.0,my,True,False,False,A¨7,Ab,7,2,10,4,printed
-Love For Sale,58,72,C5,7,0,quarter,0,1,1.0,wares,True,False,False,A¨7,Ab,7,2,10,4,printed
-Love For Sale,59,73,Db5,8,-1,quarter,0,1,1.0,fol,True,True,False,D¨%,Db,6/9,3,3,0,printed
-Love For Sale,59,73,Db5,8,-1,quarter,0,1,1.0,low,False,False,False,D¨%,Db,6/9,3,3,0,printed
-Love For Sale,59,73,Db5,8,-1,quarter,0,1,1.0,me,True,False,False,D¨%,Db,6/9,3,3,0,printed
-Love For Sale,59,73,Db5,8,-1,quarter,0,1,1.0,and,True,False,False,D¨%,Db,6/9,3,3,0,printed
-Love For Sale,60,73,Db5,8,-1,quarter,0,1,1.0,climb,True,False,False,G¨7(#11),Gb,7(#11),3,8,7,printed
-Love For Sale,60,75,Eb5,9,-1,quarter,0,1,1.0,the,True,False,False,G¨7(#11),Gb,7(#11),5,8,9,printed
-Love For Sale,60,75,Eb5,9,-1,quarter,0,1,1.0,stairs,True,False,False,G¨7(#11),Gb,7(#11),5,8,9,printed
-Love For Sale,61,76,Fb5,10,-1,whole,0,1,4.0,love,True,False,False,C‹7(b5),C,m7(b5),6,2,4,printed
-Love For Sale,62,77,F5,10,0,quarter,0,1,1.0,,,,True,F7[áÆ],F,7(b13b9),7,7,0,printed
-Love For Sale,62,73,Db5,8,-1,half,0,1,2.0,for,True,False,False,F7[áÆ],F,7(b13b9),3,7,8,printed
-Love For Sale,63,70,Bb4,6,-1,whole,0,1,4.0,sale,True,False,False,B¨‹6,Bb,m6,0,0,0,printed
-Love For Sale,64,70,Bb4,6,-1,quarter,0,1,1.0,,,,True,B¨‹6,Bb,m6,0,0,0,printed
-Easy To Love,1,64,E4,2,0,whole,0,1,4.0,You'd,True,False,False,A‹7,A,m7,9,2,7,printed
-Easy To Love,2,57,A3,-2,0,half,1,1,3.0,be,True,False,False,D‹7,D,m7,2,7,7,printed
-Easy To Love,2,59,B3,-1,0,quarter,0,1,1.0,so,True,False,False,E7(b9),E,7(b9),4,9,7,printed
-Easy To Love,3,60,C4,0,0,half,0,1,2.0,eas,True,True,False,A‹7,A,m7,5,2,3,printed
-Easy To Love,3,59,B3,-1,0,quarter,1,1,1.5,y,False,False,False,A‹7,A,m7,4,2,2,printed
-Easy To Love,3,60,C4,0,0,eighth,0,1,0.5,to,True,False,False,A‹7,A,m7,5,2,3,printed
-Easy To Love,4,66,F#4,3,1,half,1,1,3.0,"love,",True,False,False,D7,D,7,11,7,4,printed
-Easy To Love,4,64,E4,2,0,quarter,0,1,1.0,So,True,False,False,D7,D,7,9,7,2,printed
-Easy To Love,5,62,D4,1,0,half,0,1,2.0,eas,True,True,False,G²,G,²,7,0,7,printed
-Easy To Love,5,61,C#4,0,1,quarter,0,1,1.0,y,False,False,False,G²,G,²,6,0,6,printed
-Easy To Love,5,62,D4,1,0,quarter,0,1,1.0,to,True,False,False,G²,G,²,7,0,7,printed
-Easy To Love,6,69,A4,5,0,quarter,0,1,1.0,i,True,True,False,C9,C,9,2,5,9,printed
-Easy To Love,6,68,Ab4,5,-1,quarter,0,1,1.0,do,False,True,False,C9,C,9,1,5,8,printed
-Easy To Love,6,67,G4,4,0,quarter,0,1,1.0,"lize,",False,False,False,C9,C,9,0,5,7,printed
-Easy To Love,6,66,F#4,3,1,quarter,0,1,1.0,all,True,False,False,C9,C,9,11,5,6,printed
-Easy To Love,7,64,E4,2,0,half,0,1,2.0,oth,True,True,False,G%,G,6/9,9,0,9,printed
-Easy To Love,7,63,D#4,1,1,quarter,1,1,1.5,ers,False,False,False,G%,G,6/9,8,0,8,printed
-Easy To Love,7,64,E4,2,0,eighth,0,1,0.5,a,True,True,False,G%,G,6/9,9,0,9,printed
-Easy To Love,8,74,D5,8,0,whole,0,1,4.0,bove,False,False,False,G%,G,6/9,7,0,7,printed
-Easy To Love,9,74,D5,8,0,whole,0,1,4.0,So,True,False,False,A‹7,A,m7,7,2,5,printed
-Easy To Love,10,64,E4,2,0,half,1,1,3.0,worth,True,False,False,D9(“4) D9,D,9(“4) D9,9,7,2,printed
-Easy To Love,10,66,F#4,3,1,quarter,0,1,1.0,the,True,False,False,D7(b9),D,7(b9),11,7,4,printed
-Easy To Love,11,71,B4,6,0,quarter,0,1,1.0,yearn,True,True,False,G²,G,²,4,0,4,printed
-Easy To Love,11,71,B4,6,0,quarter,0,1,1.0,ing,False,False,False,G²,G,²,4,0,4,printed
-Easy To Love,11,71,B4,6,0,half,0,1,2.0,for,True,False,False,C²,C,²,4,5,11,printed
-Easy To Love,12,71,B4,6,0,quarter,0,1,1.0,,,,True,B‹7,B,m7,4,4,0,printed
-Easy To Love,13,74,D5,8,0,quarter,0,1,1.0,So,True,False,False,A‹7,A,m7,7,2,5,printed
-Easy To Love,13,62,D4,1,0,quarter,1,1,1.5,swell,True,False,False,A‹7,A,m7,7,2,5,printed
-Easy To Love,13,62,D4,1,0,eighth,0,1,0.5,to,True,False,False,D7(b9“4),D,7(b9“4),7,7,0,printed
-Easy To Love,14,63,Eb4,2,-1,eighth,0,1,0.5,keep,True,False,False,D7(b9“4),D,7(b9“4),8,7,1,printed
-Easy To Love,14,63,Eb4,2,-1,quarter,0,1,1.0,ev,True,True,False,D7(b9“4),D,7(b9“4),8,7,1,printed
-Easy To Love,14,63,Eb4,2,-1,eighth,0,1,0.5,ry,False,False,False,D7(b9“4),D,7(b9“4),8,7,1,printed
-Easy To Love,14,64,E4,2,0,quarter,0,1,1.0,home,True,False,False,D9,D,9,9,7,2,printed
-Easy To Love,14,64,E4,2,0,eighth,0,1,0.5,fireburn,True,True,False,D9,D,9,9,7,2,printed
-Easy To Love,14,66,F#4,3,1,eighth,0,1,0.5,,,,True,D9,D,9,11,7,4,printed
-Easy To Love,15,66,F#4,3,1,quarter,0,1,1.0,,,,True,B‹7,B,m7,11,4,7,printed
-Easy To Love,15,66,F#4,3,1,quarter,0,1,1.0,ing,False,False,False,B‹7,B,m7,11,4,7,printed
-Easy To Love,15,66,F#4,3,1,half,0,1,2.0,for,True,False,False,B‹7,B,m7,11,4,7,printed
-Easy To Love,16,66,F#4,3,1,quarter,0,1,1.0,,,,True,B¨º7,Bb,dim7,11,3,8,printed
-Easy To Love,17,77,E#5,9,1,half,1,1,3.0,shame,True,False,False,B¨º7,Bb,dim7,10,3,7,printed
-Easy To Love,17,71,B4,6,0,quarter,0,1,1.0,that,True,False,False,E7(b9),E,7(b9),4,9,7,printed
-Easy To Love,18,74,D5,8,0,half,1,1,3.0,you,True,False,False,A‹7,A,m7,7,2,5,printed
-Easy To Love,18,69,A4,5,0,quarter,0,1,1.0,can't,True,False,False,A‹7,A,m7,2,2,0,printed
-Easy To Love,19,72,C5,7,0,half,1,1,3.0,see,True,False,False,F9,F,9,5,10,7,printed
-Easy To Love,19,67,G4,4,0,quarter,0,1,1.0,your,True,False,False,F9,F,9,0,10,2,printed
-Easy To Love,20,71,B4,6,0,half,0,1,2.0,fu,True,True,False,G²,G,²,4,0,4,printed
-Easy To Love,20,66,F#4,3,1,quarter,0,1,1.0,ture,False,False,False,G²,G,²,11,0,11,printed
-Easy To Love,20,67,G4,4,0,quarter,0,1,1.0,with,True,False,False,G²,G,²,0,0,0,printed
-Easy To Love,21,69,A4,5,0,quarter,0,1,1.0,me,True,False,False,B‹7,B,m7,2,4,10,printed
-Easy To Love,21,68,Ab4,5,-1,quarter,0,1,1.0,'cause,True,False,False,B‹7,B,m7,1,4,9,printed
-Easy To Love,21,67,G4,4,0,quarter,0,1,1.0,you'd,True,False,False,B¨º7,Bb,dim7,0,3,9,printed
-Easy To Love,21,66,F#4,3,1,quarter,0,1,1.0,be,True,False,False,B¨º7,Bb,dim7,11,3,8,printed
-Easy To Love,22,64,E4,2,0,half,0,1,2.0,"oh,",True,False,False,A‹7,A,m7,9,2,7,printed
-Easy To Love,22,71,B4,6,0,half,0,1,2.0,so,True,False,False,A‹7,A,m7,4,2,2,printed
-Easy To Love,23,71,B4,6,0,half,0,1,2.0,Eas,True,True,False,D7(b9),D,7(b9),4,7,9,printed
-Easy To Love,23,70,Bb4,6,-1,quarter,0,1,1.0,y,False,False,False,D7(b9),D,7(b9),3,7,8,printed
-Easy To Love,23,69,A4,5,0,quarter,0,1,1.0,to,True,False,False,D7(b9),D,7(b9),2,7,7,printed
-Easy To Love,24,67,G4,4,0,half,0,1,2.0,love!,True,False,False,G6,G,6,0,0,0,printed
-Easy To Love,24,67,G4,4,0,half,0,1,2.0,,,,True,G6,G,6,0,0,0,printed
-Easy To Love,25,67,G4,4,0,quarter,0,1,1.0,,,,True,G6,G,6,0,0,0,printed
-Easy To Love (verse),1,58,Bb3,-1,-1,quarter,0,1,1.0,I,True,False,False,G¨²,Gb,²,7,3,4,printed
-Easy To Love (verse),1,59,Cb4,0,-1,quarter,0,1,1.0,know,True,False,False,G¨²,Gb,²,8,3,5,printed
-Easy To Love (verse),1,61,Db4,1,-1,quarter,0,1,1.0,too,True,False,False,G¨²,Gb,²,10,3,7,printed
-Easy To Love (verse),2,62,D4,1,0,quarter,1,1,1.5,well,True,False,False,E¨‹(^7),Eb,m(maj7),11,0,11,printed
-Easy To Love (verse),2,63,Eb4,2,-1,eighth,0,1,0.5,that,True,False,False,E¨‹(^7),Eb,m(maj7),0,0,0,printed
-Easy To Love (verse),2,70,Bb4,6,-1,half,0,1,2.0,I'm,True,False,False,E¨‹7,Eb,m7,7,0,7,printed
-Easy To Love (verse),3,70,Bb4,6,-1,quarter,0,1,1.0,,,,True,G¨^9,Gb,maj9,7,3,4,printed
-Easy To Love (verse),3,65,F4,3,0,quarter,0,1,1.0,just,True,False,False,G¨^9,Gb,maj9,2,3,11,printed
-Easy To Love (verse),3,68,Ab4,5,-1,quarter,0,1,1.0,wast,True,True,False,G¨^9,Gb,maj9,5,3,2,printed
-Easy To Love (verse),3,66,Gb4,4,-1,quarter,0,1,1.0,ing,False,False,False,G¨^9,Gb,maj9,3,3,0,printed
-Easy To Love (verse),4,65,F4,3,0,quarter,1,1,1.5,pre,True,True,False,E¨‹7,Eb,m7,2,0,2,printed
-Easy To Love (verse),4,62,D4,1,0,eighth,0,1,0.5,cioustime,False,False,False,E¨‹7,Eb,m7,11,0,11,printed
-Easy To Love (verse),4,63,Eb4,2,-1,quarter,0,1,1.0,,,,True,E¨‹7,Eb,m7,0,0,0,printed
-Easy To Love (verse),4,58,Bb3,-1,-1,quarter,0,1,1.0,in,True,False,False,E¨‹7,Eb,m7,7,0,7,printed
-Easy To Love (verse),5,61,Db4,1,-1,quarter,0,1,1.0,think,True,True,False,A¨‹7,Ab,m7,10,5,5,printed
-Easy To Love (verse),5,60,C4,0,0,quarter,0,1,1.0,ing,False,False,False,A¨‹7,Ab,m7,9,5,4,printed
-Easy To Love (verse),5,59,Cb4,0,-1,quarter,0,1,1.0,such,True,False,False,A¨‹7,Ab,m7,8,5,3,printed
-Easy To Love (verse),5,58,Bb3,-1,-1,quarter,0,1,1.0,a,True,False,False,A¨‹7,Ab,m7,7,5,2,printed
-Easy To Love (verse),6,58,Bb3,-1,-1,quarter,1,1,1.5,thing,True,False,False,D¨7,Db,7,7,10,9,printed
-Easy To Love (verse),6,55,G3,-3,0,eighth,0,1,0.5,coul,True,False,False,D¨7,Db,7,4,10,6,printed
-Easy To Love (verse),6,56,Ab3,-2,-1,quarter,0,1,1.0,"be,",True,False,False,D¨7,Db,7,5,10,7,printed
-Easy To Love (verse),6,58,Bb3,-1,-1,quarter,0,1,1.0,That,True,False,False,D¨7,Db,7,7,10,9,printed
-Easy To Love (verse),7,61,Db4,1,-1,half,0,1,2.0,you,True,False,False,G¨²,Gb,²,10,3,7,printed
-Easy To Love (verse),7,61,Db4,1,-1,eighth,0,1,0.5,,,,True,G¨²,Gb,²,10,3,7,printed
-Easy To Love (verse),7,63,Eb4,2,-1,eighth,0,1,0.5,couldec,True,True,False,G¨²,Gb,²,0,3,9,printed
-Easy To Love (verse),7,65,F4,3,0,eighth,0,1,0.5,,,,True,G¨²,Gb,²,2,3,11,printed
-Easy To Love (verse),7,66,Gb4,4,-1,eighth,0,1,0.5,er,False,False,False,G¨²,Gb,²,3,3,0,printed
-Easy To Love (verse),8,68,Ab4,5,-1,quarter,1,1,1.5,care,True,False,False,A¨‹7,Ab,m7,5,5,0,printed
-Easy To Love (verse),8,70,Bb4,6,-1,eighth,0,1,0.5,for,True,False,False,A¨‹7,Ab,m7,7,5,2,printed
-Easy To Love (verse),8,68,Ab4,5,-1,half,0,1,2.0,me.,True,False,False,D¨7(b9),Db,7(b9),5,10,7,printed
-Easy To Love (verse),9,58,Bb3,-1,-1,quarter,0,1,1.0,I'm,True,False,False,G¨²,Gb,²,7,3,4,printed
-Easy To Love (verse),9,59,Cb4,0,-1,quarter,0,1,1.0,sure,True,False,False,G¨²,Gb,²,8,3,5,printed
-Easy To Love (verse),9,61,Db4,1,-1,quarter,0,1,1.0,you,True,False,False,G¨²,Gb,²,10,3,7,printed
-Easy To Love (verse),10,62,D4,1,0,quarter,1,1,1.5,hate,True,False,False,D¨7(b9),Db,7(b9),11,10,1,printed
-Easy To Love (verse),10,63,Eb4,2,-1,eighth,0,1,0.5,to,True,False,False,D¨7(b9),Db,7(b9),0,10,2,printed
-Easy To Love (verse),10,71,Cb5,7,-1,half,0,1,2.0,hear,True,False,False,D¨9,Db,9,8,10,10,printed
-Easy To Love (verse),11,71,Cb5,7,-1,quarter,0,1,1.0,,,,True,G¨²,Gb,²,8,3,5,printed
-Easy To Love (verse),11,70,Bb4,6,-1,quarter,0,1,1.0,That,True,False,False,G¨²,Gb,²,7,3,4,printed
-Easy To Love (verse),11,69,A4,5,0,quarter,0,1,1.0,I,True,False,False,G¨²,Gb,²,6,3,3,printed
-Easy To Love (verse),11,66,Gb4,4,-1,quarter,0,1,1.0,a,True,True,False,G¨²,Gb,²,3,3,0,printed
-Easy To Love (verse),12,65,F4,3,0,quarter,1,1,1.5,dore,False,False,False,E¨‹7,Eb,m7,2,0,2,printed
-Easy To Love (verse),12,62,D4,1,0,eighth,0,1,0.5,you,True,False,False,E¨‹7,Eb,m7,11,0,11,printed
-Easy To Love (verse),12,63,Eb4,2,-1,quarter,0,1,1.0,"dear,",True,False,False,E¨‹7,Eb,m7,0,0,0,printed
-Easy To Love (verse),12,64,Fb4,3,-1,quarter,0,1,1.0,But,True,False,False,E¨‹7,Eb,m7,1,0,1,printed
-Easy To Love (verse),13,65,F4,3,0,quarter,0,1,1.0,grant,True,False,False,B¨²,Bb,²,2,7,7,printed
-Easy To Love (verse),13,64,Fb4,3,-1,quarter,0,1,1.0,"me,",True,False,False,B¨²,Bb,²,1,7,6,printed
-Easy To Love (verse),13,63,Eb4,2,-1,quarter,0,1,1.0,just,True,False,False,B¨²,Bb,²,0,7,5,printed
-Easy To Love (verse),13,62,D4,1,0,quarter,0,1,1.0,the,True,False,False,B¨²,Bb,²,11,7,4,printed
-Easy To Love (verse),14,67,G4,4,0,half,0,1,2.0,same,True,False,False,E¨²,Eb,²,4,0,4,printed
-Easy To Love (verse),14,67,G4,4,0,eighth,0,1,0.5,,,,True,E¨²,Eb,²,4,0,4,printed
-Easy To Love (verse),14,55,G3,-3,0,eighth,0,1,0.5,I'm,True,False,False,E¨²,Eb,²,4,0,4,printed
-Easy To Love (verse),14,54,F#3,-4,1,eighth,0,1,0.5,not,True,False,False,E¨²,Eb,²,3,0,3,printed
-Easy To Love (verse),14,55,G3,-3,0,eighth,0,1,0.5,en,True,True,False,E¨²,Eb,²,4,0,4,printed
-Easy To Love (verse),15,63,Eb4,2,-1,half,0,1,2.0,tire,False,True,False,C‹7,C,m7,0,9,3,printed
-Easy To Love (verse),15,62,D4,1,0,quarter,1,1,1.5,ly,False,False,False,F7,F,7,11,2,9,printed
-Easy To Love (verse),15,60,C4,0,0,eighth,0,1,0.5,to,True,False,False,F7,F,7,9,2,7,printed
-Easy To Love (verse),16,58,Bb3,-1,-1,half,0,1,2.0,"blame,",True,False,False,B¨6,Bb,6,7,7,0,printed
-Easy To Love (verse),16,59,Cb4,0,-1,half,0,1,2.0,for,True,False,False,B¨6,Bb,6,8,7,1,printed
-Easy To Love (verse),17,60,C4,0,0,whole,0,1,4.0,Yosu'd,True,False,False,F‹7,F,m7,9,2,7,printed
-Easy To Love (verse),18,53,F3,-4,0,half,1,1,3.0,be,True,False,False,B¨‹7,Bb,m7,2,7,7,printed
-Easy To Love (verse),18,55,G3,-3,0,quarter,0,1,1.0,so,True,False,False,C7(b9),C,7(b9),4,9,7,printed
-Easy To Love (verse),19,56,Ab3,-2,-1,half,0,1,2.0,eas,True,True,False,F‹7,F,m7,5,2,3,printed
-Easy To Love (verse),19,55,G3,-3,0,quarter,1,1,1.5,y,False,False,False,F‹7,F,m7,4,2,2,printed
-Easy To Love (verse),19,56,Ab3,-2,-1,eighth,0,1,0.5,to,True,False,False,F‹7,F,m7,5,2,3,printed
-Easy To Love (verse),20,62,D4,1,0,half,1,1,3.0,"love,",True,False,False,B¨7,Bb,7,11,7,4,printed
-Easy To Love (verse),20,60,C4,0,0,quarter,0,1,1.0,So,True,False,False,B¨7,Bb,7,9,7,2,printed
-Easy To Love (verse),21,58,Bb3,-1,-1,half,0,1,2.0,eas,True,True,False,E¨²,Eb,²,7,0,7,printed
-Easy To Love (verse),21,57,A3,-2,0,quarter,0,1,1.0,y,False,False,False,E¨²,Eb,²,6,0,6,printed
-Easy To Love (verse),21,58,Bb3,-1,-1,quarter,0,1,1.0,to,True,False,False,E¨²,Eb,²,7,0,7,printed
-Easy To Love (verse),22,65,F4,3,0,quarter,0,1,1.0,i,True,True,False,A¨9,Ab,9,2,5,9,printed
-Easy To Love (verse),22,64,Fb4,3,-1,quarter,0,1,1.0,do,False,True,False,A¨9,Ab,9,1,5,8,printed
-Easy To Love (verse),22,63,Eb4,2,-1,quarter,0,1,1.0,"lize,",False,False,False,A¨9,Ab,9,0,5,7,printed
-Easy To Love (verse),22,62,D4,1,0,quarter,0,1,1.0,all,True,False,False,A¨9,Ab,9,11,5,6,printed
-Easy To Love (verse),23,60,C4,0,0,half,0,1,2.0,oth,True,True,False,E¨%,Eb,6/9,9,0,9,printed
-Easy To Love (verse),23,59,B3,-1,0,quarter,1,1,1.5,ers,False,False,False,E¨%,Eb,6/9,8,0,8,printed
-Easy To Love (verse),23,60,C4,0,0,eighth,0,1,0.5,a,True,True,False,E¨%,Eb,6/9,9,0,9,printed
-Easy To Love (verse),24,70,Bb4,6,-1,whole,0,1,4.0,bove,False,False,False,E¨%,Eb,6/9,7,0,7,printed
-Easy To Love (verse),25,70,Bb4,6,-1,whole,0,1,4.0,So,True,False,False,F‹7,F,m7,7,2,5,printed
-Easy To Love (verse),26,60,C4,0,0,half,1,1,3.0,worth,True,False,False,B¨9(“4) B¨9,Bb,9(“4) Bb9,9,7,2,printed
-Easy To Love (verse),26,62,D4,1,0,quarter,0,1,1.0,the,True,False,False,B¨7(b9),Bb,7(b9),11,7,4,printed
-Easy To Love (verse),27,67,G4,4,0,quarter,0,1,1.0,yearn,True,True,False,E¨²,Eb,²,4,0,4,printed
-Easy To Love (verse),27,67,G4,4,0,quarter,0,1,1.0,ing,False,False,False,E¨²,Eb,²,4,0,4,printed
-Easy To Love (verse),27,67,G4,4,0,half,0,1,2.0,for,True,False,False,A¨²,Ab,²,4,5,11,printed
-Easy To Love (verse),28,67,G4,4,0,quarter,0,1,1.0,,,,True,G‹7,G,m7,4,4,0,printed
-Easy To Love (verse),29,70,Bb4,6,-1,quarter,0,1,1.0,So,True,False,False,F‹7,F,m7,7,2,5,printed
-Easy To Love (verse),29,58,Bb3,-1,-1,quarter,1,1,1.5,swell,True,False,False,F‹7,F,m7,7,2,5,printed
-Easy To Love (verse),29,58,Bb3,-1,-1,eighth,0,1,0.5,to,True,False,False,B¨7(b9“4),Bb,7(b9“4),7,7,0,printed
-Easy To Love (verse),30,59,Cb4,0,-1,eighth,0,1,0.5,keep,True,False,False,B¨7(b9“4),Bb,7(b9“4),8,7,1,printed
-Easy To Love (verse),30,59,Cb4,0,-1,quarter,0,1,1.0,ev,True,True,False,B¨7(b9“4),Bb,7(b9“4),8,7,1,printed
-Easy To Love (verse),30,59,Cb4,0,-1,eighth,0,1,0.5,ry,False,False,False,B¨7(b9“4),Bb,7(b9“4),8,7,1,printed
-Easy To Love (verse),30,60,C4,0,0,quarter,0,1,1.0,home,True,False,False,B¨9,Bb,9,9,7,2,printed
-Easy To Love (verse),30,60,C4,0,0,eighth,0,1,0.5,fireburn,True,True,False,B¨9,Bb,9,9,7,2,printed
-Easy To Love (verse),30,62,D4,1,0,eighth,0,1,0.5,,,,True,B¨9,Bb,9,11,7,4,printed
-Easy To Love (verse),31,62,D4,1,0,quarter,0,1,1.0,,,,True,G‹7,G,m7,11,4,7,printed
-Easy To Love (verse),31,62,D4,1,0,quarter,0,1,1.0,ing,False,False,False,G‹7,G,m7,11,4,7,printed
-Easy To Love (verse),31,62,D4,1,0,half,0,1,2.0,for,True,False,False,G‹7,G,m7,11,4,7,printed
-Easy To Love (verse),32,62,D4,1,0,quarter,0,1,1.0,,,,True,G¨º7,Gb,dim7,11,3,8,printed
-Easy To Love (verse),33,60,C4,0,0,whole,0,1,4.0,We'd,True,False,False,G¨º7,Gb,dim7,9,3,6,printed
-Easy To Love (verse),34,53,F3,-4,0,half,1,1,3.0,be,True,False,False,B¨‹7,Bb,m7,2,7,7,printed
-Easy To Love (verse),34,55,G3,-3,0,quarter,0,1,1.0,so,True,False,False,C7(b9),C,7(b9),4,9,7,printed
-Easy To Love (verse),35,56,Ab3,-2,-1,half,0,1,2.0,grand,True,False,False,F‹7,F,m7,5,2,3,printed
-Easy To Love (verse),35,55,G3,-3,0,quarter,1,1,1.5,at,True,False,False,F‹7,F,m7,4,2,2,printed
-Easy To Love (verse),35,56,Ab3,-2,-1,eighth,0,1,0.5,the,True,False,False,F‹7,F,m7,5,2,3,printed
-Easy To Love (verse),36,62,D4,1,0,half,1,1,3.0,"game,",True,False,False,B¨7,Bb,7,11,7,4,printed
-Easy To Love (verse),36,60,C4,0,0,quarter,0,1,1.0,So,True,False,False,B¨7,Bb,7,9,7,2,printed
-Easy To Love (verse),37,58,Bb3,-1,-1,half,0,1,2.0,care,True,True,False,E¨²,Eb,²,7,0,7,printed
-Easy To Love (verse),37,57,A3,-2,0,quarter,0,1,1.0,free,False,False,False,E¨²,Eb,²,6,0,6,printed
-Easy To Love (verse),37,58,Bb3,-1,-1,quarter,0,1,1.0,to,True,True,False,E¨²,Eb,²,7,0,7,printed
-Easy To Love (verse),38,65,F4,3,0,quarter,0,1,1.0,geth,False,True,False,A¨9,Ab,9,2,5,9,printed
-Easy To Love (verse),38,64,Fb4,3,-1,quarter,0,1,1.0,er,False,False,False,A¨9,Ab,9,1,5,8,printed
-Easy To Love (verse),38,63,Eb4,2,-1,quarter,0,1,1.0,that,True,False,False,A¨9,Ab,9,0,5,7,printed
-Easy To Love (verse),38,62,D4,1,0,quarter,0,1,1.0,it,True,False,False,A¨9,Ab,9,11,5,6,printed
-Easy To Love (verse),39,60,C4,0,0,half,0,1,2.0,does,True,False,False,E¨%,Eb,6/9,9,0,9,printed
-Easy To Love (verse),39,59,B3,-1,0,quarter,1,1,1.5,seem,True,False,False,E¨%,Eb,6/9,8,0,8,printed
-Easy To Love (verse),39,60,C4,0,0,eighth,0,1,0.5,a,True,False,False,E¨%,Eb,6/9,9,0,9,printed
-Easy To Love (verse),40,72,C5,7,0,half,1,1,3.0,shsame,True,False,False,E¨%,Eb,6/9,9,0,9,printed
-Easy To Love (verse),40,67,G4,4,0,quarter,0,1,1.0,that,True,False,False,C7(b9),C,7(b9),4,9,7,printed
-Easy To Love (verse),41,70,Bb4,6,-1,half,1,1,3.0,you,True,False,False,F‹7,F,m7,7,2,5,printed
-Easy To Love (verse),41,65,F4,3,0,quarter,0,1,1.0,can't,True,False,False,F‹7,F,m7,2,2,0,printed
-Easy To Love (verse),42,68,Ab4,5,-1,half,1,1,3.0,see,True,False,False,D¨9,Db,9,5,10,7,printed
-Easy To Love (verse),42,63,Eb4,2,-1,quarter,0,1,1.0,your,True,False,False,D¨9,Db,9,0,10,2,printed
-Easy To Love (verse),43,67,G4,4,0,half,0,1,2.0,fu,True,True,False,E¨²,Eb,²,4,0,4,printed
-Easy To Love (verse),43,62,D4,1,0,quarter,0,1,1.0,ture,False,False,False,E¨²,Eb,²,11,0,11,printed
-Easy To Love (verse),43,63,Eb4,2,-1,quarter,0,1,1.0,with,True,False,False,E¨²,Eb,²,0,0,0,printed
-Easy To Love (verse),44,65,F4,3,0,quarter,0,1,1.0,me,True,False,False,G‹7,G,m7,2,4,10,printed
-Easy To Love (verse),44,64,Fb4,3,-1,quarter,0,1,1.0,'cause,True,False,False,G‹7,G,m7,1,4,9,printed
-Easy To Love (verse),44,63,Eb4,2,-1,quarter,0,1,1.0,you'd,True,False,False,G¨º7,Gb,dim7,0,3,9,printed
-Easy To Love (verse),44,62,D4,1,0,quarter,0,1,1.0,be,True,False,False,G¨º7,Gb,dim7,11,3,8,printed
-Easy To Love (verse),45,60,C4,0,0,half,0,1,2.0,"oh,",True,False,False,F‹7,F,m7,9,2,7,printed
-Easy To Love (verse),45,67,G4,4,0,half,0,1,2.0,so,True,False,False,F‹7,F,m7,4,2,2,printed
-Easy To Love (verse),46,67,G4,4,0,half,0,1,2.0,Eas,True,True,False,B¨7(b9),Bb,7(b9),4,7,9,printed
-Easy To Love (verse),46,66,Gb4,4,-1,quarter,0,1,1.0,y,False,False,False,B¨7(b9),Bb,7(b9),3,7,8,printed
-Easy To Love (verse),46,65,F4,3,0,quarter,0,1,1.0,to,True,False,False,B¨7(b9),Bb,7(b9),2,7,7,printed
-Easy To Love (verse),47,63,Eb4,2,-1,half,0,1,2.0,love!,True,False,False,E¨6,Eb,6,0,0,0,printed
-Easy To Love (verse),47,63,Eb4,2,-1,half,0,1,2.0,,,,True,E¨6,Eb,6,0,0,0,printed
-Easy To Love (verse),48,63,Eb4,2,-1,quarter,0,1,1.0,,,,True,E¨6,Eb,6,0,0,0,printed
+Love For Sale,25,70,Bb4,6,-1,eighth,0,1,0.5,Ap,True,True,False,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,25,70,Bb4,6,-1,eighth,0,1,0.5,pe,False,True,False,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,25,70,Bb4,6,-1,quarter,0,1,1.0,tiz,False,True,False,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,25,70,Bb4,6,-1,quarter,0,1,1.0,ing,False,False,False,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,26,70,Bb4,6,-1,quarter,0,1,1.0,young,True,False,False,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,26,70,Bb4,6,-1,half,0,1,2.0,love,True,False,False,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,26,67,G4,4,0,quarter,0,1,1.0,for,True,False,False,E¨^,Eb,maj,9,5,4,printed
+Love For Sale,27,65,F4,3,0,whole,0,1,4.0,sale,True,False,False,B¨‹6,Bb,m6,7,0,7,printed
+Love For Sale,28,65,F4,3,0,half,1,1,3.0,,,,True,B¨‹6,Bb,m6,7,0,7,printed
+Love For Sale,29,70,Bb4,6,-1,quarter,0,1,1.0,love,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
+Love For Sale,29,70,Bb4,6,-1,quarter,0,1,1.0,that's,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
+Love For Sale,29,70,Bb4,6,-1,quarter,0,1,1.0,fresh,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
+Love For Sale,29,70,Bb4,6,-1,quarter,0,1,1.0,and,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
+Love For Sale,30,70,Bb4,6,-1,quarter,0,1,1.0,still,True,False,False,A¨7,Ab,7,0,10,2,printed
+Love For Sale,30,72,C5,7,0,quarter,0,1,1.0,un,True,True,False,A¨7,Ab,7,2,10,4,printed
+Love For Sale,30,72,C5,7,0,quarter,0,1,1.0,spoiled,False,False,False,A¨7,Ab,7,2,10,4,printed
+Love For Sale,31,68,Ab4,5,-1,quarter,0,1,1.0,love,True,False,False,D¨^,Db,maj,10,3,7,printed
+Love For Sale,31,68,Ab4,5,-1,quarter,0,1,1.0,that's,True,False,False,D¨^,Db,maj,10,3,7,printed
+Love For Sale,31,68,Ab4,5,-1,quarter,0,1,1.0,on,True,True,False,D¨^,Db,maj,10,3,7,printed
+Love For Sale,31,68,Ab4,5,-1,quarter,0,1,1.0,ly,False,False,False,D¨^,Db,maj,10,3,7,printed
+Love For Sale,32,68,Ab4,5,-1,quarter,0,1,1.0,slight,True,True,False,G¨7(#11),Gb,7(#11),10,8,2,printed
+Love For Sale,32,66,Gb4,4,-1,quarter,0,1,1.0,ly,False,False,False,G¨7(#11),Gb,7(#11),8,8,0,printed
+Love For Sale,32,66,Gb4,4,-1,quarter,0,1,1.0,soiled,True,False,False,G¨7(#11),Gb,7(#11),8,8,0,printed
+Love For Sale,33,65,F4,3,0,whole,0,1,4.0,love,True,False,False,C‹7(b5),C,m7(b5),7,2,5,printed
+Love For Sale,34,65,F4,3,0,quarter,0,1,1.0,,,,True,F7[áÆ],F,7(b13b9),7,7,0,printed
+Love For Sale,34,61,Db4,1,-1,half,0,1,2.0,for,True,False,False,F7[áÆ],F,7(b13b9),3,7,8,printed
+Love For Sale,35,58,Bb3,-1,-1,whole,0,1,4.0,sale,True,False,False,B¨‹6,Bb,m6,0,0,0,printed
+Love For Sale,36,58,Bb3,-1,-1,quarter,0,1,1.0,,,,True,B¨‹6,Bb,m6,0,0,0,printed
+Love For Sale,37,70,Bb4,6,-1,whole,0,1,4.0,Who,True,False,False,B¨‹6,Bb,m6,0,0,0,printed
+Love For Sale,38,70,Bb4,6,-1,quarter,0,1,1.0,,,,True,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,38,67,G4,4,0,half,0,1,2.0,will,True,False,False,E¨^,Eb,maj,9,5,4,printed
+Love For Sale,39,65,F4,3,0,whole,0,1,4.0,buy,True,False,False,B¨‹6,Bb,m6,7,0,7,printed
+Love For Sale,40,65,F4,3,0,half,1,1,3.0,,,,True,B¨‹6,Bb,m6,7,0,7,printed
+Love For Sale,41,70,Bb4,6,-1,eighth,0,1,0.5,who,True,False,False,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,41,70,Bb4,6,-1,eighth,0,1,0.5,would,True,False,False,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,41,70,Bb4,6,-1,quarter,0,1,1.0,like,True,False,False,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,41,70,Bb4,6,-1,quarter,0,1,1.0,to,True,False,False,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,42,70,Bb4,6,-1,quarter,0,1,1.0,sam,True,True,False,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,42,70,Bb4,6,-1,quarter,0,1,1.0,ple,False,False,False,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,42,70,Bb4,6,-1,quarter,0,1,1.0,my,True,False,False,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,42,67,G4,4,0,quarter,0,1,1.0,sup,True,True,False,E¨^,Eb,maj,9,5,4,printed
+Love For Sale,43,65,F4,3,0,whole,0,1,4.0,ply?,False,False,False,B¨‹6,Bb,m6,7,0,7,printed
+Love For Sale,44,65,F4,3,0,half,1,1,3.0,,,,True,B¨‹6,Bb,m6,7,0,7,printed
+Love For Sale,45,70,Bb4,6,-1,quarter,0,1,1.0,who's,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
+Love For Sale,45,70,Bb4,6,-1,quarter,0,1,1.0,pre,True,True,False,E¨‹7,Eb,m7,0,5,7,printed
+Love For Sale,45,70,Bb4,6,-1,quarter,0,1,1.0,pared,False,False,False,E¨‹7,Eb,m7,0,5,7,printed
+Love For Sale,45,70,Bb4,6,-1,quarter,0,1,1.0,to,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
+Love For Sale,46,70,Bb4,6,-1,quarter,0,1,1.0,pay,True,False,False,A¨7,Ab,7,0,10,2,printed
+Love For Sale,46,72,C5,7,0,quarter,0,1,1.0,the,True,False,False,A¨7,Ab,7,2,10,4,printed
+Love For Sale,46,72,C5,7,0,quarter,0,1,1.0,price,True,False,False,A¨7,Ab,7,2,10,4,printed
+Love For Sale,47,68,Ab4,5,-1,quarter,0,1,1.0,for,True,False,False,D¨^,Db,maj,10,3,7,printed
+Love For Sale,47,68,Ab4,5,-1,quarter,0,1,1.0,a,True,False,False,D¨^,Db,maj,10,3,7,printed
+Love For Sale,47,68,Ab4,5,-1,quarter,0,1,1.0,trip,True,False,False,D¨^,Db,maj,10,3,7,printed
+Love For Sale,47,68,Ab4,5,-1,quarter,0,1,1.0,to,True,False,False,D¨^,Db,maj,10,3,7,printed
+Love For Sale,48,68,Ab4,5,-1,quarter,0,1,1.0,par,True,True,False,G¨7(#11),Gb,7(#11),10,8,2,printed
+Love For Sale,48,66,Gb4,4,-1,quarter,0,1,1.0,ra,False,True,False,G¨7(#11),Gb,7(#11),8,8,0,printed
+Love For Sale,48,66,Gb4,4,-1,quarter,0,1,1.0,dise?,False,False,False,G¨7(#11),Gb,7(#11),8,8,0,printed
+Love For Sale,49,65,F4,3,0,whole,0,1,4.0,love,True,False,False,C‹7(b5),C,m7(b5),7,2,5,printed
+Love For Sale,50,65,F4,3,0,quarter,0,1,1.0,,,,True,F7[áÆ],F,7(b13b9),7,7,0,printed
+Love For Sale,50,61,Db4,1,-1,half,0,1,2.0,for,True,False,False,F7[áÆ],F,7(b13b9),3,7,8,printed
+Love For Sale,51,58,Bb3,-1,-1,whole,0,1,4.0,sale,True,False,False,B¨‹6,Bb,m6,0,0,0,printed
+Love For Sale,52,58,Bb3,-1,-1,quarter,0,1,1.0,,,,True,B¨‹6,Bb,m6,0,0,0,printed
+Love For Sale,53,58,Bb3,-1,-1,eighth,0,1,0.5,Let,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
+Love For Sale,53,60,C4,0,0,eighth,0,1,0.5,the,True,False,False,E¨‹7,Eb,m7,2,5,9,printed
+Love For Sale,53,61,Db4,1,-1,quarter,0,1,1.0,po,True,True,False,E¨‹7,Eb,m7,3,5,10,printed
+Love For Sale,53,63,Eb4,2,-1,quarter,0,1,1.0,ets,False,False,False,E¨‹7,Eb,m7,5,5,0,printed
+Love For Sale,54,65,F4,3,0,quarter,0,1,1.0,pipe,True,False,False,A¨7,Ab,7,7,10,9,printed
+Love For Sale,54,63,Eb4,2,-1,quarter,0,1,1.0,of,True,False,False,A¨7,Ab,7,5,10,7,printed
+Love For Sale,54,63,Eb4,2,-1,half,0,1,2.0,love,True,False,False,A¨7,Ab,7,5,10,7,printed
+Love For Sale,55,60,C4,0,0,quarter,0,1,1.0,in,True,False,False,D¨^,Db,maj,2,3,11,printed
+Love For Sale,55,61,Db4,1,-1,quarter,0,3,0.66667,their,True,False,False,G¨^,Gb,maj,3,8,7,printed
+Love For Sale,55,63,Eb4,2,-1,quarter,0,3,0.66667,child,True,True,False,G¨^,Gb,maj,5,8,9,printed
+Love For Sale,55,65,F4,3,0,quarter,0,3,0.66667,lish,False,False,False,G¨^,Gb,maj,7,8,11,printed
+Love For Sale,56,68,Ab4,5,-1,half,1,1,3.0,way,True,False,False,F‹7,F,m7,10,7,3,printed
+Love For Sale,57,58,Bb3,-1,-1,eighth,0,1,0.5,I,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
+Love For Sale,57,60,C4,0,0,eighth,0,1,0.5,know,True,False,False,E¨‹7,Eb,m7,2,5,9,printed
+Love For Sale,57,61,Db4,1,-1,quarter,0,1,1.0,ev',True,True,False,E¨‹7,Eb,m7,3,5,10,printed
+Love For Sale,57,63,Eb4,2,-1,quarter,0,1,1.0,ry,False,False,False,E¨‹7,Eb,m7,5,5,0,printed
+Love For Sale,58,65,F4,3,0,quarter,0,1,1.0,type,True,False,False,A¨7,Ab,7,7,10,9,printed
+Love For Sale,58,63,Eb4,2,-1,quarter,0,1,1.0,of,True,False,False,A¨7,Ab,7,5,10,7,printed
+Love For Sale,58,63,Eb4,2,-1,half,0,1,2.0,love,True,False,False,A¨7,Ab,7,5,10,7,printed
+Love For Sale,59,60,C4,0,0,eighth,0,1,0.5,bet,True,True,False,D¨^,Db,maj,2,3,11,printed
+Love For Sale,59,61,Db4,1,-1,eighth,0,1,0.5,ter,False,False,False,D¨^,Db,maj,3,3,0,printed
+Love For Sale,59,63,Eb4,2,-1,quarter,0,1,1.0,far,True,False,False,D¨^,Db,maj,5,3,2,printed
+Love For Sale,59,65,F4,3,0,quarter,0,1,1.0,than,True,False,False,D¨^,Db,maj,7,3,4,printed
+Love For Sale,60,70,Bb4,6,-1,half,1,1,3.0,they,True,False,False,D¨^,Db,maj,0,3,9,printed
+Love For Sale,61,58,Bb3,-1,-1,eighth,0,1,0.5,If,True,False,False,B¨9,Bb,9,0,0,0,printed
+Love For Sale,61,60,C4,0,0,eighth,0,1,0.5,you,True,False,False,B¨9,Bb,9,2,0,2,printed
+Love For Sale,61,62,D4,1,0,quarter,0,1,1.0,want,True,False,False,B¨9,Bb,9,4,0,4,printed
+Love For Sale,61,65,F4,3,0,quarter,0,1,1.0,the,True,False,False,B¨9,Bb,9,7,0,7,printed
+Love For Sale,62,66,Gb4,4,-1,quarter,0,1,1.0,thrill,True,False,False,C¨9(#11),Cb,9(#11),8,1,7,printed
+Love For Sale,62,65,F4,3,0,quarter,0,1,1.0,og,True,False,False,C¨9(#11),Cb,9(#11),7,1,6,printed
+Love For Sale,62,65,F4,3,0,half,0,1,2.0,love,True,False,False,B¨9,Bb,9,7,0,7,printed
+Love For Sale,63,62,D4,1,0,eighth,0,1,0.5,I've,True,False,False,E¨‹6,Eb,m6,4,5,11,printed
+Love For Sale,63,63,Eb4,2,-1,eighth,0,1,0.5,seen,True,False,False,E¨‹6,Eb,m6,5,5,0,printed
+Love For Sale,63,65,F4,3,0,quarter,0,1,1.0,thru,True,False,False,E¨‹6,Eb,m6,7,5,2,printed
+Love For Sale,63,66,Gb4,4,-1,quarter,0,1,1.0,the,True,False,False,E¨‹6,Eb,m6,8,5,3,printed
+Love For Sale,64,72,C5,7,0,quarter,0,1,1.0,mill,True,False,False,E¨‹6,Eb,m6,2,5,9,printed
+Love For Sale,64,70,Bb4,6,-1,quarter,0,1,1.0,of,True,False,False,E¨‹6,Eb,m6,0,5,7,printed
+Love For Sale,64,70,Bb4,6,-1,half,0,1,2.0,love,True,False,False,E¨‹6,Eb,m6,0,5,7,printed
+Love For Sale,65,73,Db5,8,-1,half,0,1,2.0,old,True,False,False,G‹7(b5),G,m7(b5),3,9,6,printed
+Love For Sale,65,72,C5,7,0,half,0,1,2.0,love,True,False,False,C7,C,7,2,2,0,printed
+Love For Sale,66,73,Db5,8,-1,half,0,1,2.0,new,True,False,False,G‹7(b5),G,m7(b5),3,9,6,printed
+Love For Sale,66,72,C5,7,0,half,0,1,2.0,love,True,False,False,C7,C,7,2,2,0,printed
+Love For Sale,67,71,Cb5,7,-1,eighth,0,1,0.5,ev',True,True,False,G¨‹7,Gb,m7,1,8,5,printed
+Love For Sale,67,71,Cb5,7,-1,eighth,0,1,0.5,ry,False,False,False,G¨‹7,Gb,m7,1,8,5,printed
+Love For Sale,67,71,Cb5,7,-1,quarter,0,1,1.0,love,True,False,False,C¨7,Cb,7,1,1,0,printed
+Love For Sale,67,71,Cb5,7,-1,quarter,0,1,1.0,but,True,False,False,C¨7,Cb,7,1,1,0,printed
+Love For Sale,68,71,Cb5,7,-1,half,0,1,2.0,true,True,False,False,F‹7(b5),F,m7(b5),1,7,6,printed
+Love For Sale,68,70,Bb4,6,-1,half,0,1,2.0,love,True,False,False,B¨7,Bb,7,0,0,0,printed
+Love For Sale,69,70,Bb4,6,-1,whole,0,1,4.0,Love,True,False,False,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,70,70,Bb4,6,-1,quarter,0,1,1.0,,,,True,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,70,67,G4,4,0,half,0,1,2.0,for,True,False,False,E¨^,Eb,maj,9,5,4,printed
+Love For Sale,71,65,F4,3,0,whole,0,1,4.0,sale,True,False,False,B¨‹6,Bb,m6,7,0,7,printed
+Love For Sale,72,65,F4,3,0,half,1,1,3.0,,,,True,B¨‹6,Bb,m6,7,0,7,printed
+Love For Sale,73,70,Bb4,6,-1,eighth,0,1,0.5,ap,True,True,False,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,73,70,Bb4,6,-1,eighth,0,1,0.5,pe,False,True,False,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,73,70,Bb4,6,-1,quarter,0,1,1.0,tiz,False,True,False,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,73,70,Bb4,6,-1,quarter,0,1,1.0,ing,False,False,False,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,74,70,Bb4,6,-1,quarter,0,1,1.0,young,True,False,False,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,74,70,Bb4,6,-1,half,0,1,2.0,love,True,False,False,E¨^,Eb,maj,0,5,7,printed
+Love For Sale,74,67,G4,4,0,quarter,0,1,1.0,for,True,False,False,E¨^,Eb,maj,9,5,4,printed
+Love For Sale,75,65,F4,3,0,whole,0,1,4.0,sale,True,False,False,B¨‹6,Bb,m6,7,0,7,printed
+Love For Sale,76,65,F4,3,0,half,1,1,3.0,,,,True,B¨‹6,Bb,m6,7,0,7,printed
+Love For Sale,77,70,Bb4,6,-1,quarter,0,1,1.0,if,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
+Love For Sale,77,70,Bb4,6,-1,quarter,0,1,1.0,you,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
+Love For Sale,77,70,Bb4,6,-1,quarter,0,1,1.0,want,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
+Love For Sale,77,70,Bb4,6,-1,quarter,0,1,1.0,to,True,False,False,E¨‹7,Eb,m7,0,5,7,printed
+Love For Sale,78,70,Bb4,6,-1,quarter,0,1,1.0,buy,True,False,False,A¨7,Ab,7,0,10,2,printed
+Love For Sale,78,72,C5,7,0,quarter,0,1,1.0,my,True,False,False,A¨7,Ab,7,2,10,4,printed
+Love For Sale,78,72,C5,7,0,quarter,0,1,1.0,wares,True,False,False,A¨7,Ab,7,2,10,4,printed
+Love For Sale,79,73,Db5,8,-1,quarter,0,1,1.0,fol,True,True,False,D¨%,Db,6/9,3,3,0,printed
+Love For Sale,79,73,Db5,8,-1,quarter,0,1,1.0,low,False,False,False,D¨%,Db,6/9,3,3,0,printed
+Love For Sale,79,73,Db5,8,-1,quarter,0,1,1.0,me,True,False,False,D¨%,Db,6/9,3,3,0,printed
+Love For Sale,79,73,Db5,8,-1,quarter,0,1,1.0,and,True,False,False,D¨%,Db,6/9,3,3,0,printed
+Love For Sale,80,73,Db5,8,-1,quarter,0,1,1.0,climb,True,False,False,G¨7(#11),Gb,7(#11),3,8,7,printed
+Love For Sale,80,75,Eb5,9,-1,quarter,0,1,1.0,the,True,False,False,G¨7(#11),Gb,7(#11),5,8,9,printed
+Love For Sale,80,75,Eb5,9,-1,quarter,0,1,1.0,stairs,True,False,False,G¨7(#11),Gb,7(#11),5,8,9,printed
+Love For Sale,81,76,Fb5,10,-1,whole,0,1,4.0,love,True,False,False,C‹7(b5),C,m7(b5),6,2,4,printed
+Love For Sale,82,77,F5,10,0,quarter,0,1,1.0,,,,True,F7[áÆ],F,7(b13b9),7,7,0,printed
+Love For Sale,82,73,Db5,8,-1,half,0,1,2.0,for,True,False,False,F7[áÆ],F,7(b13b9),3,7,8,printed
+Love For Sale,83,70,Bb4,6,-1,whole,0,1,4.0,sale,True,False,False,B¨‹6,Bb,m6,0,0,0,printed
+Love For Sale,84,70,Bb4,6,-1,quarter,0,1,1.0,,,,True,B¨‹6,Bb,m6,0,0,0,printed
+Easy To Love,1,58,Bb3,-1,-1,quarter,0,1,1.0,I,True,False,False,G¨²,Gb,²,7,3,4,printed
+Easy To Love,1,59,Cb4,0,-1,quarter,0,1,1.0,know,True,False,False,G¨²,Gb,²,8,3,5,printed
+Easy To Love,1,61,Db4,1,-1,quarter,0,1,1.0,too,True,False,False,G¨²,Gb,²,10,3,7,printed
+Easy To Love,2,62,D4,1,0,quarter,1,1,1.5,well,True,False,False,E¨‹(^7),Eb,m(maj7),11,0,11,printed
+Easy To Love,2,63,Eb4,2,-1,eighth,0,1,0.5,that,True,False,False,E¨‹(^7),Eb,m(maj7),0,0,0,printed
+Easy To Love,2,70,Bb4,6,-1,half,0,1,2.0,I'm,True,False,False,E¨‹7,Eb,m7,7,0,7,printed
+Easy To Love,3,70,Bb4,6,-1,quarter,0,1,1.0,,,,True,G¨^9,Gb,maj9,7,3,4,printed
+Easy To Love,3,65,F4,3,0,quarter,0,1,1.0,just,True,False,False,G¨^9,Gb,maj9,2,3,11,printed
+Easy To Love,3,68,Ab4,5,-1,quarter,0,1,1.0,wast,True,True,False,G¨^9,Gb,maj9,5,3,2,printed
+Easy To Love,3,66,Gb4,4,-1,quarter,0,1,1.0,ing,False,False,False,G¨^9,Gb,maj9,3,3,0,printed
+Easy To Love,4,65,F4,3,0,quarter,1,1,1.5,pre,True,True,False,E¨‹7,Eb,m7,2,0,2,printed
+Easy To Love,4,62,D4,1,0,eighth,0,1,0.5,cioustime,False,False,False,E¨‹7,Eb,m7,11,0,11,printed
+Easy To Love,4,63,Eb4,2,-1,quarter,0,1,1.0,,,,True,E¨‹7,Eb,m7,0,0,0,printed
+Easy To Love,4,58,Bb3,-1,-1,quarter,0,1,1.0,in,True,False,False,E¨‹7,Eb,m7,7,0,7,printed
+Easy To Love,5,61,Db4,1,-1,quarter,0,1,1.0,think,True,True,False,A¨‹7,Ab,m7,10,5,5,printed
+Easy To Love,5,60,C4,0,0,quarter,0,1,1.0,ing,False,False,False,A¨‹7,Ab,m7,9,5,4,printed
+Easy To Love,5,59,Cb4,0,-1,quarter,0,1,1.0,such,True,False,False,A¨‹7,Ab,m7,8,5,3,printed
+Easy To Love,5,58,Bb3,-1,-1,quarter,0,1,1.0,a,True,False,False,A¨‹7,Ab,m7,7,5,2,printed
+Easy To Love,6,58,Bb3,-1,-1,quarter,1,1,1.5,thing,True,False,False,D¨7,Db,7,7,10,9,printed
+Easy To Love,6,55,G3,-3,0,eighth,0,1,0.5,coul,True,False,False,D¨7,Db,7,4,10,6,printed
+Easy To Love,6,56,Ab3,-2,-1,quarter,0,1,1.0,"be,",True,False,False,D¨7,Db,7,5,10,7,printed
+Easy To Love,6,58,Bb3,-1,-1,quarter,0,1,1.0,That,True,False,False,D¨7,Db,7,7,10,9,printed
+Easy To Love,7,61,Db4,1,-1,half,0,1,2.0,you,True,False,False,G¨²,Gb,²,10,3,7,printed
+Easy To Love,7,61,Db4,1,-1,eighth,0,1,0.5,,,,True,G¨²,Gb,²,10,3,7,printed
+Easy To Love,7,63,Eb4,2,-1,eighth,0,1,0.5,couldec,True,True,False,G¨²,Gb,²,0,3,9,printed
+Easy To Love,7,65,F4,3,0,eighth,0,1,0.5,,,,True,G¨²,Gb,²,2,3,11,printed
+Easy To Love,7,66,Gb4,4,-1,eighth,0,1,0.5,er,False,False,False,G¨²,Gb,²,3,3,0,printed
+Easy To Love,8,68,Ab4,5,-1,quarter,1,1,1.5,care,True,False,False,A¨‹7,Ab,m7,5,5,0,printed
+Easy To Love,8,70,Bb4,6,-1,eighth,0,1,0.5,for,True,False,False,A¨‹7,Ab,m7,7,5,2,printed
+Easy To Love,8,68,Ab4,5,-1,half,0,1,2.0,me.,True,False,False,D¨7(b9),Db,7(b9),5,10,7,printed
+Easy To Love,9,58,Bb3,-1,-1,quarter,0,1,1.0,I'm,True,False,False,G¨²,Gb,²,7,3,4,printed
+Easy To Love,9,59,Cb4,0,-1,quarter,0,1,1.0,sure,True,False,False,G¨²,Gb,²,8,3,5,printed
+Easy To Love,9,61,Db4,1,-1,quarter,0,1,1.0,you,True,False,False,G¨²,Gb,²,10,3,7,printed
+Easy To Love,10,62,D4,1,0,quarter,1,1,1.5,hate,True,False,False,D¨7(b9),Db,7(b9),11,10,1,printed
+Easy To Love,10,63,Eb4,2,-1,eighth,0,1,0.5,to,True,False,False,D¨7(b9),Db,7(b9),0,10,2,printed
+Easy To Love,10,71,Cb5,7,-1,half,0,1,2.0,hear,True,False,False,D¨9,Db,9,8,10,10,printed
+Easy To Love,11,71,Cb5,7,-1,quarter,0,1,1.0,,,,True,G¨²,Gb,²,8,3,5,printed
+Easy To Love,11,70,Bb4,6,-1,quarter,0,1,1.0,That,True,False,False,G¨²,Gb,²,7,3,4,printed
+Easy To Love,11,69,A4,5,0,quarter,0,1,1.0,I,True,False,False,G¨²,Gb,²,6,3,3,printed
+Easy To Love,11,66,Gb4,4,-1,quarter,0,1,1.0,a,True,True,False,G¨²,Gb,²,3,3,0,printed
+Easy To Love,12,65,F4,3,0,quarter,1,1,1.5,dore,False,False,False,E¨‹7,Eb,m7,2,0,2,printed
+Easy To Love,12,62,D4,1,0,eighth,0,1,0.5,you,True,False,False,E¨‹7,Eb,m7,11,0,11,printed
+Easy To Love,12,63,Eb4,2,-1,quarter,0,1,1.0,"dear,",True,False,False,E¨‹7,Eb,m7,0,0,0,printed
+Easy To Love,12,64,Fb4,3,-1,quarter,0,1,1.0,But,True,False,False,E¨‹7,Eb,m7,1,0,1,printed
+Easy To Love,13,65,F4,3,0,quarter,0,1,1.0,grant,True,False,False,B¨²,Bb,²,2,7,7,printed
+Easy To Love,13,64,Fb4,3,-1,quarter,0,1,1.0,"me,",True,False,False,B¨²,Bb,²,1,7,6,printed
+Easy To Love,13,63,Eb4,2,-1,quarter,0,1,1.0,just,True,False,False,B¨²,Bb,²,0,7,5,printed
+Easy To Love,13,62,D4,1,0,quarter,0,1,1.0,the,True,False,False,B¨²,Bb,²,11,7,4,printed
+Easy To Love,14,67,G4,4,0,half,0,1,2.0,same,True,False,False,E¨²,Eb,²,4,0,4,printed
+Easy To Love,14,67,G4,4,0,eighth,0,1,0.5,,,,True,E¨²,Eb,²,4,0,4,printed
+Easy To Love,14,55,G3,-3,0,eighth,0,1,0.5,I'm,True,False,False,E¨²,Eb,²,4,0,4,printed
+Easy To Love,14,54,F#3,-4,1,eighth,0,1,0.5,not,True,False,False,E¨²,Eb,²,3,0,3,printed
+Easy To Love,14,55,G3,-3,0,eighth,0,1,0.5,en,True,True,False,E¨²,Eb,²,4,0,4,printed
+Easy To Love,15,63,Eb4,2,-1,half,0,1,2.0,tire,False,True,False,C‹7,C,m7,0,9,3,printed
+Easy To Love,15,62,D4,1,0,quarter,1,1,1.5,ly,False,False,False,F7,F,7,11,2,9,printed
+Easy To Love,15,60,C4,0,0,eighth,0,1,0.5,to,True,False,False,F7,F,7,9,2,7,printed
+Easy To Love,16,58,Bb3,-1,-1,half,0,1,2.0,"blame,",True,False,False,B¨6,Bb,6,7,7,0,printed
+Easy To Love,16,59,Cb4,0,-1,half,0,1,2.0,for,True,False,False,B¨6,Bb,6,8,7,1,printed
+Easy To Love,17,60,C4,0,0,whole,0,1,4.0,Yosu'd,True,False,False,F‹7,F,m7,9,2,7,printed
+Easy To Love,18,53,F3,-4,0,half,1,1,3.0,be,True,False,False,B¨‹7,Bb,m7,2,7,7,printed
+Easy To Love,18,55,G3,-3,0,quarter,0,1,1.0,so,True,False,False,C7(b9),C,7(b9),4,9,7,printed
+Easy To Love,19,56,Ab3,-2,-1,half,0,1,2.0,eas,True,True,False,F‹7,F,m7,5,2,3,printed
+Easy To Love,19,55,G3,-3,0,quarter,1,1,1.5,y,False,False,False,F‹7,F,m7,4,2,2,printed
+Easy To Love,19,56,Ab3,-2,-1,eighth,0,1,0.5,to,True,False,False,F‹7,F,m7,5,2,3,printed
+Easy To Love,20,62,D4,1,0,half,1,1,3.0,"love,",True,False,False,B¨7,Bb,7,11,7,4,printed
+Easy To Love,20,60,C4,0,0,quarter,0,1,1.0,So,True,False,False,B¨7,Bb,7,9,7,2,printed
+Easy To Love,21,58,Bb3,-1,-1,half,0,1,2.0,eas,True,True,False,E¨²,Eb,²,7,0,7,printed
+Easy To Love,21,57,A3,-2,0,quarter,0,1,1.0,y,False,False,False,E¨²,Eb,²,6,0,6,printed
+Easy To Love,21,58,Bb3,-1,-1,quarter,0,1,1.0,to,True,False,False,E¨²,Eb,²,7,0,7,printed
+Easy To Love,22,65,F4,3,0,quarter,0,1,1.0,i,True,True,False,A¨9,Ab,9,2,5,9,printed
+Easy To Love,22,64,Fb4,3,-1,quarter,0,1,1.0,do,False,True,False,A¨9,Ab,9,1,5,8,printed
+Easy To Love,22,63,Eb4,2,-1,quarter,0,1,1.0,"lize,",False,False,False,A¨9,Ab,9,0,5,7,printed
+Easy To Love,22,62,D4,1,0,quarter,0,1,1.0,all,True,False,False,A¨9,Ab,9,11,5,6,printed
+Easy To Love,23,60,C4,0,0,half,0,1,2.0,oth,True,True,False,E¨%,Eb,6/9,9,0,9,printed
+Easy To Love,23,59,B3,-1,0,quarter,1,1,1.5,ers,False,False,False,E¨%,Eb,6/9,8,0,8,printed
+Easy To Love,23,60,C4,0,0,eighth,0,1,0.5,a,True,True,False,E¨%,Eb,6/9,9,0,9,printed
+Easy To Love,24,70,Bb4,6,-1,whole,0,1,4.0,bove,False,False,False,E¨%,Eb,6/9,7,0,7,printed
+Easy To Love,25,70,Bb4,6,-1,whole,0,1,4.0,So,True,False,False,F‹7,F,m7,7,2,5,printed
+Easy To Love,26,60,C4,0,0,half,1,1,3.0,worth,True,False,False,B¨9(“4) B¨9,Bb,9(“4) Bb9,9,7,2,printed
+Easy To Love,26,62,D4,1,0,quarter,0,1,1.0,the,True,False,False,B¨7(b9),Bb,7(b9),11,7,4,printed
+Easy To Love,27,67,G4,4,0,quarter,0,1,1.0,yearn,True,True,False,E¨²,Eb,²,4,0,4,printed
+Easy To Love,27,67,G4,4,0,quarter,0,1,1.0,ing,False,False,False,E¨²,Eb,²,4,0,4,printed
+Easy To Love,27,67,G4,4,0,half,0,1,2.0,for,True,False,False,A¨²,Ab,²,4,5,11,printed
+Easy To Love,28,67,G4,4,0,quarter,0,1,1.0,,,,True,G‹7,G,m7,4,4,0,printed
+Easy To Love,29,70,Bb4,6,-1,quarter,0,1,1.0,So,True,False,False,F‹7,F,m7,7,2,5,printed
+Easy To Love,29,58,Bb3,-1,-1,quarter,1,1,1.5,swell,True,False,False,F‹7,F,m7,7,2,5,printed
+Easy To Love,29,58,Bb3,-1,-1,eighth,0,1,0.5,to,True,False,False,B¨7(b9“4),Bb,7(b9“4),7,7,0,printed
+Easy To Love,30,59,Cb4,0,-1,eighth,0,1,0.5,keep,True,False,False,B¨7(b9“4),Bb,7(b9“4),8,7,1,printed
+Easy To Love,30,59,Cb4,0,-1,quarter,0,1,1.0,ev,True,True,False,B¨7(b9“4),Bb,7(b9“4),8,7,1,printed
+Easy To Love,30,59,Cb4,0,-1,eighth,0,1,0.5,ry,False,False,False,B¨7(b9“4),Bb,7(b9“4),8,7,1,printed
+Easy To Love,30,60,C4,0,0,quarter,0,1,1.0,home,True,False,False,B¨9,Bb,9,9,7,2,printed
+Easy To Love,30,60,C4,0,0,eighth,0,1,0.5,fireburn,True,True,False,B¨9,Bb,9,9,7,2,printed
+Easy To Love,30,62,D4,1,0,eighth,0,1,0.5,,,,True,B¨9,Bb,9,11,7,4,printed
+Easy To Love,31,62,D4,1,0,quarter,0,1,1.0,,,,True,G‹7,G,m7,11,4,7,printed
+Easy To Love,31,62,D4,1,0,quarter,0,1,1.0,ing,False,False,False,G‹7,G,m7,11,4,7,printed
+Easy To Love,31,62,D4,1,0,half,0,1,2.0,for,True,False,False,G‹7,G,m7,11,4,7,printed
+Easy To Love,32,62,D4,1,0,quarter,0,1,1.0,,,,True,G¨º7,Gb,dim7,11,3,8,printed
+Easy To Love,33,60,C4,0,0,whole,0,1,4.0,We'd,True,False,False,G¨º7,Gb,dim7,9,3,6,printed
+Easy To Love,34,53,F3,-4,0,half,1,1,3.0,be,True,False,False,B¨‹7,Bb,m7,2,7,7,printed
+Easy To Love,34,55,G3,-3,0,quarter,0,1,1.0,so,True,False,False,C7(b9),C,7(b9),4,9,7,printed
+Easy To Love,35,56,Ab3,-2,-1,half,0,1,2.0,grand,True,False,False,F‹7,F,m7,5,2,3,printed
+Easy To Love,35,55,G3,-3,0,quarter,1,1,1.5,at,True,False,False,F‹7,F,m7,4,2,2,printed
+Easy To Love,35,56,Ab3,-2,-1,eighth,0,1,0.5,the,True,False,False,F‹7,F,m7,5,2,3,printed
+Easy To Love,36,62,D4,1,0,half,1,1,3.0,"game,",True,False,False,B¨7,Bb,7,11,7,4,printed
+Easy To Love,36,60,C4,0,0,quarter,0,1,1.0,So,True,False,False,B¨7,Bb,7,9,7,2,printed
+Easy To Love,37,58,Bb3,-1,-1,half,0,1,2.0,care,True,True,False,E¨²,Eb,²,7,0,7,printed
+Easy To Love,37,57,A3,-2,0,quarter,0,1,1.0,free,False,False,False,E¨²,Eb,²,6,0,6,printed
+Easy To Love,37,58,Bb3,-1,-1,quarter,0,1,1.0,to,True,True,False,E¨²,Eb,²,7,0,7,printed
+Easy To Love,38,65,F4,3,0,quarter,0,1,1.0,geth,False,True,False,A¨9,Ab,9,2,5,9,printed
+Easy To Love,38,64,Fb4,3,-1,quarter,0,1,1.0,er,False,False,False,A¨9,Ab,9,1,5,8,printed
+Easy To Love,38,63,Eb4,2,-1,quarter,0,1,1.0,that,True,False,False,A¨9,Ab,9,0,5,7,printed
+Easy To Love,38,62,D4,1,0,quarter,0,1,1.0,it,True,False,False,A¨9,Ab,9,11,5,6,printed
+Easy To Love,39,60,C4,0,0,half,0,1,2.0,does,True,False,False,E¨%,Eb,6/9,9,0,9,printed
+Easy To Love,39,59,B3,-1,0,quarter,1,1,1.5,seem,True,False,False,E¨%,Eb,6/9,8,0,8,printed
+Easy To Love,39,60,C4,0,0,eighth,0,1,0.5,a,True,False,False,E¨%,Eb,6/9,9,0,9,printed
+Easy To Love,40,72,C5,7,0,half,1,1,3.0,shsame,True,False,False,E¨%,Eb,6/9,9,0,9,printed
+Easy To Love,40,67,G4,4,0,quarter,0,1,1.0,that,True,False,False,C7(b9),C,7(b9),4,9,7,printed
+Easy To Love,41,70,Bb4,6,-1,half,1,1,3.0,you,True,False,False,F‹7,F,m7,7,2,5,printed
+Easy To Love,41,65,F4,3,0,quarter,0,1,1.0,can't,True,False,False,F‹7,F,m7,2,2,0,printed
+Easy To Love,42,68,Ab4,5,-1,half,1,1,3.0,see,True,False,False,D¨9,Db,9,5,10,7,printed
+Easy To Love,42,63,Eb4,2,-1,quarter,0,1,1.0,your,True,False,False,D¨9,Db,9,0,10,2,printed
+Easy To Love,43,67,G4,4,0,half,0,1,2.0,fu,True,True,False,E¨²,Eb,²,4,0,4,printed
+Easy To Love,43,62,D4,1,0,quarter,0,1,1.0,ture,False,False,False,E¨²,Eb,²,11,0,11,printed
+Easy To Love,43,63,Eb4,2,-1,quarter,0,1,1.0,with,True,False,False,E¨²,Eb,²,0,0,0,printed
+Easy To Love,44,65,F4,3,0,quarter,0,1,1.0,me,True,False,False,G‹7,G,m7,2,4,10,printed
+Easy To Love,44,64,Fb4,3,-1,quarter,0,1,1.0,'cause,True,False,False,G‹7,G,m7,1,4,9,printed
+Easy To Love,44,63,Eb4,2,-1,quarter,0,1,1.0,you'd,True,False,False,G¨º7,Gb,dim7,0,3,9,printed
+Easy To Love,44,62,D4,1,0,quarter,0,1,1.0,be,True,False,False,G¨º7,Gb,dim7,11,3,8,printed
+Easy To Love,45,60,C4,0,0,half,0,1,2.0,"oh,",True,False,False,F‹7,F,m7,9,2,7,printed
+Easy To Love,45,67,G4,4,0,half,0,1,2.0,so,True,False,False,F‹7,F,m7,4,2,2,printed
+Easy To Love,46,67,G4,4,0,half,0,1,2.0,Eas,True,True,False,B¨7(b9),Bb,7(b9),4,7,9,printed
+Easy To Love,46,66,Gb4,4,-1,quarter,0,1,1.0,y,False,False,False,B¨7(b9),Bb,7(b9),3,7,8,printed
+Easy To Love,46,65,F4,3,0,quarter,0,1,1.0,to,True,False,False,B¨7(b9),Bb,7(b9),2,7,7,printed
+Easy To Love,47,63,Eb4,2,-1,half,0,1,2.0,love!,True,False,False,E¨6,Eb,6,0,0,0,printed
+Easy To Love,47,63,Eb4,2,-1,half,0,1,2.0,,,,True,E¨6,Eb,6,0,0,0,printed
+Easy To Love,48,63,Eb4,2,-1,quarter,0,1,1.0,,,,True,E¨6,Eb,6,0,0,0,printed
 Every Time We Say Goodbye,1,67,G4,4,0,quarter,1,1,1.5,Ev,True,True,False,E¨^,Eb,maj,4,0,4,printed
 Every Time We Say Goodbye,1,67,G4,4,0,eighth,0,1,0.5,'ry,False,False,False,E¨^,Eb,maj,4,0,4,printed
 Every Time We Say Goodbye,1,67,G4,4,0,half,0,1,2.0,time,True,False,False,Fm7,F,m7,4,2,2,printed
@@ -2125,68 +2130,3 @@ You're The Top,47,77,F5,10,0,quarter,1,1,1.5,,,,True,G‹7/C,G,m7/C,0,2,10,print
 You're The Top,47,77,F5,10,0,eighth,0,1,0.5,the,True,False,False,G‹7/C,G,m7/C,0,2,10,printed
 You're The Top,48,77,F5,10,0,quarter,0,1,1.0,top!,True,False,False,G‹7/C,G,m7/C,0,2,10,printed
 You're The Top,50,77,F5,10,0,quarter,0,1,1.0,top!,True,False,False,G‹7/C,G,m7/C,0,2,10,printed
-Love For Sale (verse),1,65,F4,3,0,eighth,0,1,0.5,When,True,False,False,Bb,Bb,,7,0,7,secondary
-Love For Sale (verse),1,65,F4,3,0,eighth,0,1,0.5,the,True,False,False,Bb,Bb,,7,0,7,secondary
-Love For Sale (verse),2,70,Bb4,6,-1,quarter,0,1,1.0,on,True,True,False,Bb,Bb,,0,0,0,secondary
-Love For Sale (verse),2,70,Bb4,6,-1,quarter,0,1,1.0,ly,False,False,False,Bb,Bb,,0,0,0,secondary
-Love For Sale (verse),2,70,Bb4,6,-1,quarter,0,1,1.0,sound,True,False,False,Bb,Bb,,0,0,0,secondary
-Love For Sale (verse),2,70,Bb4,6,-1,eighth,0,1,0.5,in,True,False,False,Bb,Bb,,0,0,0,secondary
-Love For Sale (verse),2,70,Bb4,6,-1,eighth,0,1,0.5,the,True,False,False,Bb,Bb,,0,0,0,secondary
-Love For Sale (verse),3,68,Ab4,5,-1,quarter,0,1,1.0,emp,True,True,False,Ab,Ab,,10,10,0,secondary
-Love For Sale (verse),3,68,Ab4,5,-1,quarter,0,1,1.0,ty,False,False,False,Ab,Ab,,10,10,0,secondary
-Love For Sale (verse),3,75,Eb5,9,-1,quarter,0,1,1.0,street,True,False,False,Ab,Ab,,5,10,7,secondary
-Love For Sale (verse),3,72,C5,7,0,eighth,0,1,0.5,Is,True,False,False,Ab,Ab,,2,10,4,secondary
-Love For Sale (verse),3,68,Ab4,5,-1,eighth,0,1,0.5,the,True,False,False,Ab,Ab,,10,10,0,secondary
-Love For Sale (verse),4,66,Gb4,4,-1,quarter,0,1,1.0,heav,True,True,False,Gb,Gb,,8,8,0,secondary
-Love For Sale (verse),4,66,Gb4,4,-1,quarter,0,1,1.0,y,False,False,False,Gb,Gb,,8,8,0,secondary
-Love For Sale (verse),4,66,Gb4,4,-1,quarter,0,1,1.0,tread,True,False,False,Gb,Gb,,8,8,0,secondary
-Love For Sale (verse),4,66,Gb4,4,-1,eighth,0,1,0.5,of,True,False,False,Gb,Gb,,8,8,0,secondary
-Love For Sale (verse),4,66,Gb4,4,-1,eighth,0,1,0.5,the,True,False,False,Gb,Gb,,8,8,0,secondary
-Love For Sale (verse),5,65,F4,3,0,quarter,0,1,1.0,heav,True,True,False,Fm6,F,m6,7,7,0,secondary
-Love For Sale (verse),5,65,F4,3,0,quarter,0,1,1.0,y,False,False,False,Fm6,F,m6,7,7,0,secondary
-Love For Sale (verse),5,72,C5,7,0,quarter,0,1,1.0,feet,True,False,False,Fm6,F,m6,2,7,7,secondary
-Love For Sale (verse),5,68,Ab4,5,-1,eighth,0,1,0.5,That,True,False,False,Fm6,F,m6,10,7,3,secondary
-Love For Sale (verse),5,65,F4,3,0,eighth,0,1,0.5,be,True,True,False,Fm6,F,m6,7,7,0,secondary
-Love For Sale (verse),6,63,Eb4,2,-1,quarter,0,1,1.0,longs,False,False,False,Ebm7,Eb,m7,5,5,0,secondary
-Love For Sale (verse),6,63,Eb4,2,-1,eighth,0,1,0.5,to,True,False,False,Ebm7,Eb,m7,5,5,0,secondary
-Love For Sale (verse),6,63,Eb4,2,-1,eighth,0,1,0.5,a,True,False,False,Ebm7,Eb,m7,5,5,0,secondary
-Love For Sale (verse),6,66,Gb4,4,-1,quarter,1,1,1.5,lone,True,True,False,Ebm7,Eb,m7,8,5,3,secondary
-Love For Sale (verse),6,65,F4,3,0,eighth,0,1,0.5,some,False,False,False,Ebm7,Eb,m7,7,5,2,secondary
-Love For Sale (verse),7,68,Ab4,5,-1,whole,0,1,4.0,cop,True,False,False,Dbmaj7,Db,maj7,10,3,7,secondary
-Love For Sale (verse),8,69,A4,5,0,whole,0,1,4.0,I,True,False,False,F7,F,7,11,7,4,secondary
-Love For Sale (verse),9,69,A4,5,0,half,0,1,2.0,,,,True,F7(b9),F,7(b9),11,7,4,secondary
-Love For Sale (verse),9,66,Gb4,4,-1,quarter,1,1,1.5,o,True,True,False,F7(b9),F,7(b9),8,7,1,secondary
-Love For Sale (verse),9,66,Gb4,4,-1,eighth,0,1,0.5,pen,False,False,False,F7(b9),F,7(b9),8,7,1,secondary
-Love For Sale (verse),10,65,F4,3,0,quarter,0,1,1.0,shop,True,False,False,Bbm,Bb,m,7,0,7,secondary
-Love For Sale (verse),11,65,F4,3,0,eighth,0,1,0.5,When,True,False,False,Cm7(b5),C,m7(b5),7,2,5,secondary
-Love For Sale (verse),11,65,F4,3,0,eighth,0,1,0.5,the,True,False,False,Cm7(b5),C,m7(b5),7,2,5,secondary
-Love For Sale (verse),12,70,Bb4,6,-1,quarter,0,1,1.0,moon,True,False,False,Bb7,Bb,7,0,0,0,secondary
-Love For Sale (verse),12,70,Bb4,6,-1,quarter,0,1,1.0,so,True,False,False,Bb7,Bb,7,0,0,0,secondary
-Love For Sale (verse),12,70,Bb4,6,-1,quarter,0,1,1.0,long,True,False,False,Bb7,Bb,7,0,0,0,secondary
-Love For Sale (verse),12,70,Bb4,6,-1,eighth,0,1,0.5,has,True,False,False,Bb7,Bb,7,0,0,0,secondary
-Love For Sale (verse),12,70,Bb4,6,-1,eighth,0,1,0.5,been,True,False,False,Bb7,Bb,7,0,0,0,secondary
-Love For Sale (verse),13,68,Ab4,5,-1,quarter,0,1,1.0,gaz,True,True,False,Ab7,Ab,7,10,10,0,secondary
-Love For Sale (verse),13,68,Ab4,5,-1,quarter,0,1,1.0,ing,False,False,False,Ab7,Ab,7,10,10,0,secondary
-Love For Sale (verse),13,75,Eb5,9,-1,quarter,0,1,1.0,down,True,False,False,Ab7,Ab,7,5,10,7,secondary
-Love For Sale (verse),13,72,C5,7,0,eighth,0,1,0.5,On,True,False,False,Ab7,Ab,7,2,10,4,secondary
-Love For Sale (verse),13,68,Ab4,5,-1,eighth,0,1,0.5,the,True,False,False,Ab7,Ab,7,10,10,0,secondary
-Love For Sale (verse),14,66,Gb4,4,-1,quarter,0,1,1.0,way,True,True,False,Gb7,Gb,7,8,8,0,secondary
-Love For Sale (verse),14,66,Gb4,4,-1,quarter,0,1,1.0,ward,False,False,False,Gb7,Gb,7,8,8,0,secondary
-Love For Sale (verse),14,66,Gb4,4,-1,quarter,0,1,1.0,ways,True,False,False,Gb7,Gb,7,8,8,0,secondary
-Love For Sale (verse),14,66,Gb4,4,-1,eighth,0,1,0.5,of,True,False,False,Gb7,Gb,7,8,8,0,secondary
-Love For Sale (verse),14,66,Gb4,4,-1,eighth,0,1,0.5,this,True,False,False,Gb7,Gb,7,8,8,0,secondary
-Love For Sale (verse),15,64,E4,2,0,quarter,0,1,1.0,way,True,True,False,E7,E,7,6,6,0,secondary
-Love For Sale (verse),15,64,E4,2,0,quarter,0,1,1.0,ward,False,False,False,E7,E,7,6,6,0,secondary
-Love For Sale (verse),15,73,C#5,7,1,quarter,0,1,1.0,town,True,False,False,E7,E,7,3,6,9,secondary
-Love For Sale (verse),15,71,B4,6,0,eighth,0,1,0.5,That,True,False,False,E7,E,7,1,6,7,secondary
-Love For Sale (verse),15,68,G#4,4,1,eighth,0,1,0.5,her,True,False,False,E7,E,7,10,6,4,secondary
-Love For Sale (verse),16,64,E4,2,0,quarter,0,1,1.0,smile,True,False,False,A,A,,6,11,7,secondary
-Love For Sale (verse),16,64,E4,2,0,quarter,0,1,1.0,be,True,True,False,A,A,,6,11,7,secondary
-Love For Sale (verse),16,66,F#4,3,1,quarter,1,1,1.5,comes,False,False,False,A,A,,8,11,9,secondary
-Love For Sale (verse),16,64,E4,2,0,eighth,0,1,0.5,a,True,False,False,A,A,,6,11,7,secondary
-Love For Sale (verse),17,68,Ab4,5,-1,whole,0,1,4.0,smirk,True,False,False,Ab7,Ab,7,10,10,0,secondary
-Love For Sale (verse),18,69,A4,5,0,whole,0,1,4.0,I,True,False,False,F13,F,13,11,7,4,secondary
-Love For Sale (verse),19,69,A4,5,0,half,0,1,2.0,,,,True,Bb,Bb,,11,0,11,secondary
-Love For Sale (verse),19,62,D4,1,0,quarter,1,1,1.5,go,True,False,False,Bb,Bb,,4,0,4,secondary
-Love For Sale (verse),19,60,C4,0,0,eighth,0,1,0.5,to,True,False,False,Bb,Bb,,2,0,2,secondary
-Love For Sale (verse),20,58,Bb3,-1,-1,quarter,0,1,1.0,work,True,False,False,Bb,Bb,,0,0,0,secondary
