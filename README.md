@@ -114,6 +114,12 @@ taken from each song's final chord.
   a major-mode tonic.
 - Hyphen side-assignment occasionally slips by one (`un der-` for `un- der`).
   Syllable boundaries are unaffected; word reconstruction is.
+- **Syllables are recorded as printed, typos included.** One edition sets "a
+  thing coul be" and "could ec-er care"; the engraving really says that, and
+  silently correcting it would make the data disagree with its source.
+- A word engraved with no space glyph between it and the next comes through
+  joined (`cioustime`, `fireburn ing`). The space is absent from the file, not
+  dropped in reading.
 
 ## Licence
 

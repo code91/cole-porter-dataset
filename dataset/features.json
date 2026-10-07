@@ -1,8 +1,8 @@
 {
  "all": {
   "n_events": 2131,
-  "n_attachments": 1837,
-  "melisma_rate": 0.138,
+  "n_attachments": 1836,
+  "melisma_rate": 0.1384,
   "chord_quality": {
    "7": 380,
    "m7": 358,
@@ -161,13 +161,13 @@
    "whole": 130
   },
   "syllables_per_word": {
-   "1": 1517
+   "1": 1516
   }
  },
  "corpus": {
   "n_events": 1024,
-  "n_attachments": 881,
-  "melisma_rate": 0.1396,
+  "n_attachments": 880,
+  "melisma_rate": 0.1406,
   "chord_quality": {
    "7": 191,
    "m7": 129,
@@ -277,7 +277,7 @@
    "whole": 64
   },
   "syllables_per_word": {
-   "1": 733
+   "1": 732
   }
  }
 }
