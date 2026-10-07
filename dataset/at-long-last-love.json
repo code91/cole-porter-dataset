@@ -5,6 +5,9 @@
  "events": [
   {
    "bar": 1,
+   "page": 1,
+   "system": 0,
+   "x": 137.64,
    "midi": 62,
    "pitch_name": "D4",
    "dia": 1,
@@ -26,6 +29,9 @@
   },
   {
    "bar": 1,
+   "page": 1,
+   "system": 0,
+   "x": 157.17,
    "midi": 63,
    "pitch_name": "Eb4",
    "dia": 2,
@@ -47,6 +53,9 @@
   },
   {
    "bar": 1,
+   "page": 1,
+   "system": 0,
+   "x": 176.54,
    "midi": 65,
    "pitch_name": "F4",
    "dia": 3,
@@ -68,6 +77,9 @@
   },
   {
    "bar": 2,
+   "page": 1,
+   "system": 0,
+   "x": 208.67,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -89,6 +101,9 @@
   },
   {
    "bar": 2,
+   "page": 1,
+   "system": 0,
+   "x": 249.78,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -110,6 +125,9 @@
   },
   {
    "bar": 3,
+   "page": 1,
+   "system": 0,
+   "x": 298.28,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -131,6 +149,9 @@
   },
   {
    "bar": 3,
+   "page": 1,
+   "system": 0,
+   "x": 322.54,
    "midi": 65,
    "pitch_name": "F4",
    "dia": 3,
@@ -152,6 +173,9 @@
   },
   {
    "bar": 3,
+   "page": 1,
+   "system": 0,
+   "x": 346.63,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -173,6 +197,9 @@
   },
   {
    "bar": 3,
+   "page": 1,
+   "system": 0,
+   "x": 366.0,
    "midi": 65,
    "pitch_name": "F4",
    "dia": 3,
@@ -194,6 +221,9 @@
   },
   {
    "bar": 3,
+   "page": 1,
+   "system": 0,
+   "x": 385.53,
    "midi": 63,
    "pitch_name": "Eb4",
    "dia": 2,
@@ -215,6 +245,9 @@
   },
   {
    "bar": 4,
+   "page": 1,
+   "system": 0,
+   "x": 412.46,
    "midi": 62,
    "pitch_name": "D4",
    "dia": 1,
@@ -236,6 +269,9 @@
   },
   {
    "bar": 5,
+   "page": 1,
+   "system": 0,
+   "x": 476.56,
    "midi": 62,
    "pitch_name": "D4",
    "dia": 1,
@@ -257,6 +293,9 @@
   },
   {
    "bar": 5,
+   "page": 1,
+   "system": 0,
+   "x": 524.91,
    "midi": 62,
    "pitch_name": "D4",
    "dia": 1,
@@ -278,6 +317,9 @@
   },
   {
    "bar": 5,
+   "page": 1,
+   "system": 0,
+   "x": 544.28,
    "midi": 63,
    "pitch_name": "Eb4",
    "dia": 2,
@@ -299,6 +341,9 @@
   },
   {
    "bar": 5,
+   "page": 1,
+   "system": 0,
+   "x": 563.81,
    "midi": 65,
    "pitch_name": "F4",
    "dia": 3,
@@ -320,6 +365,9 @@
   },
   {
    "bar": 6,
+   "page": 1,
+   "system": 1,
+   "x": 87.41,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -341,6 +389,9 @@
   },
   {
    "bar": 6,
+   "page": 1,
+   "system": 1,
+   "x": 118.27,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -362,6 +413,9 @@
   },
   {
    "bar": 6,
+   "page": 1,
+   "system": 1,
+   "x": 140.64,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -383,6 +437,9 @@
   },
   {
    "bar": 6,
+   "page": 1,
+   "system": 1,
+   "x": 163.0,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -404,6 +461,9 @@
   },
   {
    "bar": 7,
+   "page": 1,
+   "system": 1,
+   "x": 254.03,
    "midi": 65,
    "pitch_name": "F4",
    "dia": 3,
@@ -425,6 +485,9 @@
   },
   {
    "bar": 7,
+   "page": 1,
+   "system": 1,
+   "x": 284.9,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -446,6 +509,9 @@
   },
   {
    "bar": 7,
+   "page": 1,
+   "system": 1,
+   "x": 309.78,
    "midi": 65,
    "pitch_name": "F4",
    "dia": 3,
@@ -467,6 +533,9 @@
   },
   {
    "bar": 7,
+   "page": 1,
+   "system": 1,
+   "x": 334.51,
    "midi": 62,
    "pitch_name": "D4",
    "dia": 1,
@@ -488,6 +557,9 @@
   },
   {
    "bar": 8,
+   "page": 1,
+   "system": 1,
+   "x": 366.95,
    "midi": 60,
    "pitch_name": "C4",
    "dia": 0,
@@ -509,6 +581,9 @@
   },
   {
    "bar": 9,
+   "page": 1,
+   "system": 1,
+   "x": 446.79,
    "midi": 60,
    "pitch_name": "C4",
    "dia": 0,
@@ -530,6 +605,9 @@
   },
   {
    "bar": 9,
+   "page": 1,
+   "system": 1,
+   "x": 508.69,
    "midi": 63,
    "pitch_name": "Eb4",
    "dia": 2,
@@ -551,6 +629,9 @@
   },
   {
    "bar": 9,
+   "page": 1,
+   "system": 1,
+   "x": 533.57,
    "midi": 65,
    "pitch_name": "F4",
    "dia": 3,
@@ -572,6 +653,9 @@
   },
   {
    "bar": 9,
+   "page": 1,
+   "system": 1,
+   "x": 558.3,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -593,6 +677,9 @@
   },
   {
    "bar": 10,
+   "page": 1,
+   "system": 2,
+   "x": 87.41,
    "midi": 69,
    "pitch_name": "A4",
    "dia": 5,
@@ -614,6 +701,9 @@
   },
   {
    "bar": 10,
+   "page": 1,
+   "system": 2,
+   "x": 142.53,
    "midi": 69,
    "pitch_name": "A4",
    "dia": 5,
@@ -635,6 +725,9 @@
   },
   {
    "bar": 11,
+   "page": 1,
+   "system": 2,
+   "x": 205.21,
    "midi": 69,
    "pitch_name": "A4",
    "dia": 5,
@@ -656,6 +749,9 @@
   },
   {
    "bar": 11,
+   "page": 1,
+   "system": 2,
+   "x": 237.81,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -677,6 +773,9 @@
   },
   {
    "bar": 11,
+   "page": 1,
+   "system": 2,
+   "x": 270.25,
    "midi": 69,
    "pitch_name": "A4",
    "dia": 5,
@@ -698,6 +797,9 @@
   },
   {
    "bar": 11,
+   "page": 1,
+   "system": 2,
+   "x": 296.39,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -719,6 +821,9 @@
   },
   {
    "bar": 11,
+   "page": 1,
+   "system": 2,
+   "x": 322.54,
    "midi": 65,
    "pitch_name": "F4",
    "dia": 3,
@@ -740,6 +845,9 @@
   },
   {
    "bar": 12,
+   "page": 1,
+   "system": 2,
+   "x": 356.24,
    "midi": 63,
    "pitch_name": "Eb4",
    "dia": 2,
@@ -761,6 +869,9 @@
   },
   {
    "bar": 13,
+   "page": 1,
+   "system": 2,
+   "x": 439.87,
    "midi": 63,
    "pitch_name": "Eb4",
    "dia": 2,
@@ -782,6 +893,9 @@
   },
   {
    "bar": 13,
+   "page": 1,
+   "system": 2,
+   "x": 472.31,
    "midi": 59,
    "pitch_name": "B3",
    "dia": -1,
@@ -803,6 +917,9 @@
   },
   {
    "bar": 13,
+   "page": 1,
+   "system": 2,
+   "x": 504.75,
    "midi": 60,
    "pitch_name": "C4",
    "dia": 0,
@@ -824,6 +941,9 @@
   },
   {
    "bar": 13,
+   "page": 1,
+   "system": 2,
+   "x": 530.89,
    "midi": 63,
    "pitch_name": "Eb4",
    "dia": 2,
@@ -845,6 +965,9 @@
   },
   {
    "bar": 13,
+   "page": 1,
+   "system": 2,
+   "x": 557.04,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -866,6 +989,9 @@
   },
   {
    "bar": 14,
+   "page": 1,
+   "system": 3,
+   "x": 87.41,
    "midi": 70,
    "pitch_name": "Bb4",
    "dia": 6,
@@ -887,6 +1013,9 @@
   },
   {
    "bar": 14,
+   "page": 1,
+   "system": 3,
+   "x": 162.06,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -908,6 +1037,9 @@
   },
   {
    "bar": 15,
+   "page": 1,
+   "system": 3,
+   "x": 206.62,
    "midi": 70,
    "pitch_name": "Bb4",
    "dia": 6,
@@ -929,6 +1061,9 @@
   },
   {
    "bar": 15,
+   "page": 1,
+   "system": 3,
+   "x": 281.27,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -950,6 +1085,9 @@
   },
   {
    "bar": 16,
+   "page": 1,
+   "system": 3,
+   "x": 325.84,
    "midi": 70,
    "pitch_name": "Bb4",
    "dia": 6,
@@ -971,6 +1109,9 @@
   },
   {
    "bar": 17,
+   "page": 1,
+   "system": 3,
+   "x": 420.02,
    "midi": 70,
    "pitch_name": "Bb4",
    "dia": 6,
@@ -992,6 +1133,9 @@
   },
   {
    "bar": 17,
+   "page": 1,
+   "system": 3,
+   "x": 494.04,
    "midi": 62,
    "pitch_name": "D4",
    "dia": 1,
@@ -1013,6 +1157,9 @@
   },
   {
    "bar": 17,
+   "page": 1,
+   "system": 3,
+   "x": 523.65,
    "midi": 63,
    "pitch_name": "Eb4",
    "dia": 2,
@@ -1034,6 +1181,9 @@
   },
   {
    "bar": 17,
+   "page": 1,
+   "system": 3,
+   "x": 553.41,
    "midi": 65,
    "pitch_name": "F4",
    "dia": 3,
@@ -1055,6 +1205,9 @@
   },
   {
    "bar": 18,
+   "page": 1,
+   "system": 4,
+   "x": 87.41,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -1076,6 +1229,9 @@
   },
   {
    "bar": 18,
+   "page": 1,
+   "system": 4,
+   "x": 142.53,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -1097,6 +1253,9 @@
   },
   {
    "bar": 19,
+   "page": 1,
+   "system": 4,
+   "x": 205.21,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -1118,6 +1277,9 @@
   },
   {
    "bar": 19,
+   "page": 1,
+   "system": 4,
+   "x": 237.81,
    "midi": 65,
    "pitch_name": "F4",
    "dia": 3,
@@ -1139,6 +1301,9 @@
   },
   {
    "bar": 19,
+   "page": 1,
+   "system": 4,
+   "x": 270.25,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -1160,6 +1325,9 @@
   },
   {
    "bar": 19,
+   "page": 1,
+   "system": 4,
+   "x": 296.39,
    "midi": 65,
    "pitch_name": "F4",
    "dia": 3,
@@ -1181,6 +1349,9 @@
   },
   {
    "bar": 19,
+   "page": 1,
+   "system": 4,
+   "x": 322.54,
    "midi": 63,
    "pitch_name": "Eb4",
    "dia": 2,
@@ -1202,6 +1373,9 @@
   },
   {
    "bar": 20,
+   "page": 1,
+   "system": 4,
+   "x": 356.24,
    "midi": 62,
    "pitch_name": "D4",
    "dia": 1,
@@ -1223,6 +1397,9 @@
   },
   {
    "bar": 21,
+   "page": 1,
+   "system": 4,
+   "x": 439.87,
    "midi": 62,
    "pitch_name": "D4",
    "dia": 1,
@@ -1244,6 +1421,9 @@
   },
   {
    "bar": 21,
+   "page": 1,
+   "system": 4,
+   "x": 504.75,
    "midi": 62,
    "pitch_name": "D4",
    "dia": 1,
@@ -1265,6 +1445,9 @@
   },
   {
    "bar": 21,
+   "page": 1,
+   "system": 4,
+   "x": 530.89,
    "midi": 63,
    "pitch_name": "Eb4",
    "dia": 2,
@@ -1286,6 +1469,9 @@
   },
   {
    "bar": 21,
+   "page": 1,
+   "system": 4,
+   "x": 557.04,
    "midi": 65,
    "pitch_name": "F4",
    "dia": 3,
@@ -1307,6 +1493,9 @@
   },
   {
    "bar": 22,
+   "page": 1,
+   "system": 5,
+   "x": 87.41,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -1328,6 +1517,9 @@
   },
   {
    "bar": 22,
+   "page": 1,
+   "system": 5,
+   "x": 111.66,
    "midi": 65,
    "pitch_name": "F4",
    "dia": 3,
@@ -1349,6 +1541,9 @@
   },
   {
    "bar": 22,
+   "page": 1,
+   "system": 5,
+   "x": 136.07,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -1370,6 +1565,9 @@
   },
   {
    "bar": 22,
+   "page": 1,
+   "system": 5,
+   "x": 160.32,
    "midi": 68,
    "pitch_name": "Ab4",
    "dia": 5,
@@ -1391,6 +1589,9 @@
   },
   {
    "bar": 22,
+   "page": 1,
+   "system": 5,
+   "x": 190.56,
    "midi": 70,
    "pitch_name": "Bb4",
    "dia": 6,
@@ -1412,6 +1613,9 @@
   },
   {
    "bar": 23,
+   "page": 1,
+   "system": 5,
+   "x": 228.36,
    "midi": 72,
    "pitch_name": "C5",
    "dia": 7,
@@ -1433,6 +1637,9 @@
   },
   {
    "bar": 23,
+   "page": 1,
+   "system": 5,
+   "x": 269.15,
    "midi": 72,
    "pitch_name": "C5",
    "dia": 7,
@@ -1454,6 +1661,9 @@
   },
   {
    "bar": 23,
+   "page": 1,
+   "system": 5,
+   "x": 291.04,
    "midi": 72,
    "pitch_name": "C5",
    "dia": 7,
@@ -1475,6 +1685,9 @@
   },
   {
    "bar": 23,
+   "page": 1,
+   "system": 5,
+   "x": 315.29,
    "midi": 72,
    "pitch_name": "C5",
    "dia": 7,
@@ -1496,6 +1709,9 @@
   },
   {
    "bar": 23,
+   "page": 1,
+   "system": 5,
+   "x": 339.55,
    "midi": 72,
    "pitch_name": "C5",
    "dia": 7,
@@ -1517,6 +1733,9 @@
   },
   {
    "bar": 24,
+   "page": 1,
+   "system": 5,
+   "x": 371.52,
    "midi": 72,
    "pitch_name": "C5",
    "dia": 7,
@@ -1538,6 +1757,9 @@
   },
   {
    "bar": 25,
+   "page": 1,
+   "system": 5,
+   "x": 449.79,
    "midi": 72,
    "pitch_name": "C5",
    "dia": 7,
@@ -1559,6 +1781,9 @@
   },
   {
    "bar": 25,
+   "page": 1,
+   "system": 5,
+   "x": 510.26,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -1580,6 +1805,9 @@
   },
   {
    "bar": 25,
+   "page": 1,
+   "system": 5,
+   "x": 534.52,
    "midi": 69,
    "pitch_name": "A4",
    "dia": 5,
@@ -1601,6 +1829,9 @@
   },
   {
    "bar": 25,
+   "page": 1,
+   "system": 5,
+   "x": 558.93,
    "midi": 70,
    "pitch_name": "Bb4",
    "dia": 6,
@@ -1622,6 +1853,9 @@
   },
   {
    "bar": 26,
+   "page": 1,
+   "system": 6,
+   "x": 87.41,
    "midi": 73,
    "pitch_name": "Db5",
    "dia": 8,
@@ -1643,6 +1877,9 @@
   },
   {
    "bar": 26,
+   "page": 1,
+   "system": 6,
+   "x": 142.37,
    "midi": 73,
    "pitch_name": "Db5",
    "dia": 8,
@@ -1664,6 +1901,9 @@
   },
   {
    "bar": 27,
+   "page": 1,
+   "system": 6,
+   "x": 204.89,
    "midi": 74,
    "pitch_name": "D5",
    "dia": 8,
@@ -1685,6 +1925,9 @@
   },
   {
    "bar": 27,
+   "page": 1,
+   "system": 6,
+   "x": 237.34,
    "midi": 72,
    "pitch_name": "C5",
    "dia": 7,
@@ -1706,6 +1949,9 @@
   },
   {
    "bar": 27,
+   "page": 1,
+   "system": 6,
+   "x": 269.78,
    "midi": 69,
    "pitch_name": "A4",
    "dia": 5,
@@ -1727,6 +1973,9 @@
   },
   {
    "bar": 27,
+   "page": 1,
+   "system": 6,
+   "x": 297.18,
    "midi": 72,
    "pitch_name": "C5",
    "dia": 7,
@@ -1748,6 +1997,9 @@
   },
   {
    "bar": 27,
+   "page": 1,
+   "system": 6,
+   "x": 323.17,
    "midi": 70,
    "pitch_name": "Bb4",
    "dia": 6,
@@ -1769,6 +2021,9 @@
   },
   {
    "bar": 28,
+   "page": 1,
+   "system": 6,
+   "x": 356.87,
    "midi": 65,
    "pitch_name": "F4",
    "dia": 3,
@@ -1790,6 +2045,9 @@
   },
   {
    "bar": 29,
+   "page": 1,
+   "system": 6,
+   "x": 440.18,
    "midi": 65,
    "pitch_name": "F4",
    "dia": 3,
@@ -1811,6 +2069,9 @@
   },
   {
    "bar": 29,
+   "page": 1,
+   "system": 6,
+   "x": 472.62,
    "midi": 62,
    "pitch_name": "D4",
    "dia": 1,
@@ -1832,6 +2093,9 @@
   },
   {
    "bar": 29,
+   "page": 1,
+   "system": 6,
+   "x": 505.07,
    "midi": 62,
    "pitch_name": "D4",
    "dia": 1,
@@ -1853,6 +2117,9 @@
   },
   {
    "bar": 29,
+   "page": 1,
+   "system": 6,
+   "x": 531.05,
    "midi": 63,
    "pitch_name": "Eb4",
    "dia": 2,
@@ -1874,6 +2141,9 @@
   },
   {
    "bar": 29,
+   "page": 1,
+   "system": 6,
+   "x": 557.19,
    "midi": 65,
    "pitch_name": "F4",
    "dia": 3,
@@ -1895,6 +2165,9 @@
   },
   {
    "bar": 30,
+   "page": 1,
+   "system": 7,
+   "x": 87.41,
    "midi": 67,
    "pitch_name": "G4",
    "dia": 4,
@@ -1916,6 +2189,9 @@
   },
   {
    "bar": 31,
+   "page": 1,
+   "system": 7,
+   "x": 188.83,
    "midi": 72,
    "pitch_name": "C5",
    "dia": 7,
@@ -1937,6 +2213,9 @@
   },
   {
    "bar": 32,
+   "page": 1,
+   "system": 7,
+   "x": 290.25,
    "midi": 70,
    "pitch_name": "Bb4",
    "dia": 6,
@@ -1958,6 +2237,9 @@
   },
   {
    "bar": 33,
+   "page": 1,
+   "system": 7,
+   "x": 391.67,
    "midi": 70,
    "pitch_name": "Bb4",
    "dia": 6,
@@ -1979,6 +2261,9 @@
   },
   {
    "bar": 33,
+   "page": 1,
+   "system": 7,
+   "x": 471.84,
    "midi": 62,
    "pitch_name": "D4",
    "dia": 1,
@@ -2000,6 +2285,9 @@
   },
   {
    "bar": 33,
+   "page": 1,
+   "system": 7,
+   "x": 504.12,
    "midi": 63,
    "pitch_name": "Eb4",
    "dia": 2,
@@ -2021,6 +2309,9 @@
   },
   {
    "bar": 33,
+   "page": 1,
+   "system": 7,
+   "x": 536.25,
    "midi": 65,
    "pitch_name": "F4",
    "dia": 3,

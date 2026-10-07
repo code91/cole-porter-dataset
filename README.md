@@ -15,9 +15,9 @@ Night and Day,2,69,A4,quarter,1.0,"beat,",False,D,dim,7,1,6
 
 | | |
 |---|---|
-| songs | 14 |
-| note events | 1,978 |
-| syllable-to-note attachment points | 1,695 |
+| songs | 15 |
+| note events | 2,126 |
+| syllable-to-note attachment points | 1,828 |
 | melisma rate | 15.5% |
 
 Transcribed from engraved editions of each song. The source scores are not
@@ -37,11 +37,12 @@ redistributed here.
 | I Concentrate On You | C | 72 | 163 | 141 |
 | I've Got You Under My Skin | Eb | 63 | 200 | 175 |
 | It's All Right With Me | C | 61 | 146 | 124 |
+| Love For Sale | F minor | 64 | 148 | 133 |
 | Night and Day | D | 64 | 233 | 196 |
 | What Is This Thing Called Love | A | 49 | 131 | 117 |
 | You Do Something To Me | Eb | 32 | 64 | 60 |
 | You're The Top | F | 51 | 179 | 146 |
-| **14 songs** | | **671** | **1978** | **1695** |
+| **15 songs** | | **735** | **2,126** | **1,828** |
 
 ## The unit of analysis
 
