@@ -15,10 +15,10 @@ Night and Day,2,69,A4,quarter,1.0,"beat,",False,D,dim,7,1,6
 
 | | |
 |---|---|
-| songs | 19 |
-| note events | 2,624 |
-| syllable-to-note attachment points | 2,284 |
-| melisma rate | 13.0% |
+| songs | 20 |
+| note events | 2,770 |
+| syllable-to-note attachment points | 2,404 |
+| melisma rate | 13.2% |
 
 Every song is by Cole Porter, words and music, bar one that is marked. Transcribed from engraved
 editions of each song. The source scores are not
@@ -39,6 +39,7 @@ redistributed here.
 | I Concentrate On You | C | none known | 72 | 163 | 141 |
 | I've Got You Under My Skin | Eb | none known | 63 | 200 | 174 |
 | It's All Right With Me | C | none known | 61 | 146 | 124 |
+| Just One of Those Things | F | none known | 63 | 146 | 120 |
 | Love For Sale | Bb minor | yes | 84 | 213 | 196 |
 | Night and Day | D | yes | 64 | 233 | 196 |
 | Too Darn Hot | C minor | none known | 22 | 79 | 64 |
@@ -47,7 +48,7 @@ redistributed here.
 | You Do Something To Me | Eb | missing | 32 | 64 | 60 |
 | You'd Be So Nice To Come Home To | F minor | none known | 30 | 76 | 57 |
 | You're The Top | F | yes | 51 | 179 | 146 |
-| **19 songs** | | | **882** | **2,624** | **2,284** |
+| **20 songs** | | | **945** | **2,770** | **2,404** |
 
 Where a song has a verse it is part of the same song, with bars running
 continuously from the verse into the chorus. "missing" means a verse exists in

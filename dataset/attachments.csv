@@ -2494,15 +2494,15 @@ You'd Be So Nice To Come Home To,18,64,E4,,,eighth,0,1,0.5,,,,True,C7,C,7,11,7,4
 You'd Be So Nice To Come Home To,19,65,F4,,,half,0,1,2.0,the,True,False,False,C7,C,7,0,7,5,printed
 You'd Be So Nice To Come Home To,19,60,C4,,,half,0,1,2.0,win,True,False,False,C7,C,7,7,7,0,printed
 You'd Be So Nice To Come Home To,20,60,C4,,,half,0,1,2.0,ter,True,False,False,C7,C,7,7,7,0,printed
-You'd Be So Nice To Come Home To,20,60,C4,,,quarter,0,1,1.0,un,True,False,False,C7,C,7,7,7,0,printed
-You'd Be So Nice To Come Home To,20,61,Db4,,,quarter,0,1,1.0,der,True,False,False,C7,C,7,8,7,1,printed
-You'd Be So Nice To Come Home To,20,63,Eb4,,,quarter,0,1,1.0,an,True,False,False,C7,C,7,10,7,3,printed
+You'd Be So Nice To Come Home To,20,60,C4,,,quarter,0,3,0.66667,un,True,False,False,C7,C,7,7,7,0,printed
+You'd Be So Nice To Come Home To,20,61,Db4,,,quarter,0,3,0.66667,der,True,False,False,C7,C,7,8,7,1,printed
+You'd Be So Nice To Come Home To,20,63,Eb4,,,quarter,0,3,0.66667,an,True,False,False,C7,C,7,10,7,3,printed
 You'd Be So Nice To Come Home To,21,65,F4,,,quarter,0,1,1.0,Aug,True,False,False,C7,C,7,0,7,5,printed
 You'd Be So Nice To Come Home To,21,68,Ab4,,,quarter,0,1,1.0,ust,True,False,False,C7,C,7,3,7,8,printed
 You'd Be So Nice To Come Home To,21,65,F4,,,half,0,1,2.0,"moon,",True,False,False,C7,C,7,0,7,5,printed
-You'd Be So Nice To Come Home To,22,63,Eb4,,,half,0,1,2.0,burn,True,False,False,C7,C,7,10,7,3,printed
-You'd Be So Nice To Come Home To,22,63,Eb4,,,eighth,0,1,0.5,,,,True,C7,C,7,10,7,3,printed
-You'd Be So Nice To Come Home To,22,60,C4,,,quarter,0,1,1.0,ing,True,False,False,C7,C,7,7,7,0,printed
+You'd Be So Nice To Come Home To,22,63,Eb4,,,half,0,7,1.14286,burn,True,False,False,C7,C,7,10,7,3,printed
+You'd Be So Nice To Come Home To,22,63,Eb4,,,eighth,0,7,0.28571,,,,True,C7,C,7,10,7,3,printed
+You'd Be So Nice To Come Home To,22,60,C4,,,quarter,0,7,0.57143,ing,True,False,False,C7,C,7,7,7,0,printed
 You'd Be So Nice To Come Home To,22,56,Ab3,,,eighth,0,1,0.5,a,True,False,False,C7,C,7,3,7,8,printed
 You'd Be So Nice To Come Home To,23,58,Bb3,,,half,0,1,2.0,,,,True,C7,C,7,5,7,10,printed
 You'd Be So Nice To Come Home To,23,60,C4,,,quarter,0,1,1.0,You'd,True,False,False,C7,C,7,7,7,0,printed
@@ -2623,3 +2623,149 @@ You'd Be So Nice To Come Home To,30,68,Ab4,,,half,0,1,2.0,love.,True,False,False
 "Well, Did You Evah!",34,67,G4,4,0,quarter,0,1,1.0,par,True,False,False,G7,G,7,2,2,0,printed
 "Well, Did You Evah!",34,65,F4,3,0,eighth,0,1,0.5,ty,True,False,False,G7,G,7,0,2,10,printed
 "Well, Did You Evah!",34,67,G4,4,0,quarter,0,1,1.0,this,True,False,False,C7,C,7,2,7,7,printed
+Just One of Those Things,1,58,Bb3,-1,-1,quarter,0,1,1.0,It,True,False,False,,,,5,,,printed
+Just One of Those Things,1,57,A3,-2,0,quarter,0,1,1.0,was,True,False,False,,,,4,,,printed
+Just One of Those Things,2,69,A4,5,0,half,0,1,2.0,just,True,False,False,Dm,D,m,4,9,7,printed
+Just One of Those Things,2,69,A4,5,0,quarter,0,1,1.0,one,True,False,False,Dm,D,m,4,9,7,printed
+Just One of Those Things,3,69,A4,5,0,quarter,0,1,1.0,,,,True,Dm,D,m,4,9,7,printed
+Just One of Those Things,3,68,G#4,4,1,quarter,0,1,1.0,of,True,False,False,Dm,D,m,3,9,6,printed
+Just One of Those Things,3,69,A4,5,0,half,0,1,2.0,those,True,False,False,Dm,D,m,4,9,7,printed
+Just One of Those Things,4,69,A4,5,0,whole,0,1,4.0,"things,",True,False,False,A/C#,A,/C#,4,4,0,printed
+Just One of Those Things,5,69,A4,5,0,half,1,1,3.0,,,,True,A,A,,4,4,0,printed
+Just One of Those Things,6,69,A4,5,0,half,0,1,2.0,Just,True,False,False,F7,F,7,4,0,4,printed
+Just One of Those Things,6,69,A4,5,0,quarter,0,1,1.0,one,True,False,False,F7,F,7,4,0,4,printed
+Just One of Those Things,7,69,A4,5,0,quarter,0,1,1.0,,,,True,F7,F,7,4,0,4,printed
+Just One of Those Things,7,68,G#4,4,1,quarter,0,1,1.0,of,True,False,False,F7,F,7,3,0,3,printed
+Just One of Those Things,7,69,A4,5,0,half,0,1,2.0,those,True,False,False,F7,F,7,4,0,4,printed
+Just One of Those Things,8,69,A4,5,0,half,0,1,2.0,cra,True,True,False,Bm7b5,B,m7b5,4,6,10,printed
+Just One of Those Things,8,69,A4,5,0,quarter,0,1,1.0,zy,False,False,False,Bm7b5,B,m7b5,4,6,10,printed
+Just One of Those Things,8,67,G4,4,0,quarter,0,1,1.0,flings.,True,False,False,Bm7b5,B,m7b5,2,6,8,printed
+Just One of Those Things,9,67,G4,4,0,whole,0,1,4.0,,,,True,Bbdim7,Bb,dim7,2,5,9,printed
+Just One of Those Things,10,67,G4,4,0,quarter,0,1,1.0,One,True,False,False,F/A,F,/A,2,0,2,printed
+Just One of Those Things,10,64,E4,2,0,quarter,0,1,1.0,of,True,False,False,F/A,F,/A,11,0,11,printed
+Just One of Those Things,10,65,F4,3,0,half,0,1,2.0,those,True,False,False,F/A,F,/A,0,0,0,printed
+Just One of Those Things,11,72,C5,7,0,half,1,1,3.0,bells,True,False,False,Fm/Ab,F,m/Ab,7,0,7,printed
+Just One of Those Things,11,65,F4,3,0,quarter,0,1,1.0,that,True,False,False,Fm/Ab,F,m/Ab,0,0,0,printed
+Just One of Those Things,12,65,F4,3,0,quarter,0,1,1.0,now,True,False,False,Gm7,G,m7,0,2,10,printed
+Just One of Those Things,12,62,D4,1,0,quarter,0,1,1.0,and,True,False,False,Gm7,G,m7,9,2,7,printed
+Just One of Those Things,12,65,F4,3,0,half,0,1,2.0,then,True,False,False,Gm7,G,m7,0,2,10,printed
+Just One of Those Things,13,64,E4,2,0,whole,0,1,4.0,"rings,",True,False,False,C7,C,7,11,7,4,printed
+Just One of Those Things,14,62,D4,1,0,half,0,1,2.0,Just,True,False,False,F,F,,9,0,9,printed
+Just One of Those Things,14,62,D4,1,0,quarter,0,1,1.0,one,True,False,False,F,F,,9,0,9,printed
+Just One of Those Things,15,62,D4,1,0,quarter,0,1,1.0,,,,True,F#dim7,F#,dim7,9,1,8,printed
+Just One of Those Things,15,61,C#4,0,1,quarter,0,1,1.0,of,True,False,False,F#dim7,F#,dim7,8,1,7,printed
+Just One of Those Things,15,62,D4,1,0,half,0,1,2.0,those,True,False,False,F#dim7,F#,dim7,9,1,8,printed
+Just One of Those Things,16,60,C4,0,0,whole,0,1,4.0,things.,True,False,False,C7,C,7,7,7,0,printed
+Just One of Those Things,17,60,C4,0,0,half,0,1,2.0,,,,True,C7,C,7,7,7,0,printed
+Just One of Those Things,17,58,Bb3,-1,-1,quarter,0,1,1.0,It,True,False,False,A7,A,7,5,4,1,printed
+Just One of Those Things,17,57,A3,-2,0,quarter,0,1,1.0,was,True,False,False,A7,A,7,4,4,0,printed
+Just One of Those Things,18,68,Ab4,5,-1,half,0,1,2.0,just,True,False,False,Dm,D,m,3,9,6,printed
+Just One of Those Things,18,68,Ab4,5,-1,quarter,0,1,1.0,one,True,False,False,Dm,D,m,3,9,6,printed
+Just One of Those Things,19,69,A4,5,0,quarter,0,1,1.0,,,,True,Dm,D,m,4,9,7,printed
+Just One of Those Things,19,68,G#4,4,1,quarter,0,1,1.0,of,True,False,False,Dm,D,m,3,9,6,printed
+Just One of Those Things,19,69,A4,5,0,half,0,1,2.0,those,True,False,False,Dm,D,m,4,9,7,printed
+Just One of Those Things,20,69,A4,5,0,whole,0,1,4.0,"nights,",True,False,False,A/C#,A,/C#,4,4,0,printed
+Just One of Those Things,21,69,A4,5,0,half,1,1,3.0,,,,True,A,A,,4,4,0,printed
+Just One of Those Things,22,69,A4,5,0,half,0,1,2.0,Just,True,False,False,F7,F,7,4,0,4,printed
+Just One of Those Things,22,69,A4,5,0,quarter,0,1,1.0,one,True,False,False,F7,F,7,4,0,4,printed
+Just One of Those Things,23,69,A4,5,0,quarter,0,1,1.0,,,,True,F7,F,7,4,0,4,printed
+Just One of Those Things,23,68,G#4,4,1,quarter,0,1,1.0,of,True,False,False,F7,F,7,3,0,3,printed
+Just One of Those Things,23,69,A4,5,0,half,0,1,2.0,those,True,False,False,F7,F,7,4,0,4,printed
+Just One of Those Things,24,68,Ab4,5,-1,quarter,0,1,1.0,fab,True,True,False,Bm7b5,B,m7b5,3,6,9,printed
+Just One of Those Things,24,68,G#4,4,1,quarter,0,1,1.0,u,False,True,False,Bm7b5,B,m7b5,3,6,9,printed
+Just One of Those Things,24,68,Ab4,5,-1,half,0,1,2.0,lous,False,False,False,Bm7b5,B,m7b5,3,6,9,printed
+Just One of Those Things,25,67,G4,4,0,half,1,1,3.0,"flights,",True,False,False,Bbdim7,Bb,dim7,2,5,9,printed
+Just One of Those Things,25,64,E4,2,0,quarter,0,1,1.0,A,True,False,False,Bbdim7,Bb,dim7,11,5,6,printed
+Just One of Those Things,26,67,G4,4,0,half,0,3,1.33333,trip,True,False,False,F/A,F,/A,2,0,2,printed
+Just One of Those Things,26,64,E4,2,0,half,0,3,1.33333,to,True,False,False,F/A,F,/A,11,0,11,printed
+Just One of Those Things,26,65,F4,3,0,half,0,3,1.33333,the,True,False,False,F/A,F,/A,0,0,0,printed
+Just One of Those Things,27,74,D5,8,0,half,1,1,3.0,moon,True,False,False,G#dim7,G#,dim7,9,3,6,printed
+Just One of Those Things,27,72,C5,7,0,quarter,0,1,1.0,on,True,False,False,F/A,F,/A,7,0,7,printed
+Just One of Those Things,28,65,F4,3,0,half,0,3,1.33333,gos,True,True,False,Gm7,G,m7,0,2,10,printed
+Just One of Those Things,28,62,D4,1,0,half,0,3,1.33333,sa,False,True,False,Gm7,G,m7,9,2,7,printed
+Just One of Those Things,28,65,F4,3,0,half,0,3,1.33333,mer,False,False,False,Gm7,G,m7,0,2,10,printed
+Just One of Those Things,29,64,E4,2,0,whole,0,1,4.0,"wings,",True,False,False,C7,C,7,11,7,4,printed
+Just One of Those Things,30,62,D4,1,0,half,0,1,2.0,Just,True,False,False,F,F,,9,0,9,printed
+Just One of Those Things,30,62,D4,1,0,quarter,0,1,1.0,one,True,False,False,F,F,,9,0,9,printed
+Just One of Those Things,31,62,D4,1,0,quarter,0,1,1.0,,,,True,F#dim7,F#,dim7,9,1,8,printed
+Just One of Those Things,31,61,C#4,0,1,quarter,0,1,1.0,of,True,False,False,F#dim7,F#,dim7,8,1,7,printed
+Just One of Those Things,31,62,D4,1,0,half,0,1,2.0,those,True,False,False,F#dim7,F#,dim7,9,1,8,printed
+Just One of Those Things,32,60,C4,0,0,whole,0,1,4.0,things.,True,False,False,Fm7,F,m7,7,0,7,printed
+Just One of Those Things,33,60,C4,0,0,quarter,0,1,1.0,,,,True,Fm7/Bb,F,m7/Bb,7,0,7,printed
+Just One of Those Things,33,60,C4,0,0,half,0,1,2.0,If,True,False,False,Fm7/Bb,F,m7/Bb,7,0,7,printed
+Just One of Those Things,33,58,Bb3,-1,-1,quarter,0,1,1.0,we’d,True,False,False,Bb7,Bb,7,5,5,0,printed
+Just One of Those Things,34,67,G4,4,0,half,0,1,2.0,thought,True,False,False,Eb,Eb,,2,10,4,printed
+Just One of Those Things,34,67,G4,4,0,quarter,0,1,1.0,a,True,False,False,Eb,Eb,,2,10,4,printed
+Just One of Those Things,34,67,G4,4,0,quarter,0,1,1.0,bit,True,False,False,Eb,Eb,,2,10,4,printed
+Just One of Those Things,35,67,G4,4,0,quarter,0,1,1.0,,,,True,Eb,Eb,,2,10,4,printed
+Just One of Those Things,35,66,F#4,3,1,half,0,1,2.0,of,True,False,False,Eb,Eb,,1,10,3,printed
+Just One of Those Things,35,67,G4,4,0,quarter,0,1,1.0,the,True,False,False,Eb,Eb,,2,10,4,printed
+Just One of Those Things,36,71,Cb5,7,-1,half,0,1,2.0,end,True,False,False,Bb7,Bb,7,6,5,1,printed
+Just One of Those Things,36,71,Cb5,7,-1,quarter,0,1,1.0,of,True,False,False,Bb7,Bb,7,6,5,1,printed
+Just One of Those Things,36,71,Cb5,7,-1,quarter,0,1,1.0,it,True,False,False,Bb7,Bb,7,6,5,1,printed
+Just One of Those Things,37,72,C5,7,0,quarter,0,1,1.0,,,,True,Bb7,Bb,7,7,5,2,printed
+Just One of Those Things,37,71,B4,6,0,half,0,1,2.0,when,True,False,False,Bb7,Bb,7,6,5,1,printed
+Just One of Those Things,37,70,Bb4,6,-1,quarter,0,1,1.0,we,True,False,False,Bb7,Bb,7,5,5,0,printed
+Just One of Those Things,38,60,C4,0,0,half,0,1,2.0,start,True,True,False,Eb,Eb,,7,10,9,printed
+Just One of Those Things,38,62,D4,1,0,quarter,0,1,1.0,ed,False,False,False,Eb,Eb,,9,10,11,printed
+Just One of Those Things,38,63,Eb4,2,-1,quarter,0,1,1.0,paint,True,True,False,Eb,Eb,,10,10,0,printed
+Just One of Those Things,39,64,E4,2,0,quarter,0,1,1.0,,,,True,Eb,Eb,,11,10,1,printed
+Just One of Those Things,39,65,F4,3,0,half,0,1,2.0,ing,False,False,False,Eb,Eb,,0,10,2,printed
+Just One of Those Things,39,66,F#4,3,1,quarter,0,1,1.0,the,True,False,False,Eb,Eb,,1,10,3,printed
+Just One of Those Things,40,67,G4,4,0,whole,0,1,4.0,"town,",True,False,False,G7,G,7,2,2,0,printed
+Just One of Those Things,41,67,G4,4,0,half,0,1,2.0,,,,True,G7,G,7,2,2,0,printed
+Just One of Those Things,41,67,G4,4,0,quarter,0,1,1.0,We’d,True,False,False,G7,G,7,2,2,0,printed
+Just One of Those Things,41,68,G#4,4,1,quarter,0,1,1.0,have,True,False,False,G7,G,7,3,2,1,printed
+Just One of Those Things,42,68,Ab4,5,-1,half,0,1,2.0,been,True,False,False,C6,C,6,3,7,8,printed
+Just One of Those Things,42,68,Ab4,5,-1,quarter,0,1,1.0,a,True,True,False,C6,C,6,3,7,8,printed
+Just One of Those Things,42,68,Ab4,5,-1,quarter,0,1,1.0,ware,False,False,False,C6,C,6,3,7,8,printed
+Just One of Those Things,43,69,A4,5,0,quarter,0,1,1.0,,,,True,C6,C,6,4,7,9,printed
+Just One of Those Things,43,68,G#4,4,1,half,0,1,2.0,That,True,False,False,C6,C,6,3,7,8,printed
+Just One of Those Things,43,69,A4,5,0,quarter,0,1,1.0,our,True,False,False,C6,C,6,4,7,9,printed
+Just One of Those Things,44,76,E5,9,0,half,0,1,2.0,love,True,False,False,F#m7b5,F#,m7b5,11,1,10,printed
+Just One of Those Things,44,76,E5,9,0,quarter,0,1,1.0,af,True,True,False,F#m7b5,F#,m7b5,11,1,10,printed
+Just One of Those Things,44,76,E5,9,0,quarter,0,1,1.0,fair,False,False,False,F#m7b5,F#,m7b5,11,1,10,printed
+Just One of Those Things,45,76,E5,9,0,quarter,0,1,1.0,,,,True,Fm7,F,m7,11,0,11,printed
+Just One of Those Things,45,75,Eb5,9,-1,half,0,1,2.0,Was,True,False,False,Fm7,F,m7,10,0,10,printed
+Just One of Those Things,45,74,D5,8,0,quarter,0,1,1.0,too,True,False,False,Fm7,F,m7,9,0,9,printed
+Just One of Those Things,46,74,D5,8,0,half,0,1,2.0,hot,True,False,False,Em7,E,m7,9,11,10,printed
+Just One of Those Things,46,74,D5,8,0,quarter,0,1,1.0,not,True,False,False,Em7,E,m7,9,11,10,printed
+Just One of Those Things,47,74,D5,8,0,quarter,0,1,1.0,,,,True,Ebdim7,Eb,dim7,9,10,11,printed
+Just One of Those Things,47,72,C5,7,0,quarter,0,1,1.0,to,True,False,False,Ebdim7,Eb,dim7,7,10,9,printed
+Just One of Those Things,47,69,A4,5,0,half,0,1,2.0,cool,True,False,False,Ebdim7,Eb,dim7,4,10,6,printed
+Just One of Those Things,48,71,Cb5,7,-1,whole,0,1,4.0,down.,True,False,False,C6/E,C,6/E,6,7,11,printed
+Just One of Those Things,49,72,C5,7,0,half,0,1,2.0,,,,True,C6/E,C,6/E,7,7,0,printed
+Just One of Those Things,49,70,Bb4,6,-1,quarter,0,1,1.0,So,True,False,False,A7,A,7,5,4,1,printed
+Just One of Those Things,49,69,A4,5,0,quarter,0,1,1.0,good,True,True,False,A7,A,7,4,4,0,printed
+Just One of Those Things,50,69,A4,5,0,half,0,1,2.0,"bye,",False,False,False,Dm,D,m,4,9,7,printed
+Just One of Those Things,50,69,A4,5,0,quarter,0,1,1.0,"dear,",True,False,False,Dm,D,m,4,9,7,printed
+Just One of Those Things,51,69,A4,5,0,quarter,0,1,1.0,,,,True,Dm,D,m,4,9,7,printed
+Just One of Those Things,51,68,G#4,4,1,quarter,0,1,1.0,and,True,False,False,Dm,D,m,3,9,6,printed
+Just One of Those Things,51,69,A4,5,0,half,0,1,2.0,a,True,True,False,Dm,D,m,4,9,7,printed
+Just One of Those Things,52,69,A4,5,0,whole,0,1,4.0,"men,",False,False,False,A/C#,A,/C#,4,4,0,printed
+Just One of Those Things,53,69,A4,5,0,half,1,1,3.0,,,,True,A,A,,4,4,0,printed
+Just One of Those Things,54,68,Ab4,5,-1,half,0,1,2.0,Here’s,True,False,False,F7,F,7,3,0,3,printed
+Just One of Those Things,54,77,F5,10,0,quarter,0,1,1.0,hop,True,True,False,F7,F,7,0,0,0,printed
+Just One of Those Things,55,77,F5,10,0,quarter,0,1,1.0,,,,True,F7,F,7,0,0,0,printed
+Just One of Those Things,55,74,D5,8,0,half,0,1,2.0,ing,False,False,False,F7,F,7,9,0,9,printed
+Just One of Those Things,55,72,C5,7,0,quarter,0,1,1.0,we,True,False,False,F7,F,7,7,0,7,printed
+Just One of Those Things,56,69,A4,5,0,quarter,0,1,1.0,meet,True,False,False,Bb,Bb,,4,5,11,printed
+Just One of Those Things,56,68,G#4,4,1,quarter,0,1,1.0,now,True,False,False,Bb,Bb,,3,5,10,printed
+Just One of Those Things,56,69,A4,5,0,quarter,0,1,1.0,and,True,False,False,Bb,Bb,,4,5,11,printed
+Just One of Those Things,56,67,G4,4,0,quarter,0,1,1.0,then.,True,False,False,Bb,Bb,,2,5,9,printed
+Just One of Those Things,57,67,G4,4,0,half,0,1,2.0,,,,True,Bb,Bb,,2,5,9,printed
+Just One of Those Things,57,66,F#4,3,1,quarter,0,1,1.0,It,True,False,False,Bb,Bb,,1,5,8,printed
+Just One of Those Things,57,67,G4,4,0,quarter,0,1,1.0,was,True,False,False,Bb,Bb,,2,5,9,printed
+Just One of Those Things,58,76,E5,9,0,half,0,1,2.0,great,True,False,False,C6,C,6,11,7,4,printed
+Just One of Those Things,58,74,D5,8,0,quarter,0,1,1.0,"fun,",True,False,False,C6,C,6,9,7,2,printed
+Just One of Those Things,59,74,D5,8,0,quarter,0,1,1.0,,,,True,D7,D,7,9,9,0,printed
+Just One of Those Things,59,62,D4,1,0,quarter,0,1,1.0,but,True,False,False,D7,D,7,9,9,0,printed
+Just One of Those Things,59,61,C#4,0,1,quarter,0,1,1.0,it,True,False,False,D7,D,7,8,9,11,printed
+Just One of Those Things,59,62,D4,1,0,quarter,0,1,1.0,was,True,False,False,D7,D,7,9,9,0,printed
+Just One of Those Things,60,72,C5,7,0,half,0,1,2.0,just,True,False,False,Cm6/G,C,m6/G,7,7,0,printed
+Just One of Those Things,60,70,Bb4,6,-1,quarter,0,1,1.0,one,True,False,False,Gm,G,m,5,2,3,printed
+Just One of Those Things,61,70,Bb4,6,-1,quarter,0,1,1.0,,,,True,Gm/C,G,m/C,5,2,3,printed
+Just One of Those Things,61,67,G4,4,0,quarter,0,1,1.0,of,True,False,False,Gm/C,G,m/C,2,2,0,printed
+Just One of Those Things,61,69,A4,5,0,half,0,1,2.0,those,True,False,False,C7,C,7,4,7,9,printed
+Just One of Those Things,62,65,F4,3,0,whole,0,1,4.0,things.,True,False,False,F,F,,0,0,0,printed
+Just One of Those Things,63,65,F4,3,0,whole,0,1,4.0,,,,True,F,F,,0,0,0,printed
